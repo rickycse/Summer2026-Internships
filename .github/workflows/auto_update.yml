@@ -1,0 +1,31 @@
+name: Auto Update Fork
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  sync_with_upstream:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          ref: 'upstream'
+          persist-credentials: false
+        
+      - name: Pull upstream changes
+        id: sync
+        uses: aormsby/Fork-Sync-With-Upstream-action@v2.1
+        with:
+          upstream_repository: /vanshb03/Summer2026-Internships
+          upstream_branch: dev
+          target_branch: upstream
+      
+      - name: Check for new commits
+        if: steps.sync.outputs.has_new_commits
+        run: echo "There were new commits in the upstream repository."
+
+      - name: Timestamp
+        run: date
