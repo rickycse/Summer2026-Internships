@@ -39,23 +39,19 @@ jobs:
           git merge upstream/dev
           git push origin dev
 
-      # - name: Install dependencies
-      #   run: |
-      #     sudo apt-get update
-      #     sudo apt-get install -y python3 python3-pip
-      #     pip3 install -r requirements.txt
-
-      # - name: Update MongoDB
-      #   env:
-      #     MONGO_URI: ${{ secrets.MONGO_URI }}
-      #     MONGO_DB: ${{ secrets.MONGO_DB }}
-      #     MONGO_COLLECTION: ${{ secrets.MONGO_COLLECTION }}  
-      #   run: |
-      #       python3 .github/scripts/update_mongo.py
-
-      - name: Testing Secrets
+      - name: Install dependencies
         run: |
-          echo "MONGO_COLLECTION: ${{ secrets.MONGO_COLLECTION }}"
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip
+          pip3 install -r requirements.txt
+
+      - name: Update MongoDB
+        env:
+          MONGO_URI: ${{ secrets.MONGO_URI }}
+          MONGO_DB: ${{ secrets.MONGO_DB }}
+          MONGO_COLLECTION: ${{ secrets.MONGO_COLLECTION }}  
+        run: |
+            python3 .github/scripts/update_mongo.py
 
       - name: Clean up
         run: |
