@@ -2,6 +2,9 @@ import os
 import json
 from datetime import datetime
 from pymongo import MongoClient, UpdateOne
+from dotenv import load_dotenv
+
+load_dotenv()
 
 with open('.github/scripts/listings.json') as f:
     listings = json.load(f)
