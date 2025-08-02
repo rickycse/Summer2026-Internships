@@ -6,9 +6,9 @@ from pymongo import MongoClient, UpdateOne
 with open('.github/scripts/listings.json') as f:
     listings = json.load(f)
 
-mongo_uri = os.environ["MONGO_URI"]
-db_name = os.environ["MONGO_DB"]
-collection_name = os.environ["MONGO_COLLECTION"]
+mongo_uri = os.getenv("MONGO_URI")
+db_name = os.getenv("MONGO_DB")
+collection_name = os.getenv("MONGO_COLLECTION")
 
 requests = []
 for job in listings:
