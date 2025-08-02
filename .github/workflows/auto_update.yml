@@ -1,9 +1,15 @@
 name: Auto Update Fork
 
 on:
+  push:
+    branches:
+      - dev
   schedule:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync_with_upstream:
@@ -12,20 +18,27 @@ jobs:
       - name: Checkout fork
         uses: actions/checkout@v4
         with:
-          ref: 'upstream'
-          persist-credentials: false
-        
-      - name: Pull upstream changes
-        id: sync
-        uses: aormsby/Fork-Sync-With-Upstream-action@v2.1
-        with:
-          upstream_repository: /vanshb03/Summer2026-Internships
-          upstream_branch: dev
-          target_branch: upstream
+          repository: rickycse/Summer2026-Internships
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       
-      - name: Check for new commits
-        if: steps.sync.outputs.has_new_commits
-        run: echo "There were new commits in the upstream repository."
+      - name: Add upstream remote
+        run: |
+          git remote add upstream https://github.com/vanshb03/Summer2026-Internships.git
+          git fetch upstream
+      
+      - name: Set up Git user
+        run: |
+          git config --global user.name "Github Action"
+          git config --global user.email "actions@github.com"
 
-      - name: Timestamp
-        run: date
+      - name: Merge upstream changes
+        run: |
+          git fetch upstream dev
+          git checkout -B dev origin/dev
+          git merge upstream/dev
+          git push origin dev
+
+      - name: Clean up
+        run: |
+          git remote remove upstream
