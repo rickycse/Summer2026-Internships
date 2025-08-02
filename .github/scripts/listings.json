@@ -6579,5 +6579,99 @@
         "date_posted": 1753974000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754002571,
+        "url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&gh_src=cb2018976us",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AppLovin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "nchalla3",
+        "id": "a76bd7f1-29f3-46cd-b88f-588dadea328d",
+        "date_posted": 1754002571,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754002635,
+        "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Baseten",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "6c9d25bd-9dff-4757-99fe-3215f057acee",
+        "date_posted": 1754002635,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754043550,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Mobile Developer Intern (AI / ML)",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "66811fb9-d13e-4318-bb2a-21f277bcda7b",
+        "date_posted": 1754043550,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754081717,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210650080",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY, United States  Palo Alto, CA",
+            "Plano, TX",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "JPMorgan Chase",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "68c53e06-f656-46fd-ade3-e1951ca0db0a",
+        "date_posted": 1754081717,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754083907,
+        "url": "https://jobs.ashbyhq.com/sentry/a5ce699d-b1a8-4b93-9217-33d16d77ccd6",
+        "locations": [
+            "San Francisco, California"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sentry",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "jaximus808",
+        "id": "12057397-7ab3-4242-a747-d8295ebf39ec",
+        "date_posted": 1754083907,
+        "company_url": "",
+        "is_visible": true
     }
 ]
