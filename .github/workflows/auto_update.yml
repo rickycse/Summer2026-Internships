@@ -39,6 +39,14 @@ jobs:
           git merge upstream/dev
           git push origin dev
 
+      - name: Update MongoDB
+        env:
+          MONGO_URI: ${{ secrets.MONGO_URI }}
+          MONGO_DB: ${{ secrets.MONGO_DB }}
+          MONGO_COLLECTION: ${{ secrets.MONGO_COLLECTION }}  
+        run: |
+            python3 .github/scripts/update_mongo.py
+
       - name: Clean up
         run: |
           git remote remove upstream
