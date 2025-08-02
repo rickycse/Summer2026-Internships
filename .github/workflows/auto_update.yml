@@ -53,6 +53,10 @@ jobs:
         run: |
             python3 .github/scripts/update_mongo.py
 
+      - name: Testing Secrets
+        run: |
+          echo "MONGO_COLLECTION: $MONGO_COLLECTION"
+
       - name: Clean up
         run: |
           git remote remove upstream
