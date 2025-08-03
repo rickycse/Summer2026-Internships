@@ -18,6 +18,9 @@ for job in listings:
     filter_ = {"id": job["id"]}
     job["applied"] = False
     job["date_posted_str"] = datetime.fromtimestamp(job["date_posted"]).strftime('%b %d')
+    # Don't update inactive jobs
+    if not job["active"]:
+        continue
     requests.append(UpdateOne(filter_, {"$set": job}, upsert=True))
 
 client = MongoClient(mongo_uri)
