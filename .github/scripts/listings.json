@@ -3294,13 +3294,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253777,
+        "date_updated": 1754209247,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565278006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Technology Intern",
         "season": "Summer",
@@ -3311,13 +3311,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253794,
+        "date_updated": 1754209246,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565276006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Risk Quant Research Intern",
         "season": "Summer",
@@ -3362,13 +3362,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253848,
+        "date_updated": 1754209246,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4572985006",
         "locations": [
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Equity Volatility Quant Researcher Intern",
         "season": "Summer",
@@ -5246,7 +5246,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753214983,
+        "date_updated": 1754209247,
         "url": "https://boards.greenhouse.io/embed/job_app?token=4501189007",
         "locations": [
             "Austin, TX",
@@ -5254,7 +5254,7 @@
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Software Intern - AI Compilers",
         "season": "Summer",
@@ -5388,13 +5388,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753227780,
+        "date_updated": 1754209269,
         "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
         "locations": [
             "Pullman, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schweitzer Engineering Laboratories (SEL)",
         "title": "Software Application Engineer Intern",
         "source": "vanshb03",
@@ -6287,14 +6287,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753906377,
+        "date_updated": 1754209289,
         "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780",
         "locations": [
             "Pittsburgh, PA",
             "Tysons, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PNC",
         "title": "Quantitative Analytics Intern",
         "source": "vanshb03",
@@ -6673,5 +6673,260 @@
         "date_posted": 1754083907,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754173839,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648143?fbclid=PAZXh0bgNhZW0CMTEAAafs8h7ZW-wLDtcZKkJDqEFaZ969cXoLf1DOLz_z143P1j_0TvRk8lT9hD-5BA_aem_eKYVJjFyiwkfX46J6xkMgA",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JP Morgan Chase",
+        "title": "2025 Code For Good Hackathon",
+        "season": "Fall",
+        "source": "RobertP2705",
+        "id": "9b9d87d1-69da-4aa9-b477-a4b33e9f6138",
+        "date_posted": 1754173839,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754173868,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005?gh_src=5734qado5us",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Commodities",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "ashah1002",
+        "id": "6a02e37e-e05b-458b-a1ac-4ae1eedd0d53",
+        "date_posted": 1754173868,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754173898,
+        "url": "http://altruist.com/join-altruist/?gh_jid=5601833004",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altruist",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "e8488aa3-8bf9-469e-8822-78f5c4ff5cf3",
+        "date_posted": 1754173898,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754190420,
+        "url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, Frontend",
+        "source": "vanshb03",
+        "id": "90757837-1325-4af3-b1f7-67fe9c0795df",
+        "date_posted": 1754190420,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754190427,
+        "url": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, Backend",
+        "source": "vanshb03",
+        "id": "1d17f338-16c9-436a-b814-4f277adc6197",
+        "date_posted": 1754190427,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754198208,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2026_R40546-1",
+        "locations": [
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a6f23c2d-f3e7-420b-b7fd-496d74251c89",
+        "date_posted": 1754198208,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754198417,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/IT-Intern-Summer-2026_R40583-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "c4f2c4e8-221f-4cfe-804b-b8cb6f983337",
+        "date_posted": 1754198417,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754198425,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/R-D-Engineering-Intern---Summer-2026_R40521-1",
+        "locations": [
+            "Minneapolis, MN",
+            "Tempe, AZ",
+            "Santa Rosa, CA",
+            "Lafayette, CO",
+            "Boulder, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "R&D Engineering Intern",
+        "source": "vanshb03",
+        "id": "286bf14c-5271-45ea-bfc8-1c0aae3f036f",
+        "date_posted": 1754198425,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754199924,
+        "url": "https://www.tesla.com/careers/search/job/247304",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Factory Software",
+        "source": "vanshb03",
+        "id": "9a27f31f-3e0b-43ff-a340-e115b25375a9",
+        "date_posted": 1754199924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754199929,
+        "url": "https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Brooklyn Park, MN",
+            "Elgin, IL",
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Automation Development & Tooling Engineer Intern",
+        "source": "vanshb03",
+        "id": "9256bd41-01d4-484f-94a3-eda4709d9de6",
+        "date_posted": 1754199929,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754199933,
+        "url": "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
+        "source": "vanshb03",
+        "id": "19e7cd23-5523-47d5-a0e3-fa819636bf40",
+        "date_posted": 1754199933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754199945,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003?gh_src=9yscuffh3us",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPR",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5753e9a7-4178-4400-bc3f-56d8c37e7711",
+        "date_posted": 1754199945,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754199951,
+        "url": "https://lifeattiktok.com/search/7533388869200333074?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Data Ecosystem",
+        "source": "vanshb03",
+        "id": "6d037d93-2eaa-46bb-88c3-0fe6781aee6e",
+        "date_posted": 1754199951,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754199957,
+        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Otis",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "60684a51-3af0-47d3-be1b-55e947f011b5",
+        "date_posted": 1754199957,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
