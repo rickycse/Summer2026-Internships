@@ -6928,5 +6928,264 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754312235,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Technology Internship Program",
+        "source": "vanshb03",
+        "id": "d8056f74-ba45-438e-b87b-b544aaf18d68",
+        "date_posted": 1754312235,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754312548,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
+        "locations": [
+            "McLean, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "0893ca28-50ba-4e16-9495-7b6371aabaa8",
+        "date_posted": 1754312548,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754341908,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Software Engineer Intern, Front-End, PMS",
+        "source": "vanshb03",
+        "id": "d5173867-c725-43a1-be6e-0feaad64e8b9",
+        "date_posted": 1754341908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754341947,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Software Engineer Intern, Backend, PMS",
+        "source": "vanshb03",
+        "id": "8f45414e-c55c-4ce8-8683-9a2a8481941e",
+        "date_posted": 1754341947,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754341952,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Software Engineer Intern, Backend, Dealer",
+        "source": "vanshb03",
+        "id": "25502da7-825e-430a-ad3e-93f4999a8799",
+        "date_posted": 1754341952,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754341994,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Quantitative Analyst Intern",
+        "source": "vanshb03",
+        "id": "8069d3ec-6830-4121-baf1-3e4446d6f0fe",
+        "date_posted": 1754341994,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342028,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Group",
+        "title": "Software Development Intern, DV Commodities",
+        "source": "vanshb03",
+        "id": "1c4b2d63-4819-4ea5-8731-e62bacb4f039",
+        "date_posted": 1754342028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342049,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Trading",
+        "title": "Trading Intern, DV Commodities",
+        "source": "vanshb03",
+        "id": "ee4ff177-1f23-43bf-a71f-e01aa62c6449",
+        "date_posted": 1754342049,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342109,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580809101?utm_source=Simplify&ref=Simplify",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Hardware Engineer Intern",
+        "source": "vanshb03",
+        "id": "8b0317e5-0c56-47fa-8499-fc91d6a3eb5d",
+        "date_posted": 1754342109,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342181,
+        "url": "https://lifeattiktok.com/search/7533029779479791890?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Intelligent Creation - Generative AI and Graphics",
+        "source": "vanshb03",
+        "id": "20bd33d3-87cc-434f-a6e7-3992e9ad55a4",
+        "date_posted": 1754342181,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342193,
+        "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15762",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Williams-Sonoma, Inc.",
+        "title": "Research Engineering Intern, AI, Computer Vision, & Visualization",
+        "source": "vanshb03",
+        "id": "c69bfe3e-f5cd-4a0c-921d-61627fc9cec2",
+        "date_posted": 1754342193,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754342253,
+        "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30?lever-source=Indeed",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cultivarium",
+        "title": "Computer Vision and Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "a4c04d54-03d6-4db2-98e8-9ac5df6a240a",
+        "date_posted": 1754342253,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754347522,
+        "url": "https://careers.gehealthcare.com/global/en/job/R4027636/Information-Technology-Development-Program-Internship",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE Healthcare",
+        "title": "Information Technology Development Program",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "6640d191-b528-41d2-9541-c9290ea9d912",
+        "date_posted": 1754347522,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754347539,
+        "url": "https://www.amazon.jobs/en/jobs/3037587/2026-program-manager-intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Program Manager Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "5c8bf978-3d57-4464-b9e6-b27bbf73c5e1",
+        "date_posted": 1754347539,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754347585,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/details/Summer-2026---UMD-College-Park---UIUC-Incubator-Labs--Summer-Cohort_R218755-1?q=intern",
+        "locations": [
+            "College Park, MD",
+            "Urbana Champaign, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "UMD-College Park & UIUC Incubator Labs Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "2329cf5d-0296-4e23-bc51-7f05f0bd91fd",
+        "date_posted": 1754347585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
