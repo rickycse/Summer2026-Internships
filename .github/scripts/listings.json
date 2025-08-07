@@ -7221,5 +7221,39 @@
         "date_posted": 1754451713,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754498498,
+        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "jaximus808",
+        "id": "d0a08ac6-3296-4123-baf6-556ac97d0027",
+        "date_posted": 1754498498,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754498510,
+        "url": "https://careers.roblox.com/jobs/7114765?fbclid=PAZXh0bgNhZW0CMTEAAacJ6fn8yHQ6R-Xp_hftOF2j9kC4QiKk5Q_8hTSWMPHEkd9N_hiA62Myxz0ULA_aem_yhDi7BqGgqyKbKlnOnSspw",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "SebRodDev",
+        "id": "a293fb66-4d8b-468c-a4da-681c55388283",
+        "date_posted": 1754498510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
