@@ -7987,5 +7987,266 @@
         "date_posted": 1754764748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754803033,
+        "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cdc6c8df-5933-45d5-ac85-1d3da9d33685",
+        "date_posted": 1754803033,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754803849,
+        "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a405e7dd-4aa4-4671-b28c-e9b2f0d4a3a9",
+        "date_posted": 1754803849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754803857,
+        "url": "https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, AI",
+        "source": "vanshb03",
+        "id": "a352984c-bf23-4dcc-9a4b-e731e5f64d78",
+        "date_posted": 1754803857,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754803866,
+        "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile",
+        "source": "vanshb03",
+        "id": "0e5e4b3b-462f-4b2b-a601-222045db683b",
+        "date_posted": 1754803866,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754803873,
+        "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile",
+        "source": "vanshb03",
+        "id": "d6e8c2c2-c141-4d6d-bcd9-da3f96d51a18",
+        "date_posted": 1754803873,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754805647,
+        "url": "https://jobs.bytedance.com/en/position/7535646140345272584/detail?spread=A3T3U6W",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infrastructure",
+        "source": "vanshb03",
+        "id": "ea461625-eb08-48cb-87e4-2e516bee5b51",
+        "date_posted": 1754805647,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754805657,
+        "url": "https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Charging Distributed Systems Software Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "ae51687f-ada7-4d45-b3df-5b4f65f7cba5",
+        "date_posted": 1754805657,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754805673,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Software-Engineering-ATL-Summer-2026/29180?jobId=29180",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Air Lines, Inc.",
+        "title": "IT Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "f8fcf5a2-868c-41ca-bdf2-2f97dcb8a4ee",
+        "date_posted": 1754805673,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754806429,
+        "url": "https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=10-01525",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Southwest Research Institute",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "mikuv-chain",
+        "id": "3d3663ad-f3ab-43dd-98b7-646c903be84c",
+        "date_posted": 1754806429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754806479,
+        "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EPIC",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "1b20449c-499a-4429-888c-f8f5077ebead",
+        "date_posted": 1754806479,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754806491,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Fall-Winter-2025-IT-Co-Op_168888",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "IT Co-Op Intern",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "d04295e6-750a-4075-8eda-d509a34ddef1",
+        "date_posted": 1754806491,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754806557,
+        "url": "https://careers.honeywell.com/en/sites/Honeywell/my-profile/preview/109972",
+        "locations": [
+            "Mason, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Software Engineer Co-Op",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "9f61639a-d3b1-4e1d-a96e-954ddf89c308",
+        "date_posted": 1754806557,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754806570,
+        "url": "https://jobs.redbull.com/us-en/east-hanover-2025-internship-summer-data-science-remote-prv-ref23605a?sourceTypeId=PAID&sourceId=cf9c853d-3d03-4305-93a7-9bd9c04803b1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Red Bulls",
+        "title": "Data Science Intern",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "e48c3157-4177-49da-b638-0b289b723273",
+        "date_posted": 1754806570,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754806636,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4570159006?gh_src=5874d0446us",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wurl LLC.",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "Tar-ive",
+        "id": "7a661287-6d4e-4de4-8486-248e4cfea1be",
+        "date_posted": 1754806636,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754806650,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Data---AI-QA-Intern_JR103915",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Data & AI QA Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "8dfd6e01-8811-4e14-b924-3d5035e14265",
+        "date_posted": 1754806650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
