@@ -5424,7 +5424,9 @@
     {
         "date_updated": 1753228444,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-research-summer-analyst/7014521?gh_jid=7014521#/",
-        "locations": [],
+        "locations": [
+            "Greenwich, CT"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "AQR Capital Management",
@@ -5439,7 +5441,9 @@
     {
         "date_updated": 1753228474,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-solutions-group-summer-analyst/7055103?gh_jid=7055103#/",
-        "locations": [],
+        "locations": [
+            "Greenwich, CT"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "AQR Capital Management",
@@ -5454,7 +5458,9 @@
     {
         "date_updated": 1753228484,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/",
-        "locations": [],
+        "locations": [
+            "Greenwich, CT"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "AQR Capital Management",
@@ -7637,7 +7643,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754980344,
+        "date_updated": 1755112036,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb?nl=1&fr=true",
         "locations": [
             "New York, NY"
@@ -7971,24 +7977,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754764748,
-        "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "company_name": "Notion",
-        "title": "Software Engineer, Mobile Intern",
-        "season": "Summer",
-        "source": "amhw460",
-        "id": "45adcbc5-ef23-4a22-8a59-7a859bb622fc",
-        "date_posted": 1754764748,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1754803033,
         "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6",
         "locations": [
@@ -8260,7 +8248,7 @@
             "Reston, VA",
             "Seattle, WA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Anduril",
         "title": "Software Engineer Intern",
@@ -8306,13 +8294,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755007507,
+        "date_updated": 1755106922,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4591921005?gh_src=orgc7kfu5us",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Radiant",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -8338,5 +8326,159 @@
         "date_posted": 1755068949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755090375,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
+        "locations": [
+            "Malta, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "177a6792-f602-4066-9750-c3471f0a7fae",
+        "date_posted": 1755090375,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755091238,
+        "url": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sonic Healthcare USA, Inc",
+        "title": "Software Development Intern, Cache",
+        "source": "vanshb03",
+        "id": "b72064c8-5ca1-467f-9457-5288d252e499",
+        "date_posted": 1755091238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755091306,
+        "url": "https://www.tesla.com/careers/search/job/248358",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Software Engineer Intern, Diagnostics",
+        "source": "vanshb03",
+        "id": "10a4c1fc-00fd-4484-a2cb-67f889fde2c0",
+        "date_posted": 1755091306,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755091317,
+        "url": "https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
+        "source": "vanshb03",
+        "id": "1598d29a-fd49-438c-b311-639e9bb943a7",
+        "date_posted": 1755091317,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755091339,
+        "url": "https://lifeattiktok.com/search/7537493362585979154?spread=XKM9ZXE",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Recommendation Infrastructure",
+        "source": "vanshb03",
+        "id": "a973cca2-2a71-4381-b2f7-c2d649c9b978",
+        "date_posted": 1755091339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755106686,
+        "url": "https://job-boards.greenhouse.io/mill/jobs/4597024005?ref=vansh",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mill",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "ce6d2d92-5be7-4019-b205-07a3ecee3ea7",
+        "date_posted": 1755106686,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755106694,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209&req_loc=813128&&&nohd#job",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TetraMem",
+        "title": "Software Intern, Machine Learning",
+        "source": "vanshb03",
+        "id": "357bf918-3fc4-4b79-9028-e55d39847627",
+        "date_posted": 1755106694,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755106699,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042&req_loc=960817&&&nohd#job?ref=vansh",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TetraMem",
+        "title": "Software Intern, Embedded",
+        "source": "vanshb03",
+        "id": "22446a2a-ab54-45b7-af8c-5a44bfc44062",
+        "date_posted": 1755106699,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755116225,
+        "url": "https://careers.newyorklife.com/careers?location=New%20York%2C%20New%20York%2C%20US&pid=30591072&domain=newyorklife.com&sort_by=relevance",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Life",
+        "title": "Investments AI & Data Intern, AI & DS Team",
+        "source": "vanshb03",
+        "id": "cf5a2688-b0ed-4fbb-b3ca-3543030cdd35",
+        "date_posted": 1755116225,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
