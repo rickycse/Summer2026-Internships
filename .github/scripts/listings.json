@@ -9326,5 +9326,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755543928,
+        "url": "https://careers.datadoghq.com/detail/7127832/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "4b57916e-71d7-4bdd-9842-d4825631fe34",
+        "date_posted": 1755543928,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755550213,
+        "url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
+        "locations": [
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Software Engineering Intern",
+        "season": "Winter",
+        "source": "sbui056",
+        "id": "0df51a0e-d9fa-466a-a91f-330f30e81f1d",
+        "date_posted": 1755550213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755555711,
+        "url": "https://careers.freddiemac.com/us/en/job/JR16008/Technology-Intern-Summer-2026",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freddie Mac",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "3e88ae55-978e-48f4-9d85-b0fd51a0e338",
+        "date_posted": 1755555711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
