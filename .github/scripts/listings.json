@@ -3345,13 +3345,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253827,
+        "date_updated": 1755698921,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565291006",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Quantitative Developer Intern",
         "season": "Summer",
@@ -8328,13 +8328,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755090375,
+        "date_updated": 1755699461,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
         "locations": [
             "Malta, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -8345,13 +8345,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755091238,
+        "date_updated": 1755699465,
         "url": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sonic Healthcare USA, Inc",
         "title": "Software Development Intern, Cache",
         "source": "vanshb03",
@@ -8669,13 +8669,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755203820,
+        "date_updated": 1755699468,
         "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -9635,6 +9635,159 @@
         "source": "vanshb03",
         "id": "ad84f578-27b7-4243-8e2b-c404a334e011",
         "date_posted": 1755639897,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755726355,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Full Stack Software Engineer Intern, Team Sprout",
+        "source": "vanshb03",
+        "id": "46446209-0097-44e7-bbc0-c6f5b18a689a",
+        "date_posted": 1755726355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726361,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Customer-Acquisitions---Winter-2025_R223400",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Backend Software Engineer Intern, Customer Acquisitions",
+        "source": "vanshb03",
+        "id": "1a8eda14-0c81-494b-9a60-e12e6a8c4541",
+        "date_posted": 1755726361,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726366,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Planet-Express---Winter-2026_R223398",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Backend Software Engineer Intern, Team Planet Express",
+        "source": "vanshb03",
+        "id": "26a7499a-de8d-4583-98aa-5b6b99dad044",
+        "date_posted": 1755726366,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726371,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Integrated-Storefront---Winter-2025_R223399",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Full Stack Software Engineer Intern, Integrated Storefront",
+        "source": "vanshb03",
+        "id": "8dc2d57d-3850-4389-9a81-5a2143dc519c",
+        "date_posted": 1755726371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726380,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Blue-Jays---Winter-2026_R223402",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Mobile Software Engineer Intern, Capital One Travel",
+        "source": "vanshb03",
+        "id": "013f6f79-a11e-463c-93c4-fb3d01a4c0af",
+        "date_posted": 1755726380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726975,
+        "url": "https://careers.salesforce.com/en/jobs/jr308066/fall-2025-intern-strategic-data-science/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Strategic Data Science Intern",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "9b6494d1-2405-40bc-a2af-1c8f554f7673",
+        "date_posted": 1755726975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755727009,
+        "url": "https://careers.loreal.com/en_US/jobs/JobDetail/2026-L-Or-al-USA-Summer-Internship-Program-Information-Technology-IT-Undergraduate/215820",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L'Oreal",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "38b9bfe0-de09-46e7-80cb-4a1ef40c438f",
+        "date_posted": 1755727009,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755727077,
+        "url": "https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer Intern",
+        "season": "Summer",
+        "source": "Andy2887",
+        "id": "a371d4bf-58fb-4aaa-8afb-53fd82f6142f",
+        "date_posted": 1755727077,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755727238,
+        "url": "https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "c9d8fc8a-91b2-4191-bb8b-1635c30513c8",
+        "date_posted": 1755727238,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
