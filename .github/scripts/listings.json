@@ -9808,5 +9808,192 @@
         "date_posted": 1755777409,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755809281,
+        "url": "https://careers.hpe.com/us/en/job/1192961/Software-Engineering-Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a4efa79f-26c9-49d4-8e51-18a23f327f90",
+        "date_posted": 1755809281,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755809592,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC-United-States-of-America/Site-Reliability-Engineering-Summer-Intern_R25_716",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group Ltd.",
+        "title": "Site Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "e732151b-329d-4add-ab82-22ee3c115967",
+        "date_posted": 1755809592,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809606,
+        "url": "https://www.tesla.com/careers/search/job/248805",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Commercial UI Software Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "3ab83ab5-17ee-4730-b4ca-aacaa9fa3288",
+        "date_posted": 1755809606,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755809613,
+        "url": "https://www.tesla.com/careers/search/job/248920",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
+        "source": "vanshb03",
+        "id": "232ecda7-7781-4356-9ba4-8dcdb4cb0570",
+        "date_posted": 1755809613,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755809625,
+        "url": "https://jobs.saic.com/jobs/16632564-software-engineer-intern",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SAIC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba3d0934-c21d-43b5-aaf9-3a6aebdeb513",
+        "date_posted": 1755809625,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809686,
+        "url": "https://careers-empiricalfoods.icims.com/jobs/2972/job",
+        "locations": [
+            "Dakota Dunes, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "empirical",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "30b923ec-97dc-41a2-88a7-8f4f53260622",
+        "date_posted": 1755809686,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809802,
+        "url": "https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirrus Logic",
+        "title": "Software Tools Developer Intern, Global Operations",
+        "source": "vanshb03",
+        "id": "fbb162a8-7dc8-4611-b498-9da2c4503b3d",
+        "date_posted": 1755809802,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1755809944,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group",
+        "title": "Online Portals & Next Gen Platforms (OPNG) Intern",
+        "source": "vanshb03",
+        "id": "2199ef9a-1466-49cb-a952-2cc3d696a9f7",
+        "date_posted": 1755809944,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809950,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Platform-Experience---Operations--PXO--Summer-Intern_R25_717",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group Ltd.",
+        "title": "Platform Experience & Operations Intern, PXO",
+        "source": "vanshb03",
+        "id": "8a8e6fea-6a95-4348-8c04-ca519894b65f",
+        "date_posted": 1755809950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755810024,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Database-Engineering-Summer-Intern_R25_712",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group Ltd.",
+        "title": "Database Engineering Intern",
+        "source": "vanshb03",
+        "id": "760be182-a5ce-42b0-a752-0d9c740f7a81",
+        "date_posted": 1755810024,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755814247,
+        "url": "https://careers.adobe.com/us/en/job/R158742/2026-Intern-Enterprise-Architecture-Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Enterprise Architecture Analyst Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "536a3751-ab59-425b-924c-cefe17168166",
+        "date_posted": 1755814247,
+        "company_url": "",
+        "is_visible": true
     }
 ]
