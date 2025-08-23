@@ -3242,13 +3242,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751252823,
+        "date_updated": 1755896809,
         "url": "https://jobs.lever.co/hermeus/db80c020-a26f-491f-8915-d6a28d44933e",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hermeus",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -9929,13 +9929,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1755809944,
+        "date_updated": 1755895359,
         "url": "https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
         "locations": [
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arch Capital Group",
         "title": "Online Portals & Next Gen Platforms (OPNG) Intern",
         "source": "vanshb03",
@@ -9963,13 +9963,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755810024,
+        "date_updated": 1755896474,
         "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Database-Engineering-Summer-Intern_R25_712",
         "locations": [
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arch Capital Group Ltd.",
         "title": "Database Engineering Intern",
         "source": "vanshb03",
@@ -9995,5 +9995,149 @@
         "date_posted": 1755814247,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755895313,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Omaha, NE",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paypal",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "jaximus808",
+        "id": "884553ef-f4f0-44a1-8b32-6fa62df11f94",
+        "date_posted": 1755895313,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755895381,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Supply Chain Data Analyst Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "d908f114-44b6-43cf-9844-7115f9a7eceb",
+        "date_posted": 1755895381,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755895982,
+        "url": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Engineering Co-Op",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "1ce34eb2-c374-4724-a67d-5c9bb1443bfb",
+        "date_posted": 1755895982,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755896090,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/details/Summer-2026--Enterprise-Applications-Intern_R2025-0973?q=%27intern%27",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "QTS",
+        "title": "Enterprise Applications Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "6a3e1b0a-6aa4-4163-b941-22f87bad3902",
+        "date_posted": 1755896090,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755896113,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/details/Summer-2026-Internship--Technology-Project-Management_R2025-0981-1?q=%27intern%27",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "QTS",
+        "title": "Technology Project Management Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "5cffbf01-c44d-4c06-a591-4e43d4d8e96c",
+        "date_posted": 1755896113,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755896125,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/details/Summer-2026--IT-Platform-Engineering-Internship_R2025-0944?q=%27intern%27",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "QTS",
+        "title": "IT Platform Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "83ba6f6a-71d3-46e0-9935-dfd6eaec3592",
+        "date_posted": 1755896125,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755896164,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/details/Summer-2026-Internship--Technology-Services_R2025-0955?q=%27intern%27",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "QTS",
+        "title": "Technology Services Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "0ac05a46-0e69-44bc-9a46-a0e6f9313f7d",
+        "date_posted": 1755896164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755898709,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering----Intern--Bachelors_JR0276780",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Silicon Hardware Engineering Intern, Bachelors",
+        "source": "vanshb03",
+        "id": "baaf4050-839f-4571-9576-fd0d5914313f",
+        "date_posted": 1755898709,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
