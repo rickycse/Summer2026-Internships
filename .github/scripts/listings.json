@@ -9991,7 +9991,6 @@
         ],
         "sponsorship": "Other",
         "active": false,
-        "active": false,
         "company_name": "Paypal",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -10751,7 +10750,7 @@
             "Chicago, IL",
             "New York, NY"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "IBM",
         "title": "AI Engineer Intern",
@@ -11006,7 +11005,7 @@
             "Plano, TX",
             "Reston, VA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Fannie Mae",
         "title": "Technology Program Intern\u202f",
@@ -11085,6 +11084,368 @@
         "source": "aprameyak",
         "id": "82140b2e-6f9e-49e1-a2cd-fa40ffeb3338",
         "date_posted": 1756185276,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756222209,
+        "url": "https://careers.zebra.com/careers/job/343627851934",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Software Engineering Intern, Handheld Mobile Computer",
+        "source": "vanshb03",
+        "id": "2f91a7d9-6004-4a2b-81de-39c3878678d1",
+        "date_posted": 1756222209,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222217,
+        "url": "https://careers.zebra.com/careers/job/343627780597",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "AVS Mobile Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ef944d78-68b4-41ea-b0d4-dc2e9f2ff389",
+        "date_posted": 1756222217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222229,
+        "url": "https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Software-Engineering-Intern_R320481",
+        "locations": [
+            "Cedar Falls, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SciPlay",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1be2a185-aad1-4b89-b838-8132a86b8d0d",
+        "date_posted": 1756222229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222235,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "002b168c-11c2-4528-adad-fac42ac52189",
+        "date_posted": 1756222235,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222241,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f8c0a8db-4592-4d39-b101-2197ca810fd7",
+        "date_posted": 1756222241,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222250,
+        "url": "https://www.pepsicojobs.com/main/jobs/392034?lang=en-us",
+        "locations": [
+            "Plano, TX",
+            "Purchase, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PepsiCo",
+        "title": "Technology Software Development & Engineering Intern",
+        "source": "vanshb03",
+        "id": "c45522dc-df03-4772-9ca7-905ac7fae9d5",
+        "date_posted": 1756222250,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222271,
+        "url": "https://careers.arcb.com/careersmarketplace/JobDetail?id=26993",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ArcBest Technologies",
+        "title": "Software Engineer Intern, ArcBest Technologies",
+        "source": "vanshb03",
+        "id": "7c59ed78-65e4-4f2f-8154-e2ebe2d4b593",
+        "date_posted": 1756222271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756241583,
+        "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38789",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "company_name": "The Hanover",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "1033fc11-871b-4c69-a141-c4dba0d7e88b",
+        "date_posted": 1756222282,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222289,
+        "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Hanover",
+        "title": "Associate Solutions Developer Intern",
+        "source": "vanshb03",
+        "id": "9f631f71-fe6e-4dfe-b683-c8b894906213",
+        "date_posted": 1756222289,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225269,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258307",
+        "locations": [
+            "Delaware, OH",
+            "Fort Lauderdale, FL",
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Design Engineering Intern",
+        "source": "vanshb03",
+        "id": "57fc7dec-071b-4bdd-b993-37ceb5e0aa2e",
+        "date_posted": 1756225269,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225351,
+        "url": "https://www.workatastartup.com/jobs/80516",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "CrowdVolt",
+        "title": "Full-Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "33897b4e-9b2b-46aa-8419-3c208bec8323",
+        "date_posted": 1756225351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1756225515,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6867897",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "Software Engineer Intern, Performance",
+        "source": "vanshb03",
+        "id": "de8f7158-d47c-45f0-8c19-0d6820005a2b",
+        "date_posted": 1756225515,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225540,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "Software Engineering Intern, Mapping & Localization",
+        "source": "vanshb03",
+        "id": "63ca278b-159f-4307-b6bc-585207d82532",
+        "date_posted": 1756225540,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225638,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7169069",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "Systems Engineering Intern, Scenario Taxonomy",
+        "source": "vanshb03",
+        "id": "7b1daeb6-2d04-41da-b0d6-820d11348751",
+        "date_posted": 1756225638,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756240368,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/XMLNAME-2100827-Summer-2026-Undergraduate-Internship---Technology_2117047",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Undergraduate Intern, Technology",
+        "source": "vanshb03",
+        "id": "c198d5ad-62ed-46c9-828b-51096a1f5b93",
+        "date_posted": 1756240368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756241740,
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b447a693-ca7b-4ead-8aa1-aa3ed9ab1b22",
+        "date_posted": 1756241740,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241758,
+        "url": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7bc08dbf-7b75-4769-aeae-50f454b8e41a",
+        "date_posted": 1756241758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241789,
+        "url": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abridge",
+        "title": "Full Stack Engineering Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "d0b4012c-5069-4a13-a1a9-c82fec7f483a",
+        "date_posted": 1756241789,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241808,
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "04f81fb9-61e5-4df2-8b4a-d217e9844f29",
+        "date_posted": 1756241808,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241824,
+        "url": "https://jobs.hilton.com/us/en/job/COR015AL/2026-Corporate-Summer-Internship-Technology-Cyber-Engineering-Product-Management",
+        "locations": [
+            "McLean, VA",
+            "Memphis, TN",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hilton",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "059dc66b-c432-4fb7-b80e-bdccd4d8106e",
+        "date_posted": 1756241824,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1863950/Cloud-Network-Engineer%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Cloud Network Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "f6a10211-2938-4cd7-85c1-f713db2654f7",
+        "date_posted": 1756241845,
         "company_url": "",
         "is_visible": true
     }
