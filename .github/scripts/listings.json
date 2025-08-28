@@ -10808,13 +10808,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756134267,
+        "date_updated": 1756340884,
         "url": "https://jobs.northropgrumman.com/careers/job/1340060650174",
         "locations": [
             "Melbourne, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrup Grumman",
         "title": "2026 Intern Software Engineer",
         "season": "Summer",
@@ -11329,13 +11329,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756240368,
+        "date_updated": 1756340878,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/XMLNAME-2100827-Summer-2026-Undergraduate-Internship---Technology_2117047",
         "locations": [
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Fidelity",
         "title": "Undergraduate Intern, Technology",
         "source": "vanshb03",
@@ -11446,6 +11446,348 @@
         "source": "aprameyak",
         "id": "f6a10211-2938-4cd7-85c1-f713db2654f7",
         "date_posted": 1756241845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756314940,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Security Consulting Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "ca5e3641-c147-4b8c-8d3c-e5b5538ffef3",
+        "date_posted": 1756314940,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756314965,
+        "url": "https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR25028843EXTERNALENGLOBAL/AI-Fluency-Co-op",
+        "locations": [
+            "Mahwah, NJ",
+            "Parsippany, NJ",
+            "Atlanta, GA",
+            "Louisville, KY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "UPS",
+        "title": "AI Fluency Coop",
+        "season": "Spring",
+        "source": "aprameyak",
+        "id": "4dfa0b92-fe2d-4664-8dcf-66550ac8dae9",
+        "date_posted": 1756314965,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756340881,
+        "url": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock%2C-Texas%2C-United-States/Dell-Summer-Internship---Software-Engineering_R276698",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "company_name": "Dell",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "86b92636-f18f-4ae0-b617-980ac60f433f",
+        "date_posted": 1756314999,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756315064,
+        "url": "https://www.capitalonecareers.com/job/mclean/analyst-early-internship-program-summer-2026/31238/85485933920",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Analyst Early Internship Program",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "41230652-c78b-4b2e-9f58-96de04da165e",
+        "date_posted": 1756315064,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341058,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "5c273aba-3299-40ee-b44d-971603c3d265",
+        "date_posted": 1756341058,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341123,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4840368007?gh_src=cda0ce657us",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Frontend Software Engineering Intern",
+        "season": "Summer",
+        "source": "Andy2887",
+        "id": "81bbe24c-36e0-4e55-a109-15833ba41281",
+        "date_posted": 1756341123,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341138,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4836993007?gh_src=cda0ce657us",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Backend Software Engineering Intern",
+        "season": "Summer",
+        "source": "Andy2887",
+        "id": "94018c84-9b5f-4a7a-a8e1-6b2b92e29144",
+        "date_posted": 1756341138,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341165,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55372&source=WEB_Search_NA&tags=&user=&formValues=",
+        "locations": [
+            "Sandy Springs, GA",
+            "Poughkeepsie, NY",
+            "Lowell, MA",
+            "Rochester, MN",
+            "Tucson, AZ",
+            "Research Triangle Park, NC",
+            "Durham, NC",
+            "Hopewell Junction, NY",
+            "San Jose, CA",
+            "Dallas, TX",
+            "Houston, TX",
+            "Austin, TX",
+            "Herndon, VA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Back End Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "56d8fe9d-20f8-4e28-a4e0-c6819d1cf4a7",
+        "date_posted": 1756341165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341232,
+        "url": "https://careers.hpe.com/us/en/job/1193025/Software-Engineering-Intern",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "9ab550e2-4c5e-42c4-9332-94319e5e7ce2",
+        "date_posted": 1756341232,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341243,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "aac60e9a-ef51-4823-892a-07e66a894a22",
+        "date_posted": 1756341243,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341256,
+        "url": "https://www.amazon.jobs/en/jobs/3066561/business-intelligence-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Business Intelligence Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "15119166-1477-44f5-af87-01efe78e3fa6",
+        "date_posted": 1756341256,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341537,
+        "url": "https://www.amazon.jobs/en/jobs/3066625/data-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Data Engineer Co-op Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "4fc9707b-90a1-41ba-955c-6ee9d067c222",
+        "date_posted": 1756341537,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341666,
+        "url": "https://www.amazon.jobs/en/jobs/3066439/front-end-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Front-End Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "32178424-4822-4b93-beed-67ac8d3f60cc",
+        "date_posted": 1756341666,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341692,
+        "url": "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Business Intelligence Engineer Co-Op",
+        "season": "Winter",
+        "source": "aprameyak",
+        "id": "46fbb9cb-7a88-410b-93f5-eb316fd423ea",
+        "date_posted": 1756341692,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341724,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE",
+        "title": "Software Engineering Co-op - Fall 2026",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "aca6b440-a8c9-4549-8735-78f4196c73d4",
+        "date_posted": 1756341724,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341741,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305901?utm_medium=jobboard",
+        "locations": [
+            "Redwood City, CA",
+            "Santa Clara, CA",
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "0289b736-5a9d-4545-a5ad-f2caa0afc251",
+        "date_posted": 1756341741,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341774,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Consulting Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "852d5048-4a9a-42dd-bca3-60387ca171ab",
+        "date_posted": 1756341774,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756341787,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/TDP-Software-Intern_R0059640",
+        "locations": [
+            "Chevy Chase, MD",
+            "Virginia Beach, VA",
+            "Getzville, NY",
+            "Poway, CA",
+            "Richardson, TX",
+            "Renton, WA",
+            "North Liberty, IA",
+            "Katy, TX",
+            "Marlton, NJ",
+            "Lakeland, FL",
+            "Fredericksburg, VA",
+            "Lenexa, KS",
+            "Anchorage, AK",
+            "Woodbury, NY",
+            "Jacksonville, FL",
+            "Indianapolis, IN",
+            "Tucson, AZ",
+            "Macon, GA",
+            "Springfield, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Geico",
+        "title": "TDP Software Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "07f58a2b-14da-4442-83f8-14b6d51adb11",
+        "date_posted": 1756341787,
         "company_url": "",
         "is_visible": true
     }
