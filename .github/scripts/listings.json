@@ -11790,5 +11790,444 @@
         "date_posted": 1756341787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756344725,
+        "url": "https://www.janestreet.com/join-jane-street/position/8069279002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Cybersecurity Analyst Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "a84de1d1-f1a7-4915-8f49-9baab585a183",
+        "date_posted": 1756344725,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756347498,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Commure",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d3b69af9-e44e-4166-a9da-560c800e4dbe",
+        "date_posted": 1756347498,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347506,
+        "url": "https://careers.qorvo.com/job/Greensboro-Software-Developer-Intern-NC-27409/1320964700/",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "a1863126-26c1-4458-bfb8-d8f469577f47",
+        "date_posted": 1756347506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347510,
+        "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/30545",
+        "locations": [
+            "Austin, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Hormel Foods",
+        "title": "IT Application Development Analyst Intern",
+        "source": "vanshb03",
+        "id": "c160a304-126b-4337-a43f-601d6e118e53",
+        "date_posted": 1756347510,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347515,
+        "url": "https://burnsmcd.jobs/kansas-city-mo/software-developer-intern-kansas-city/89D63A85530C4FD8ADFC3AC4DC580A93/job/",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Burns & McDonnell",
+        "title": "Software Developer Intern, Kansas City",
+        "source": "vanshb03",
+        "id": "c7e52508-9609-4995-83b6-e191ae9a0e49",
+        "date_posted": 1756347515,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347521,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9cddf080-c924-401f-a793-8751798ec843",
+        "date_posted": 1756347521,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347526,
+        "url": "https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Newrez LLC",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "615256c7-5176-446b-bf99-403ac89015cd",
+        "date_posted": 1756347526,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347571,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software-Intern_R255237",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Embedded Software Intern, Analog Garage PST",
+        "source": "vanshb03",
+        "id": "76b9b833-5f7d-43a7-bc44-0fbd06464821",
+        "date_posted": 1756347571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347589,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1620",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5e53e2e4-6b29-4715-99a0-69e98abc8f92",
+        "date_posted": 1756347589,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347595,
+        "url": "https://lifeattiktok.com/search/7540823148805032210",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, AI Applications",
+        "source": "vanshb03",
+        "id": "9b1d4247-336c-4293-969c-520747cf9fb4",
+        "date_posted": 1756347595,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1756347603,
+        "url": "https://myjobs.adp.com/bessemer/cx/job-details?reqId=5001145764006",
+        "locations": [
+            "Woodbridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bessemer Trust",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "03000237-b5ec-4647-9d4e-50476e9ee83d",
+        "date_posted": 1756347603,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347627,
+        "url": "https://careers.kodak.com/job/USA-Web-Developer-Intern-CA/1320436300/",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kodak",
+        "title": "Web Developer Intern",
+        "source": "vanshb03",
+        "id": "b74c1a7b-cb65-4177-b21a-8d74cda144b3",
+        "date_posted": 1756347627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347704,
+        "url": "https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787",
+        "locations": [
+            "Ames, IA",
+            "Clear Lake, IA",
+            "Fort Myers, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kingland",
+        "title": "Advanced Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d3b7574e-a442-4ca6-a4e5-a8809d960029",
+        "date_posted": 1756347704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347737,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5623220004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0c60e87f-4e12-4124-84bc-1d7777a3e629",
+        "date_posted": 1756347737,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756354273,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306078/",
+        "locations": [
+            "Redwood Shores, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern, Database Technologies",
+        "source": "vanshb03",
+        "id": "bc8ce9d2-fb7e-4831-920e-f3c773a254c4",
+        "date_posted": 1756354273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756354278,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305997/",
+        "locations": [
+            "Austin, TX",
+            "Nashville, TN",
+            "Santa Clara, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Technical Program Manager Intern, Oracle Cloud Infrastructure",
+        "source": "vanshb03",
+        "id": "dba741b4-79ea-425c-a47a-3d664f72e5c1",
+        "date_posted": 1756354278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756354285,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306133/",
+        "locations": [
+            "Redwood City, CA",
+            "Santa Clara, CA",
+            "Pleasanton, CA",
+            "Seattle, WA",
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern, Oracle Health and Analytics",
+        "source": "vanshb03",
+        "id": "d80c357f-c657-442b-8c83-a27ec019485a",
+        "date_posted": 1756354285,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756354373,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CInternSoftware%22",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern, Oracle Cloud Infrastructure (OCI)",
+        "source": "vanshb03",
+        "id": "ee4ef44e-d59a-4627-a4b7-8f6600e4c969",
+        "date_posted": 1756354373,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355525,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/112823",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Grant Thornton",
+        "title": "Technology Modernization Intern",
+        "source": "vanshb03",
+        "id": "a0659cc5-b615-41ee-bee2-126393f9d388",
+        "date_posted": 1756355525,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355530,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/85447396832",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "System Quality Assurance Co-op, Robots",
+        "source": "vanshb03",
+        "id": "2aea6480-7c33-4c43-bc5c-5951bf7143d4",
+        "date_posted": 1756355530,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756355536,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/85447395184",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Mobile App Developer Co-op",
+        "source": "vanshb03",
+        "id": "d7944e69-ebb4-4895-aaf4-ab1e1b423049",
+        "date_posted": 1756355536,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756355541,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/85447396384",
+        "locations": [
+            "Madison, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "388253e9-b20d-426f-b701-2c8a62127164",
+        "date_posted": 1756355541,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756355682,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306097/?keyword=Intern&mode=location",
+        "locations": [
+            "Seattle, WA",
+            "Redwood City, CA",
+            "Santa Clara, CA",
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Advanced Degree Software Engineer Intern, Oracle Health & Analytics",
+        "source": "vanshb03",
+        "id": "59b3b82c-fb31-44ed-b4b6-d6d1b1579131",
+        "date_posted": 1756355682,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355690,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305903/?keyword=Intern&mode=location",
+        "locations": [
+            "Redwood City, CA",
+            "Pleasanton, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Advanced Degree Software Engineer Intern, Fusion",
+        "source": "vanshb03",
+        "id": "639b90e8-0cc6-4f4d-9441-2c7825dee43d",
+        "date_posted": 1756355690,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355694,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306080/?keyword=Intern&lastSelectedFacet=AttributeChar4&mode=location",
+        "locations": [
+            "Redwood Shores, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Advanced Degree Software Engineer Intern, Database Technologies",
+        "source": "vanshb03",
+        "id": "ddfd44f5-48f9-42aa-b4a6-d704553caf0b",
+        "date_posted": 1756355694,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
