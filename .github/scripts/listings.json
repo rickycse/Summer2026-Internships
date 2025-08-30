@@ -12265,13 +12265,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756396814,
+        "date_updated": 1756513804,
         "url": "https://mantech.avature.net/en_US/careers/JobDetail/39666",
         "locations": [
             "San Antonio, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Mantech",
         "title": "CNO Developer Intern",
         "source": "vanshb03",
@@ -13206,6 +13206,59 @@
         "source": "aprameyak",
         "id": "0a713ca0-8adb-40e8-aa92-00b27a963a08",
         "date_posted": 1756459654,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756508415,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2026-_JR12655",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "fec41c46-42ad-45e6-b7a5-871071272764",
+        "date_posted": 1756508415,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756509518,
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/details/Software-Engineer-Intern_R-050088?q=intern",
+        "locations": [
+            "Raleigh, NC",
+            "Boston, MA",
+            "Lowell, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "f0c6664d-3d68-410a-bb7c-51abc54eecf1",
+        "date_posted": 1756509518,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756509540,
+        "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7206269",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cloudflare",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "jaximus808",
+        "id": "752ad324-3547-4f54-97c0-39251be49cf2",
+        "date_posted": 1756509540,
         "company_url": "",
         "is_visible": true
     }
