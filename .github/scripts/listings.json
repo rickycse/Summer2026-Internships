@@ -10367,13 +10367,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756068163,
+        "date_updated": 1756595618,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1?source=Appcast_Indeedo&source=jobboardindeed&ittk=NFPYJGP0UO",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Embedded Systems Software Intern, Linux and Jetson",
         "source": "vanshb03",
@@ -10384,13 +10384,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1756068169,
+        "date_updated": 1756595620,
         "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Platform-Engineering-Summer-Intern_REQ-4355?source=Indeed",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Platform Engineering Intern",
         "source": "vanshb03",
@@ -10401,13 +10401,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756068841,
+        "date_updated": 1756595623,
         "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Enterprise Quality Management Summer Intern",
         "season": "Summer",
@@ -10930,14 +10930,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756162054,
+        "date_updated": 1756595635,
         "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2026-Technology-Internship-Program_R-121813-1",
         "locations": [
             "Newark, NJ",
             "Tampa, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Prudential Financial",
         "title": "Technology Internship Program",
         "season": "Summer",
@@ -13642,6 +13642,116 @@
         "source": "vanshb03",
         "id": "aa6e3dd8-00f8-4075-bc8a-29a31df9f662",
         "date_posted": 1756538062,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602556,
+        "url": "https://www.schwabjobs.com/job/southlake/2026-charles-schwab-technology-intern-software-engineering/33727/85564474864",
+        "locations": [
+            "Southlake, TX",
+            "Austin, TX",
+            "Westlake, TX",
+            "Ann Arbor, MI",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles Schwab",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "2a83b8e6-f1f0-497f-a976-a6d509a912ae",
+        "date_posted": 1756602556,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756602621,
+        "url": "https://careers.inspirebrands.com/infrastructure-and-devops-internship-summer-2026/job/44E0457CE423184B5723F5EE9BCD637E",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inspire",
+        "title": "Infrastructure and DevOps Intern",
+        "source": "vanshb03",
+        "id": "c6a0d9d0-4a09-4537-8396-f2b3badf765e",
+        "date_posted": 1756602621,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602626,
+        "url": "https://www.santandercareers.com/job/-/-/1771/85580175488",
+        "locations": [
+            "Dallas, TX",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "IT Application Development Intern",
+        "source": "vanshb03",
+        "id": "241d9ad7-f017-4b26-a826-07558a298b0b",
+        "date_posted": 1756602626,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602632,
+        "url": "https://careers.amd.com/careers-home/jobs/70483/job",
+        "locations": [
+            "Austin, TX",
+            "Fort Collins, CO",
+            "Boxborough, MA",
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a975e138-0a9f-4ad9-a38c-39351490047b",
+        "date_posted": 1756602632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602644,
+        "url": "https://jobs.keysight.com/external/jobs/49350/job",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "a5ceb8a5-22c8-4079-824a-e7281df616c3",
+        "date_posted": 1756602644,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602652,
+        "url": "https://www.santandercareers.com/job/-/-/1771/85568135264",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "Application Development Intern, Auto",
+        "source": "vanshb03",
+        "id": "5d4839f2-72ea-415a-9392-3715853248a1",
+        "date_posted": 1756602652,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
