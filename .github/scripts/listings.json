@@ -13755,5 +13755,62 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756851501,
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=332561#jobDetails=332561_5131",
+        "locations": [
+            "Weekhawken, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UBS",
+        "title": "Technology Inter",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "10616bcb-cf95-4298-bf83-8ca7e23df30f",
+        "date_posted": 1756851501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756851520,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Shaunak-Sinha-05",
+        "id": "46acadfb-d89b-4511-aa57-80d86a740c52",
+        "date_posted": 1756851520,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756851613,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-1",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Andy2887",
+        "id": "05a59559-72a8-4c34-a6c0-b0e1366af095",
+        "date_posted": 1756851613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
