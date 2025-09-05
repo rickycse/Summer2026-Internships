@@ -14641,5 +14641,42 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757041371,
+        "url": "https://vercel.com/careers/engineering-spring-intern-5628286004",
+        "locations": [
+            "New York, NY",
+            "San Fransisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vercel",
+        "title": "Engineering Spring Intern",
+        "season": "Spring",
+        "source": "DutrieuxLU",
+        "id": "cca378cd-7fc6-402f-b192-82559feaf613",
+        "date_posted": 1757041371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757041386,
+        "url": "https://app.ripplematch.com/v2/public/job/146d369a",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plaid",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "johnadams145",
+        "id": "9e3447ef-0fec-49db-9fec-288db5ce2d44",
+        "date_posted": 1757041386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
