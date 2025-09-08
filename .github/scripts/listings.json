@@ -15177,5 +15177,186 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757293327,
+        "url": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA",
+            "San Diego, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arm",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "29b3fae7-ab0e-404c-bb34-787e901c02c3",
+        "date_posted": 1757293327,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757293331,
+        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/248277",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pella Corporation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c534215c-794a-4049-aaaa-373f25c2a8bb",
+        "date_posted": 1757293331,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757293334,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Intern--US_R011627",
+        "locations": [
+            "Lake Forest, CA",
+            "Philadelphia, PA",
+            "San Leandro, CA",
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AVEVA",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "7e815b6d-aa48-4953-b0f6-c3eb8056e84f",
+        "date_posted": 1757293334,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757293351,
+        "url": "https://lennar.wd1.myworkdayjobs.com/en-US/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Software-Engineering_R25_0000003711",
+        "locations": [
+            "Miami, FL",
+            "Dallas, TX",
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Lennar",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c4c9b14e-e4d6-488d-b2df-5b4551509d8a",
+        "date_posted": 1757293351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757293361,
+        "url": "https://myjobs.adp.com/ameritasexternal/cx/job-details?reqId=5001146090600",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ameritas Life Insurance Corp",
+        "title": "Software Developer Intern, Packaged Systems",
+        "source": "vanshb03",
+        "id": "89adf586-d9d4-454f-a560-6bbc239140c1",
+        "date_posted": 1757293361,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757294132,
+        "url": "https://careers-peraton.icims.com/jobs/158534/job",
+        "locations": [
+            "Herndon, VA",
+            "West Lafayette, IN",
+            "Blacksburg, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "1300Sarthak",
+        "id": "4726d3ac-1c32-4fbc-992a-c073c1b3509a",
+        "date_posted": 1757294132,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757294168,
+        "url": "https://careers-peraton.icims.com/jobs/158532/job",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "1300Sarthak",
+        "id": "fe8ac17e-3d5f-40c4-b26a-b983b2ac62d4",
+        "date_posted": 1757294168,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757294356,
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/5628292004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vercel",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "koacow",
+        "id": "80145b53-e3a5-40fd-a1dd-1fb589f6b1d4",
+        "date_posted": 1757294356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757295157,
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2026-Summer-Internship_R107280",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Austin Semiconductor",
+        "title": "Engineer Intern",
+        "source": "vanshb03",
+        "id": "40d54eb1-972a-43f1-a2ef-48cc21845e20",
+        "date_posted": 1757295157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757295170,
+        "url": "https://jobs.lever.co/bumbleinc/b21c0c9d-b805-4b82-ab4a-1a1d4c2b2ed8",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bumble Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c3446539-012c-49a1-b9b4-81a59e0ae968",
+        "date_posted": 1757295170,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
