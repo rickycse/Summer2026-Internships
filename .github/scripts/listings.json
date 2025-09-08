@@ -13411,7 +13411,7 @@
             "Saint Paul, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Computershare",
         "title": "Junior Developer Intern",
         "source": "vanshb03",
@@ -13602,7 +13602,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charles Schwab",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -14853,5 +14853,329 @@
         "date_posted": 1757246920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757247102,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01791714",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Collins Aerospace",
+        "title": "Software Engineering Co-Op",
+        "source": "vanshb03",
+        "id": "021f2b6a-4ff2-4369-99a6-cf07817e8cb7",
+        "date_posted": 1757247102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757247118,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Spring-Summer-2026---Onsite-_01791710",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Co-Op",
+        "source": "vanshb03",
+        "id": "d3d3f720-a376-4ca5-b8a1-f1447169c6f2",
+        "date_posted": 1757247118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757247448,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/XMLNAME-2026-US-Summer-Internships---Game-Engineering_R025908",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Animation Engineering Intern",
+        "source": "vanshb03",
+        "id": "e31c26b0-ac3d-4ab0-88ce-69824dc0b443",
+        "date_posted": 1757247448,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757247745,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/XMLNAME-2026-US-Summer-Internships---Production_R025916",
+        "locations": [
+            "Sherman Oaks, CA",
+            "Middleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Production Intern",
+        "source": "vanshb03",
+        "id": "b517d966-2e45-4ae6-8fb1-0070bcc4227f",
+        "date_posted": 1757247745,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757249064,
+        "url": "https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Decagon",
+        "title": "Agent Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "51fb14ce-5c39-44db-8cb9-5d3694725753",
+        "date_posted": 1757249064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757249954,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern--Product-Team--4-8-12-Months-_R1010514",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi Rail",
+        "title": "Software Analyst Intern, Product Team",
+        "source": "vanshb03",
+        "id": "b7c08198-33db-48cb-bb65-aa3755cb9375",
+        "date_posted": 1757249954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757249618,
+        "url": "https://job-boards.greenhouse.io/metron/jobs/4319824007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Metron",
+        "title": "Intern",
+        "source": "vanshb03",
+        "id": "d4ebd5e4-93c4-428f-b78d-d03dda0ef3ab",
+        "date_posted": 1757249618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757249728,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5635299004",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Ecommerce Programmer Intern",
+        "source": "vanshb03",
+        "id": "76cc06b1-7c9a-44f3-af41-8d0c02d5326f",
+        "date_posted": 1757249728,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250202,
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2026-_R0000402313",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Target",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "19fc43ba-a2e3-4f66-a4a8-8649f9ec5427",
+        "date_posted": 1757250202,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250208,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301412",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Distributed Systems Developer Intern",
+        "source": "vanshb03",
+        "id": "4ca63d10-3c90-46d4-9210-801d97232a2b",
+        "date_posted": 1757250208,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250213,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301413",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Full Stack Java Developer Intern",
+        "source": "vanshb03",
+        "id": "bfd8c692-b7de-4814-b605-9086bfa1cb68",
+        "date_posted": 1757250213,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250215,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301423",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Software Engineer Intern, R8fin",
+        "source": "vanshb03",
+        "id": "01d5dab5-60e2-4c37-a3ef-756b2079e65b",
+        "date_posted": 1757250215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250218,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301415",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICD",
+        "title": "Software Engineering Intern, ICD",
+        "source": "vanshb03",
+        "id": "46c24881-c0ed-4af8-b21d-b3d9a3e7124c",
+        "date_posted": 1757250218,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250219,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301421",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "STP Developer Intern",
+        "source": "vanshb03",
+        "id": "af65a09d-d862-4688-a3ed-f945f0015062",
+        "date_posted": 1757250219,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250222,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301417",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Java Developer Intern",
+        "source": "vanshb03",
+        "id": "3e76cb64-8d1a-4dfc-95de-f6dbf8e3d178",
+        "date_posted": 1757250222,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250224,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301416",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Java Developer Intern",
+        "source": "vanshb03",
+        "id": "1cfb9168-8f69-4aba-ac38-1ce302a4d2f7",
+        "date_posted": 1757250224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250226,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301414",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Full Stack Java Developer Intern",
+        "source": "vanshb03",
+        "id": "84a58266-0942-4c80-bab8-2b344dddd165",
+        "date_posted": 1757250226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757250372,
+        "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/8143420002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "26e73cc9-e0c6-42c3-b274-9fa0d7a73338",
+        "date_posted": 1757250372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757250628,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000079993731",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "20ddbab2-d80c-4d19-b56e-d84fa9788f52",
+        "date_posted": 1757250628,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
