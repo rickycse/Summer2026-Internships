@@ -15358,5 +15358,294 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757343853,
+        "url": "https://careers.cboe.com/us/en/job/CBJCGMUSR4156EXTERNALENUS/Site-Reliability-Engineering-Intern",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Site Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "44e491c3-a876-4dc7-af7b-bef9e1ebbcc3",
+        "date_posted": 1757343853,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757343862,
+        "url": "https://careers.cboe.com/us/en/job/CBJCGMUSR4157EXTERNALENUS/Software-Engineer-in-Test-Intern-Data-Vantage-Engineering",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Software Engineer in Test Intern, Data Vantage Engineering",
+        "source": "vanshb03",
+        "id": "e714ae14-96ba-4076-bf99-291174cd3954",
+        "date_posted": 1757343862,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757343870,
+        "url": "https://careers.cboe.com/us/en/job/CBJCGMUSR4116EXTERNALENUS/Software-Engineer-Intern-Data-Vantage",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Software Engineer Intern, Data Vantage",
+        "source": "vanshb03",
+        "id": "435ed3db-b87d-4983-8d80-ce4541adeeb8",
+        "date_posted": 1757343870,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757344048,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R28348",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "58f3bf40-8364-424c-afe6-952bef420065",
+        "date_posted": 1757344048,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757344053,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Intern_R28340",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "DevOps and Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "d887d830-b95f-4063-8426-144641c53b86",
+        "date_posted": 1757344053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757344061,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202566837/software-engineering-intern-north-hills-ny/",
+        "locations": [
+            "North Hills, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox Enterprises",
+        "title": "Software Engineering Intern, North Hills",
+        "source": "vanshb03",
+        "id": "25a64a91-4501-4b07-9c78-79fb9cdfe6b0",
+        "date_posted": 1757344061,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757344345,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Information Technology Intern, Software",
+        "source": "vanshb03",
+        "id": "c5cc3697-a997-412b-add6-d0f9f0751f58",
+        "date_posted": 1757344345,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346575,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97848244867867334-technical-program-manager-intern-bsms-summer-2026",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Technical Program Manager Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "85c4b4d4-c602-4f7e-921d-8e1b7338256d",
+        "date_posted": 1757346575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346580,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/141518372821967558-product-design-engineering-intern-bsms-summer-2026",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Product Design Engineering Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "89ba0514-4c6a-4bf6-9b05-6d8a331b373e",
+        "date_posted": 1757346580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346584,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/126044533367415494-user-experience-engineer-intern-bsms-summer-2026?q=Intern&location=United%20States",
+        "locations": [
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Bellevue, WA",
+            "Cambridge, MA",
+            "Chicago, IL",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "Madison, WI",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Portland, OR",
+            "Pittsburgh, PA",
+            "Reston, VA",
+            "Redmond, WA",
+            "San Diego, CA",
+            "Goleta, CA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Santa Cruz, CA",
+            "Sunnyvale, CA",
+            "Washington D.C., DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "User Experience Engineer Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "ed2e0e24-940d-414a-81f5-faa4a55083bb",
+        "date_posted": 1757346584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346617,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107132933369668294-security-engineering-intern-bsms-summer-2026?q=Intern&location=United%20States",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Security Engineering Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "7b2cb1a1-4188-46d4-be5e-042b00be6395",
+        "date_posted": 1757346617,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346993,
+        "url": "https://job-boards.greenhouse.io/vast/jobs/4594952006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vast",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e6cab598-a2bd-4dac-a77b-d13feb90fbd8",
+        "date_posted": 1757346993,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757347093,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8149465002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Science Intern, Decisions - Product",
+        "source": "vanshb03",
+        "id": "a4d2ff36-da48-4895-acf4-a6e34e13465c",
+        "date_posted": 1757347093,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757347096,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8134376002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Science Intern, Algorithms",
+        "source": "vanshb03",
+        "id": "5defdbfc-36b3-4ebe-a62f-1c6d6314170a",
+        "date_posted": 1757347096,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757349416,
+        "url": "https://careers.datadoghq.com/detail/7158137/",
+        "locations": [
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "be2c9e0f-7031-4e2c-b3a9-b2077e4d5e43",
+        "date_posted": 1757349416,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
