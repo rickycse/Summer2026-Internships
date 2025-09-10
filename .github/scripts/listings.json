@@ -7126,13 +7126,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1754342253,
+        "date_updated": 1757465064,
         "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30?lever-source=Indeed",
         "locations": [
             "Watertown, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cultivarium",
         "title": "Computer Vision and Machine Learning Intern",
         "source": "vanshb03",
@@ -10001,13 +10001,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755895381,
+        "date_updated": 1757465133,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Supply Chain Data Analyst Intern",
         "season": "Summer",
@@ -11278,13 +11278,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1756225515,
+        "date_updated": 1757465064,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6867897",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nuro",
         "title": "Software Engineer Intern, Performance",
         "source": "vanshb03",
@@ -11877,13 +11877,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756347521,
+        "date_updated": 1757465177,
         "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1",
         "locations": [
             "Wauwatosa, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cognex",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -14855,13 +14855,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757247102,
+        "date_updated": 1757465265,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01791714",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Collins Aerospace",
         "title": "Software Engineering Co-Op",
         "source": "vanshb03",
@@ -14872,13 +14872,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757247118,
+        "date_updated": 1757465267,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Spring-Summer-2026---Onsite-_01791710",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Co-Op",
         "source": "vanshb03",
@@ -14941,13 +14941,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757249954,
+        "date_updated": 1757465275,
         "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern--Product-Team--4-8-12-Months-_R1010514",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi Rail",
         "title": "Software Analyst Intern, Product Team",
         "source": "vanshb03",
@@ -14992,13 +14992,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757250202,
+        "date_updated": 1757454659,
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2026-_R0000402313",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Target",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -15343,13 +15343,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757295170,
+        "date_updated": 1757465065,
         "url": "https://jobs.lever.co/bumbleinc/b21c0c9d-b805-4b82-ab4a-1a1d4c2b2ed8",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bumble Inc.",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -15644,6 +15644,145 @@
         "source": "vanshb03",
         "id": "be2c9e0f-7031-4e2c-b3a9-b2077e4d5e43",
         "date_posted": 1757349416,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757349485,
+        "url": "https://careers.cboe.com/us/en/job/CBJCGMUSR4121EXTERNALENUS/Machine-Learning-Intern-Regulatory",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Machine Learning Intern, Regulatory",
+        "source": "vanshb03",
+        "id": "92e560bf-41da-4b0b-a2f0-6d5b9d1351ba",
+        "date_posted": 1757349485,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757349488,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R5393",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "551336a6-09a8-46b5-82b7-66af61b302c7",
+        "date_posted": 1757349488,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757464415,
+        "url": "https://app.ripplematch.com/v2/public/job/146d369a",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Plaid",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e9041913-276f-47ab-a3cc-144084825aab",
+        "date_posted": 1757464415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757465549,
+        "url": "https://careersus-shure.icims.com/jobs/4453/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Mobile Applications (iOS) Intern",
+        "source": "vanshb03",
+        "id": "0f145207-fbb8-46fb-a423-f2dff89a917d",
+        "date_posted": 1757465549,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757465557,
+        "url": "https://careersus-shure.icims.com/jobs/4405/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Cloud Applications Development Intern",
+        "source": "vanshb03",
+        "id": "0ad52005-3f96-4290-ab85-682b00f87e5d",
+        "date_posted": 1757465557,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757465564,
+        "url": "https://careersus-shure.icims.com/jobs/4438/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "aa7601a2-4306-4a04-ac2c-8e34a9cc869a",
+        "date_posted": 1757465564,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757465568,
+        "url": "https://careersus-shure.icims.com/jobs/4454/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Mobile Applications (Android) Intern",
+        "source": "vanshb03",
+        "id": "0b2a48bc-cf8e-4bc6-b9e1-b3861fcbf435",
+        "date_posted": 1757465568,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757465572,
+        "url": "https://careersus-shure.icims.com/jobs/4426/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Embedded Software Development Intern",
+        "source": "vanshb03",
+        "id": "0c218ded-93d1-45d0-8967-1bc9f188d77e",
+        "date_posted": 1757465572,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
