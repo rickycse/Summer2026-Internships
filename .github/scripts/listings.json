@@ -15786,5 +15786,129 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757465915,
+        "url": "https://careers.ti.com/en/sites/CX/job/25007019/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Information Technology Intern, Data Analysis & Engineering",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "11ce27b8-72d7-4b9c-946b-d94c1495b5c7",
+        "date_posted": 1757465915,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757466157,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSFEFE11DFA95346F5B7E806BB23C91960EXTERNALENUS075C4CB06B1A4F3A8117637BE356CD45/Software-Engineer-Intern-AI-ML-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (AI/ML)",
+        "season": "Spring",
+        "source": "Mrnidhi",
+        "id": "e0d53ed5-023d-4bf3-90f5-d755d809a4c3",
+        "date_posted": 1757466157,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757466175,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4606014005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale.ai",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "REDact324",
+        "id": "563d1d78-fab7-4157-8252-8c33be64b3af",
+        "date_posted": 1757466175,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757466228,
+        "url": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "eb632d0e-8325-493d-ae28-bfea8162807c",
+        "date_posted": 1757466228,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757466400,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS4C6519509550483990BBE831D97EC14DEXTERNALENUS1BDB0EA7A7F444999F846B35FDD488EA/Software-Engineer-Intern-Core-Engineering-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Core Engineering",
+        "source": "vanshb03",
+        "id": "0fe122d7-1911-4a08-b2a5-7a47f29b3164",
+        "date_posted": 1757466400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757466412,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Infrastructure Automation",
+        "source": "vanshb03",
+        "id": "f1a8c298-b6da-4dc1-8c34-c3d76915be0c",
+        "date_posted": 1757466412,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757468734,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331",
+        "locations": [
+            "O'Fallon, MO",
+            "Atlanta, GA",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "68cf1044-b07d-43f2-bf40-a2c2bcea3f32",
+        "date_posted": 1757468734,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
