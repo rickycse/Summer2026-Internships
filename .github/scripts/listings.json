@@ -5172,7 +5172,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753108255,
+        "date_updated": 1757559741,
         "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011692",
         "locations": [
             "San Francisco, CA",
@@ -5180,7 +5180,7 @@
             "Little Rock, AR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LiveRamp",
         "title": "Software Engineer Co-Op",
         "source": "vanshb03",
@@ -10241,13 +10241,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755919028,
+        "date_updated": 1757559730,
         "url": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Metronome",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -15434,13 +15434,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757344053,
+        "date_updated": 1757559950,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Intern_R28340",
         "locations": [
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "DevOps and Infrastructure Intern",
         "source": "vanshb03",
@@ -15912,13 +15912,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757532319,
+        "date_updated": 1757559731,
         "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8157171002",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -15927,5 +15927,580 @@
         "date_posted": 1757532319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757559731,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8157163002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "ddd3e30a-eca6-463f-8bad-32c15daac663",
+        "date_posted": 1757538789,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Information-Security-Intern_R4276",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "U.S. Venture",
+        "title": "Information Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1a7f08ac-a84e-4f3d-b97f-563a3510e469",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Infrastructure-Internship_J-018965-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Huntsman",
+        "title": "IT Infrastructure Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3514e24d-0f08-4e6c-8bbc-c014b64dcdce",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/HW--Electrical---Optical-Engineering-Intern_250003832",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viavi Solutions",
+        "title": "Hardware/Electrical/Optical Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "53b19823-4cf5-4e75-a0b1-01a8cafb5ffb",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025755",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Hardware Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5b0682e5-bde0-4f5f-84c3-bb8dd6523c6b",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41933",
+        "locations": [
+            "Providence, RI",
+            "Norwood, MA",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "057c5f82-25bc-417e-b847-4637d55d8659",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Cyber Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "441696c5-803c-4e50-8e88-1be0a9514e75",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-and-Master-s-Research---Development-Intern_R01155851",
+        "locations": [
+            "Austin, TX",
+            "Woodbury, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "3M",
+        "title": "Research & Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fe654373-f055-4c98-b353-d4c36fb084dc",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Intern--Colorado-_1193618",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "661f5181-dddf-457b-bb9a-2e3d43eadab8",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers-sig.icims.com/jobs/9382/job",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group (SIG)",
+        "title": "Quantitative Trader Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f821d8de-26c2-4dc4-a217-969a9a4593d7",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025054",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Cybersecurity Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c57a0aca-ee18-4dcf-a12c-b7b78121169f",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0f76a807-8b0d-43ea-9046-6b90e1ad5229",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers-gdms.icims.com/jobs/67909/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f0063fd7-48c4-4b12-a31e-1c56372dc771",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Quantitative-Research-Intern--Systematic-Fixed-Income-Strategies-Team_2117373",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fidelity Investments",
+        "title": "Quantitative Research Intern, Systematic Fixed Income Strategies Team",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f4e8e77-4882-4898-857e-29482da6f922",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://jobs.keysight.com/jobs/49447?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "IT Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5aed3b51-1158-4390-850b-015502af0a8b",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers.medpace.com/jobs/11562?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace, Inc.",
+        "title": "Informatics Internship/Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "78ee5aa1-4397-4f40-8890-6f9e3f4e118f",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113348",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grant Thornton",
+        "title": "Audit IT Assurance Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7e1b6d3a-df57-45c0-9835-58f2c193348d",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41925",
+        "locations": [
+            "Coralville, IA",
+            "Providence, RI",
+            "Columbus, OH",
+            "Norwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e3302293-a3b9-49bd-b612-ff12a3caaeab",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://jobs.ashbyhq.com/ramp/43ac03c8-65f5-4522-ab3d-6d496ae7d925",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Applied Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b76349be-ea95-4cc9-ac21-87ec62942af8",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers.skyworksinc.com/job/Austin-Product-Engineer-Intern-TX-73301/1324850300",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a9594ed5-0638-41b1-8ccd-7b24f376c5ab",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://jobs.ashbyhq.com/reframesystems/76b3c3d9-c741-4707-bd38-1d5e75781520/application",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reframe Systems",
+        "title": "Software Engineer and Full Stack Robotics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4bc5722f-67a8-4b27-876f-cf041889c2d0",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelor-s-Degree_2502255-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Application Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fa4aa389-8a73-43e9-91f8-1241f7357e0c",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer-Intern---Master-s-Degree_2502391",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Application Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "90e498eb-0e32-4406-8b32-7a886f6bb894",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Cybersecurity_R-2293268",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4e209b9a-ecfd-40e2-a01c-458dc33f3cd1",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Aftermarket-Product-Management-Intern_R39698",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Aftermarket Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3da4cc55-d261-42c3-b3b9-caded1e90010",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Irvine-CA/Hardware-Design-Engineer-Intern---Master-s-Degree_2502449",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Hardware Design Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "134592e0-8e71-4b9b-a86e-debfa9a55b88",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41920",
+        "locations": [
+            "Coralville, IA",
+            "Providence, RI",
+            "Columbus, OH",
+            "Norwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5ae154a0-2c28-4e1d-9b97-be51f97a544a",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025030",
+        "locations": [
+            "Shakopee, MN",
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d9fae2ba-366a-4ede-918a-94a15ecb2150",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024968",
+        "locations": [
+            "Shakopee, MN",
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4011028c-4f68-4b84-b08d-0a325f2572e6",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Development-Intern---US-AutoForce_R4289",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "U.S. Venture",
+        "title": "Software Development Intern, U.S. Autoforce",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e0096799-779f-4ba9-9a6d-aff3fdcbbc5a",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757577476,
+        "url": "https://www.workatastartup.com/jobs/81528",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SID",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "2f07ef1c-719d-410c-b6c9-d62e3ef357f3",
+        "date_posted": 1757577476,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757576517,
+        "url": "https://block.xyz/careers/jobs/4904196008",
+        "locations": [
+            "Remote",
+            "Bay Area, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Block, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "370db1a5-9fbe-46a0-8adc-b991047ea029",
+        "date_posted": 1757576517,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757579328,
+        "url": "https://jobs.jobvite.com/windriver/job/ooShxfwO",
+        "locations": [
+            "Walnut Creek, CA",
+            "San Diego, CA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wind River",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7d331660-55d4-4d61-8c5f-5c93bacb0632",
+        "date_posted": 1757579328,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
