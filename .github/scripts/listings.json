@@ -4735,13 +4735,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752524369,
+        "date_updated": 1757658515,
         "url": "https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Belvedere Trading",
         "title": "Quantitative Trading Intern",
         "source": "vanshb03",
@@ -9640,13 +9640,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755726355,
+        "date_updated": 1757658580,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Full Stack Software Engineer Intern, Team Sprout",
         "source": "vanshb03",
@@ -16499,6 +16499,664 @@
         "source": "vanshb03",
         "id": "7d331660-55d4-4d61-8c5f-5c93bacb0632",
         "date_posted": 1757579328,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Suno",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "edcbfc39-ba03-49b3-a5ae-054430812464",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7157822",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudl",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "554b79c9-17b0-42bf-8ed5-346ed77a0732",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://careers.qorvo.com/job/Greensboro-Database-Administrator-Intern-NC-27409/1325292500",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Database Administrator Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f2cdcc8c-3a10-45fd-8b0c-d5d0e1782325",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Zeeland/ML-AI-Engineer--Intern_JR107344",
+        "locations": [
+            "Holland, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "ML/AI Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "17e87bb5-5ca2-416f-85f9-8cf41afe6827",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R39711",
+        "locations": [
+            "Frederick, MD",
+            "Hagerstown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5cc1af2b-546e-42af-ae7a-24ad7c1d384e",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658926,
+        "url": "https://jobs.citizensbank.com/job/johnston/network-engineer-internship-summer-2026/288/85989791872",
+        "locations": [
+            "Johnston, RI",
+            "Westwood, MA",
+            "Iselin, NJ",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Network Engineer Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "76188c3a-3bd6-4f74-873c-c8f73fac041f",
+        "date_posted": 1757658926,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658949,
+        "url": "https://jobs.citizensbank.com/job/johnston/cloud-engineer-internship-summer-2026/288/85989791792",
+        "locations": [
+            "Johnston, RI",
+            "Westwood, MA",
+            "Iselin, NJ",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "a91b0d45-d436-488b-991f-fe3c67e43405",
+        "date_posted": 1757658949,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658968,
+        "url": "https://jobs.citizensbank.com/job/johnston/software-engineer-internship-summer-2026/288/85989791856",
+        "locations": [
+            "Johnston, RI",
+            "Westwood, MA",
+            "Iselin, NJ",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "373f4aeb-13f8-4c03-8994-8c13d0139fbb",
+        "date_posted": 1757658968,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658981,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=802081#jobDetails=802081_5014",
+        "locations": [
+            "Bellevue, NE"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "34b1e904-1ad1-4758-b6b6-3288919ed326",
+        "date_posted": 1757658981,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757658746,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/956221/software-engineer-intern-2026",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge Investment Management",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "04d060d3-fed0-4a12-9fea-6ca3a0b71f23",
+        "date_posted": 1757658746,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658750,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808549401",
+        "locations": [
+            "Arden Hills, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "R&D Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cbfabc7e-302d-43ac-aad0-b07b415fce1a",
+        "date_posted": 1757658750,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658798,
+        "url": "https://join.atlassian.com/atlassian-talent-community/jobs/20958",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Site Reliability Engineer Intern",
+        "source": "vanshb03",
+        "id": "8d6fc524-4aed-43e9-9264-f2000c7ce0f8",
+        "date_posted": 1757658798,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658842,
+        "url": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=MARTFAMO&cws=37&rid=5499",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Martin's Famous Pastry Shoppe, Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3bb0f9cd-76a2-4c9d-abd8-832c1fbc04e3",
+        "date_posted": 1757658842,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658847,
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2026_33043-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CME Group",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "18661999-441a-4524-bc22-c3cb34d34958",
+        "date_posted": 1757658847,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658853,
+        "url": "https://careers.zebra.com/careers/job/343627917244",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "4c8cdd60-e849-402b-8bcb-e86a33e8c4ff",
+        "date_posted": 1757658853,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658858,
+        "url": "https://careers.zebra.com/careers/job/343627917245",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Web Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "1bb61600-e741-4a4f-85a5-058c60d6f4b8",
+        "date_posted": 1757658858,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757658863,
+        "url": "https://www.tesla.com/careers/search/job/250807",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "3ce99a88-1ca2-4f7b-875b-3e46530da636",
+        "date_posted": 1757658863,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1757669703,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85990407296",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walt Disney Imagineering",
+        "title": "Show Programming (Figure Programming) Intern",
+        "source": "vanshb03",
+        "id": "aa280c8b-23b8-4432-9461-50eb3b8b88d8",
+        "date_posted": 1757669703,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757669765,
+        "url": "https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR39717EXTERNALENUS/Software-Engineer-Intern",
+        "locations": [
+            "Greencastle, PA",
+            "Frederick, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ad818208-9fe6-4d56-a695-8eeb39f8ddd2",
+        "date_posted": 1757669765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757669880,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505499EXTERNALENGLOBAL/Embedded-Software-Developer-Intern",
+        "locations": [
+            "La Crosse, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Embedded Software Developer Intern",
+        "source": "vanshb03",
+        "id": "34bb7f5d-9035-4fbe-9f19-903cb9e05cbf",
+        "date_posted": 1757669880,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757670142,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505287EXTERNALENGLOBAL/Software-Development-Engineering-Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Software Development Engineering Intern",
+        "source": "vanshb03",
+        "id": "d3b8fa9c-43bb-47ea-9a44-c311492a8a6f",
+        "date_posted": 1757670142,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757670162,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505339EXTERNALENGLOBAL/Software-Test-Engineer-Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "eff3b322-e633-4f35-962e-1968126876f5",
+        "date_posted": 1757670162,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757670188,
+        "url": "https://careers-origamirisk.icims.com/jobs/3855/job",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Origami Risk",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1c517770-b586-4dd8-b59a-cfb7877edf03",
+        "date_posted": 1757670188,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757670253,
+        "url": "https://careers-rovisys.icims.com/jobs/1840/job",
+        "locations": [
+            "Holly Springs, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "RoviSys",
+        "title": "Software Engineer Co-op ",
+        "source": "vanshb03",
+        "id": "e4fd4308-ace7-4308-893e-579e0d846217",
+        "date_posted": 1757670253,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671203,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Software-Engineering_R10636",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "35e8fa20-bec6-4e84-a07f-9a68b92abbb3",
+        "date_posted": 1757671203,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671211,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Site-Reliability_R10747",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Site Reliability Intern",
+        "source": "vanshb03",
+        "id": "07c5b3e0-85c3-4677-8eec-1c5f0efbf507",
+        "date_posted": 1757671211,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671215,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Security-Engineering_R10742",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "b178eb61-442b-4e21-b5e5-6abb35e2d509",
+        "date_posted": 1757671215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671220,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Security-Operations_R10743",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Security Operations Intern",
+        "source": "vanshb03",
+        "id": "253e421f-05bf-4bfe-8927-efb1c8f8eb29",
+        "date_posted": 1757671220,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671229,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Machine-Learning-Engineer_R10688",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "b3c27c28-cb61-49b8-9cf3-16e1c50555fe",
+        "date_posted": 1757671229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671233,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Spring-2026-Intern---Product---Application-Security_R10744-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Product & Application Security Intern",
+        "source": "vanshb03",
+        "id": "74b4c69c-5737-4c98-ae15-6f082f4d4678",
+        "date_posted": 1757671233,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757671321,
+        "url": "https://dell.wd1.myworkdayjobs.com/external/job/Round-Rock-Texas-United-States/AI-Solutions-Intern_R277648-1",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dell Technologies",
+        "title": "AI Solutions Intern",
+        "source": "vanshb03",
+        "id": "0a3311d9-e55b-40fe-b502-73226632a8fa",
+        "date_posted": 1757671321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671659,
+        "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rilla",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d7056417-0bea-4e3d-832c-d967ada9d7b1",
+        "date_posted": 1757671659,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671704,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/millerknoll/job/MI---Zeeland/ML-AI-Engineer--Intern_JR107344",
+        "locations": [
+            "Zeeland, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "ML/AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "0cc676b9-86bb-4a05-9974-615729e5c46d",
+        "date_posted": 1757671704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671736,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7157822",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudl",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e6373fdb-4234-40e4-9159-877736245fe7",
+        "date_posted": 1757671736,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671739,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7231250",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Hudl",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "6fba0cca-2d83-47db-94d6-a3a56fc6d1b9",
+        "date_posted": 1757671739,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671874,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer-Intern_R-050437",
+        "locations": [
+            "Boston, MA",
+            "Lowell, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c4985b66-3373-41f2-92cb-a0ee507c278e",
+        "date_posted": 1757671874,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671879,
+        "url": "https://job-boards.greenhouse.io/avalabs/jobs/5644616004",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ava Labs",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "fac55e6c-49cb-4ddd-9e5a-e7e8dd017480",
+        "date_posted": 1757671879,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757671888,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/millerknoll/job/MI---Zeeland/Information-Security-Intern_JR107379",
+        "locations": [
+            "Zeeland, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "270876e1-9ea7-4899-b070-69bcb6e2746e",
+        "date_posted": 1757671888,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
