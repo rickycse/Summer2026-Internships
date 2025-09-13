@@ -7907,13 +7907,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754748064,
+        "date_updated": 1757742218,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MIcrosoft",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -8584,13 +8584,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755162430,
+        "date_updated": 1757742220,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1860960/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer Intern, Fullstack",
         "source": "vanshb03",
@@ -11433,13 +11433,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756241845,
+        "date_updated": 1757742220,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1863950/Cloud-Network-Engineer%3A-Internship-Opportunities---Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Cloud Network Engineer Intern",
         "season": "Summer",
@@ -11521,13 +11521,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341058,
+        "date_updated": 1757742219,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Data Engineer Intern",
         "season": "Summer",
@@ -11619,13 +11619,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341243,
+        "date_updated": 1757742219,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Quality Engineer Intern",
         "season": "Summer",
@@ -13831,13 +13831,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756866580,
+        "date_updated": 1757728350,
         "url": "https://careers.cai.io/us/en/job/CAICAIUSR6094EXTERNALENUS/Software-Developer-Intern",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CAI",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -17157,6 +17157,744 @@
         "source": "vanshb03",
         "id": "270876e1-9ea7-4899-b070-69bcb6e2746e",
         "date_posted": 1757671888,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757728361,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=824977#jobDetails=824977_5014",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "22e7c5ed-a3c8-4068-8a37-f3a18379dec6",
+        "date_posted": 1757728361,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757733373,
+        "url": "https://activision.wd1.myworkdayjobs.com/blizzard_external_careers/job/Sherman-Oaks/XMLNAME-2026-US-Summer-Internships---Cyber-Security_R025992-3",
+        "locations": [
+            "Sherman Oaks, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "5dcfe13b-b430-4594-8a31-aedca3243979",
+        "date_posted": 1757733373,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733377,
+        "url": "https://activision.wd1.myworkdayjobs.com/external/job/Playa-Vista---Activision---Treyarch/XMLNAME-2026-US-Internships---Computer-Graphics_R025915",
+        "locations": [
+            "Playa Vista, CA",
+            "Redmond, WA",
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Computer Graphics Intern",
+        "source": "vanshb03",
+        "id": "18eaff01-62c3-4243-9b93-5a9febe67aa9",
+        "date_posted": 1757733377,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733380,
+        "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0016999-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AB",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "62216a8f-e0b6-4827-8965-753ac5975235",
+        "date_posted": 1757733380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733386,
+        "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0017001-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AB",
+        "title": "Infrastructure Engineering Intern",
+        "source": "vanshb03",
+        "id": "b36c3d2b-ab4b-4dc1-b3c2-53174c96331a",
+        "date_posted": 1757733386,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733393,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/millerknoll/job/MI---Zeeland/Information-Security-Intern_JR107379",
+        "locations": [
+            "Zeeland, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "66cffd6c-8ac3-43e6-996b-5cc66a609848",
+        "date_posted": 1757733393,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733439,
+        "url": "https://www.mongodb.com/careers/jobs/7239454",
+        "locations": [
+            "Austin, TX",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "92b23934-1170-464f-887b-495b85ad0be8",
+        "date_posted": 1757733439,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733856,
+        "url": "https://careers.garmin.com/jobs/17150/job",
+        "locations": [
+            "Middlebury, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Aviation Web Development",
+        "source": "vanshb03",
+        "id": "71edc619-d294-4d84-9446-a627f4612fe6",
+        "date_posted": 1757733856,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733905,
+        "url": "https://careers.moodys.com/moody-s-ratings-technology-summer-internship-application-development/job/10620",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moody's",
+        "title": "Ratings Technology Intern, Application Development",
+        "source": "vanshb03",
+        "id": "72437a3b-c47d-4791-95bc-ac20a295edc6",
+        "date_posted": 1757733905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733912,
+        "url": "https://itron.wd5.myworkdayjobs.com/en-US/Itron/job/United-States-of-America-North-Carolina-Raleigh/Intern---Firmware---Hardware-Security-Engineer_JR101641-2",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Itron",
+        "title": "Firmware / Hardware Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "931583f3-ae0f-409b-a246-a9704065c328",
+        "date_posted": 1757733912,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733920,
+        "url": "https://careers.staples.com/en/job/-/-/44412/86032290864",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineering Intern, SDS e-Commerce",
+        "source": "vanshb03",
+        "id": "f362ebe2-df22-4ff0-96a4-59a1a796f5d5",
+        "date_posted": 1757733920,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733923,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/86043539312",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9ca39c9e-30c5-483a-ad3f-46faa695db05",
+        "date_posted": 1757733923,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733937,
+        "url": "https://uscareers-lennox.icims.com/jobs/50063/job",
+        "locations": [
+            "Carrollton, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lennox",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "94dde935-04e5-4a48-81d7-210ddb344132",
+        "date_posted": 1757733937,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733968,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=235750&clientkey=43D75E2DF3DFB76BCB85A922B26DE5FA",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solarity",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9c9e0b17-fe0e-4eed-9b12-23087677782f",
+        "date_posted": 1757733968,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733972,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007126",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9247bd0e-04d9-417c-ab8b-5d073f300a07",
+        "date_posted": 1757733972,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733982,
+        "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-6394-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNA",
+        "title": "Technology Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "be50fd26-f084-4290-a7f4-3195bd5ba83b",
+        "date_posted": 1757733982,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733985,
+        "url": "https://jobs.jobvite.com/careers/altamiracorps/job/o0kUxfwv",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Altamira Technologies Corp.",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "8a332b7c-e2db-4205-a4ad-aca7435708f4",
+        "date_posted": 1757733985,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733987,
+        "url": "https://career4.successfactors.com/careers?career_ns=job_listing&company=colgate&selected_lang=nl-NL&career_job_req_id=169295",
+        "locations": [
+            "Piscataway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Colgate-Palmolive",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "a2d054d1-b2ed-45cc-b1ab-e49e5f38130c",
+        "date_posted": 1757733987,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1757734040,
+        "url": "https://jobs.aligntech.com/en/postings/748d529c-e3ab-4f4b-a242-3cd8ae84e8b0",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align Technology",
+        "title": "Software Engineering Intern, 3D Product Research and Development",
+        "source": "vanshb03",
+        "id": "815a3a4e-a0d2-43c5-905c-53c759ee0ee8",
+        "date_posted": 1757734040,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734057,
+        "url": "https://jobs.aligntech.com/en/postings/989b0ae6-69a6-41df-a1e9-40cbb4da5cff",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align Technology",
+        "title": "C++ Intern",
+        "source": "vanshb03",
+        "id": "6dba86db-2f7a-4795-867e-5227a26cf9ae",
+        "date_posted": 1757734057,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734089,
+        "url": "https://jobs.aligntech.com/en/postings/29f80852-61f8-4bb4-82eb-0ced3926a740",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align Technology",
+        "title": "Cloud Guardrails Intern",
+        "source": "vanshb03",
+        "id": "137ee60e-6f85-4ba9-b911-f6b3a189f06a",
+        "date_posted": 1757734089,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734147,
+        "url": "https://jobs.jobvite.com/careers/tylertech/job/oreVxfwR",
+        "locations": [
+            "Lubbock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tyler Technologies",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "41156e70-79d2-43b7-94b5-48a3de2bdf96",
+        "date_posted": 1757734147,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734152,
+        "url": "https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=cf27351e-5100-4731-8882-c7bf9ba1451f",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fintech",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e234ed74-d05f-4ace-aa7f-33a0924a8504",
+        "date_posted": 1757734152,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734155,
+        "url": "https://lifeattiktok.com/search/7549325030153488658",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Site Reliability Engineer Intern, USDS",
+        "source": "vanshb03",
+        "id": "4cc0f3c0-2278-4e42-8ff6-2bf307ccbf09",
+        "date_posted": 1757734155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734158,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Software-Engineering-Intern--Sales-Technology-----Summer-2026_R2515210",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medline",
+        "title": "IT Software Engineering Intern, Sales Technology",
+        "source": "vanshb03",
+        "id": "463113f9-0220-41bf-b38f-d661a64e061b",
+        "date_posted": 1757734158,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734162,
+        "url": "https://careers-eagleview.icims.com/jobs/2594/job",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EagleView",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "741659fe-7c7a-4727-8d3d-ff35478640dc",
+        "date_posted": 1757734162,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757734212,
+        "url": "https://jobs.jobvite.com/careers/inogen/job/oFzUxfwp",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inogen",
+        "title": "Embedded Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "8a926acb-e992-4caa-9272-c2cb696359fa",
+        "date_posted": 1757734212,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757734245,
+        "url": "https://careers.moodys.com/moody-s-ratings-technology-summer-internship-data-engineering/job/10710",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moody's",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "895ac178-d168-483e-be06-9ec9a30e350d",
+        "date_posted": 1757734245,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733587,
+        "url": "https://www.metacareers.com/jobs/785799000528657/",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Offensive Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "e59544a1-6b41-409b-b2db-856935312eb4",
+        "date_posted": 1757733587,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733638,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246747",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bce77a35-bbe5-4705-a1ae-7b53bb5b8b83",
+        "date_posted": 1757733638,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733671,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7248075",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Cybersecurity Operations Intern",
+        "source": "vanshb03",
+        "id": "25c4443f-8f15-49b0-8cb5-750e0ceccce3",
+        "date_posted": 1757733671,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733680,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246003",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Market Risk Intern",
+        "source": "vanshb03",
+        "id": "9df42694-a08d-443f-a171-ad9942d2c5e4",
+        "date_posted": 1757733680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733691,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246131",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Reference Data Operations Intern",
+        "source": "vanshb03",
+        "id": "2fce5d77-6790-41fd-acd6-5f1c6245fdce",
+        "date_posted": 1757733691,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733695,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7245680",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "DMFI Summer Analyst Intern",
+        "source": "vanshb03",
+        "id": "ff588a3c-c350-40ff-9d4f-a7f8f1841dff",
+        "date_posted": 1757733695,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757733707,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Business Analytics Intern",
+        "source": "vanshb03",
+        "id": "7071e559-d08f-4504-8713-1c6775cb9534",
+        "date_posted": 1757733707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743584,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Systems",
+        "source": "vanshb03",
+        "id": "c24b00d3-17fc-4055-a80c-50b5d8e1f90d",
+        "date_posted": 1757743584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743659,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Security",
+        "source": "vanshb03",
+        "id": "95641ddb-b120-4782-8f61-35070718496b",
+        "date_posted": 1757743659,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743690,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1877399/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Mountain-View",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "dfa33e0a-f53d-4e49-99cb-5156b8320d0c",
+        "date_posted": 1757743690,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743693,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861022/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "36a130c2-849f-4144-93f8-34aae3202658",
+        "date_posted": 1757743693,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743696,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861019/Software-Engineer%3A-Frontend-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Frontend",
+        "source": "vanshb03",
+        "id": "a48a0c37-2ed4-427b-8615-430247d0b0a8",
+        "date_posted": 1757743696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743780,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Applied AI/ML",
+        "source": "vanshb03",
+        "id": "3dbdb04d-068e-4762-b1e4-7ed1d6e5ba56",
+        "date_posted": 1757743780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743784,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860947/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "599d7729-3f99-44ef-aaa8-cd1919ac3b7c",
+        "date_posted": 1757743784,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757743787,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1877249/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Mountain-View",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Applied AI/ML",
+        "source": "vanshb03",
+        "id": "5d86d134-5ebd-4e6e-8025-8b21ec557272",
+        "date_posted": 1757743787,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
