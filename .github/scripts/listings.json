@@ -49,13 +49,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744271371,
+        "date_updated": 1757825763,
         "url": "https://www.tesla.com/careers/search/job/240953",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Haskell Software Developer, Vehicle Firmware Intern - Fall",
         "season": "Fall",
@@ -83,13 +83,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744271721,
+        "date_updated": 1757825676,
         "url": "https://www.tesla.com/careers/search/job/240980",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Red Team Security Engineer, Vehicle Software Intern - Fall",
         "season": "Fall",
@@ -134,13 +134,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744736754,
+        "date_updated": 1757825633,
         "url": "https://www.tesla.com/careers/search/job/240980",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Android Engineer, Mobile Software Intern - Fall",
         "season": "Fall",
@@ -151,13 +151,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744736784,
+        "date_updated": 1757825602,
         "url": "https://www.tesla.com/careers/search/job/241088",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Fullstack C++ Engineer, Vehicle User Interface Intern - Fall",
         "season": "Fall",
@@ -517,14 +517,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745882292,
+        "date_updated": 1757825374,
         "url": "https://www.tesla.com/careers/search/job/242048",
         "locations": [
             "Fremont, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Thermal & Chassis Analytics",
         "source": "vanshb03",
@@ -534,14 +534,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745882292,
+        "date_updated": 1757825400,
         "url": "https://www.tesla.com/careers/search/job/240190",
         "locations": [
             "Fremont, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Data Analytics Intern, Supply Chain",
         "source": "vanshb03",
@@ -551,14 +551,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745882292,
+        "date_updated": 1757825434,
         "url": "https://www.tesla.com/careers/search/job/242108",
         "locations": [
             "Fremont, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineering Intern, Applications Engineering",
         "source": "vanshb03",
@@ -602,14 +602,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746053933,
+        "date_updated": 1757825786,
         "url": "https://www.tesla.com/careers/search/job/242174",
         "locations": [
             "Palo Alto, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Fullstack Software Engineer Intern, Machine Learning Platform",
         "source": "vanshb03",
@@ -17915,5 +17915,143 @@
         "date_posted": 1757797601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757826167,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-cyber-security-intern/27595/86084154656",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "595775f5-d827-49d0-9ace-1765490ed617",
+        "date_posted": 1757826167,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757826184,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-front-end-engineering-intern/27595/86084161248",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Front End Engineering Intern",
+        "source": "vanshb03",
+        "id": "0f8751b7-5f15-4d53-a5d1-d7907dcd7031",
+        "date_posted": 1757826184,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757826192,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-mobile-ios-android-intern/27595/86084161264",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Engineer Intern, Mobile(iOS/Android)",
+        "source": "vanshb03",
+        "id": "1477676b-faa7-413d-a73b-549859a848c1",
+        "date_posted": 1757826192,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757826199,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-full-stack-engineering-intern/27595/86084161280",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Full Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "6e30409b-366b-41fe-a6bd-51dcc1ef3203",
+        "date_posted": 1757826199,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757826208,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-ai-science-intern/27595/86084163248",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "AI Science Intern",
+        "source": "vanshb03",
+        "id": "366dc475-8bb4-4e53-9d67-e7048c9f1c92",
+        "date_posted": 1757826208,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757826216,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-backend-engineering-intern/27595/86084163280",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Backend Engineering Intern",
+        "source": "vanshb03",
+        "id": "9d319acd-e5fc-429e-aa8b-e9de5975603f",
+        "date_posted": 1757826216,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757827967,
+        "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+        "locations": [
+            "Redmond, WA",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Undergraduate Research Intern, Computing",
+        "source": "vanshb03",
+        "id": "8e7a91a7-7f63-4c13-ac02-c4c3b6670de6",
+        "date_posted": 1757827967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
