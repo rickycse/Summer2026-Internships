@@ -1,12 +1,12 @@
 [
     {
-        "date_updated": 1744270686,
+        "date_updated": 1757786110,
         "url": "https://www.tesla.com/careers/search/job/241053",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Controls Engineer Intern, Optimus - Fall",
         "season": "Fall",
@@ -2335,14 +2335,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173670,
+        "date_updated": 1757797624,
         "url": "https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Software Engineer Intern, Frontend",
         "season": "Fall",
@@ -2353,14 +2353,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173708,
+        "date_updated": 1757799072,
         "url": "https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Software Engineer Intern, Backend/Full-stack",
         "season": "Fall",
@@ -2371,14 +2371,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173760,
+        "date_updated": 1757786125,
         "url": "https://jobs.jobvite.com/splunk-careers/job/otG8vfww",
         "locations": [
             "Remote",
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Software Engineer Co-Op, Backend/Full-stack",
         "season": "Fall",
@@ -4291,13 +4291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752164328,
+        "date_updated": 1757786048,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Product Manager Intern",
         "season": "Fall",
@@ -4325,13 +4325,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1752164767,
+        "date_updated": 1757785867,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Site Reliability Engineer Intern",
         "season": "Fall",
@@ -5010,13 +5010,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752995288,
+        "date_updated": 1757786034,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/302269",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oracle Health",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -8186,13 +8186,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754806570,
+        "date_updated": 1757786020,
         "url": "https://jobs.redbull.com/us-en/east-hanover-2025-internship-summer-data-science-remote-prv-ref23605a?sourceTypeId=PAID&sourceId=cf9c853d-3d03-4305-93a7-9bd9c04803b1",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "New York Red Bulls",
         "title": "Data Science Intern",
         "season": "Fall",
@@ -17898,5 +17898,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757797601,
+        "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Allium Labs",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "leechenghan",
+        "id": "b5b7ae40-d8c1-4855-b881-98f352c79cfc",
+        "date_posted": 1757797601,
+        "company_url": "",
+        "is_visible": true
     }
 ]

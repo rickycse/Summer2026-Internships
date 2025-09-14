@@ -107,7 +107,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
-| New York Red Bulls | Data Science Intern | Remote | <a href="https://jobs.redbull.com/us-en/east-hanover-2025-internship-summer-data-science-remote-prv-ref23605a?sourceTypeId=PAID&sourceId=cf9c853d-3d03-4305-93a7-9bd9c04803b1&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Honeywell | Software Engineer Co-Op | Mason, OH | <a href="https://careers.honeywell.com/en/sites/Honeywell/my-profile/preview/109972?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Tesla | Chassis Integration Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | ↳ | Software Integration Engineer Intern, AI Platforms | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
@@ -140,7 +139,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Information Systems Intern, Financial Source-to-Pay | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376064?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Nowadays | Product Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/nowadays/jobs/iRSGsmg-product-engineer-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | TikTok | Machine Learning Engineer Intern, TikTok-Recommendation | Seattle, WA | <a href="https://lifeattiktok.com/search/7525635858708646152?spread=XKM9ZXE&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
-| Oracle Health | Software Engineer Intern | Remote | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/302269?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | MTA | Software Development Intern | New York, NY | <a href="https://careers.mta.org/jobs/16438894-software-analyst-slash-developer-fleet-technologies-group-emerging-talent-intern?tm_job=12316&tm_event=view&tm_company=47560&HRS_SUBSOURCE_ID=1341&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Method Financial | Software Engineer Intern | Austin, TX</br>New York City, NY | <a href="https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Massachusetts Bay Transportation Authority | Software Engineer Intern | Boston, MA | <a href="https://www.governmentjobs.com/careers/mbta/jobs/5008638/software-engineer-intern-undergrad-students?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
@@ -149,8 +147,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Five Rings | Software Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Honeywell | Co-Op - Bachelors Software Eng | Mason, OH | <a href="https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Tesla | Software Machine Learning Engineer, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/en_IE/careers/search/job/internship-software-machine-learning-engineer-reliability-energy-engineering-fall-2025-242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| Splunk | Site Reliability Engineer Intern 🛂 | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| ↳ | Product Manager Intern 🛂 | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | vly.ai | Full-Stack + Applied AI Software Engineering Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/vly-ai-2/jobs/5xe004o-full-stack-applied-ai-software-engineering-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
 | Peak Nano | Software Engineer Intern 🇺🇸 | Macedonia, OH | <a href="https://www.peaknano.com/careers/software-engineer-intern-spring-26?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
 | ByteDance | Backend Software Engineer Intern, Product RD and Infrastructure 🛂 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
@@ -177,9 +173,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Firefly Aerospace | Software Engineering Intern | Cedar Park, TX | <a href="https://fireflyspace.com/careers/?jobId=EE4A2E87-DC33-C12B-D025-085A77D1CA8C&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | Amazon Robotics | Software Development Engineer Co-Op | Westborough, MA</br>North Reading, MA | <a href="https://www.amazon.jobs/en/jobs/2875846/amazon-robotics-software-development-engineer-co-op-fall-2025?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | TikTok | Tool Software Engineer Intern, TikTok Effect House | San Jose, CA | <a href="https://lifeattiktok.com/search/7392099728617523507?spread=XKM9ZXE&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
-| Splunk | Software Engineer Co-Op, Backend/Full-stack | Remote</br>Canada | <a href="https://jobs.jobvite.com/splunk-careers/job/otG8vfww?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
-| ↳ | Software Engineer Intern, Backend/Full-stack | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
-| ↳ | Software Engineer Intern, Frontend | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | Tesla | Firmware Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243842?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 04 |
 | Tesla | AI Engineer Intern, Self-Driving | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243890?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
 | Tesla | Powerwall Product Manager Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243734?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
@@ -210,18 +203,21 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Android Engineer, Mobile Software Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240980?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | Tesla | Red Team Security Engineer, Vehicle Software Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240980?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ↳ | Haskell Software Developer, Vehicle Firmware Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240953?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
-| ↳ | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241053?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
 | Capital One | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
 | New York Post | Technology Intern | New York, NY | 🔒 | Aug 14 |
 | Vanguard | IT Co-Op Intern | Charlotte, NC | 🔒 | Aug 09 |
+| New York Red Bulls | Data Science Intern | Remote | 🔒 | Aug 09 |
 | Figure | Test Automation Intern, Fall 2025 | San Jose, CA | 🔒 | Jul 29 |
 | Schweitzer Engineering Laboratories (SEL) | Software Application Engineer Intern | Pullman, WA | 🔒 | Jul 22 |
 | Blue Origin | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | 🔒 | Jul 21 |
+| Oracle Health | Software Engineer Intern | Remote | 🔒 | Jul 20 |
 | Belvedere Trading | Quantitative Trading Intern 🛂 | Chicago, IL | 🔒 | Jul 14 |
 | Pinterest | Software Engineering Intern | Toronto, Canada | 🔒 | Jul 11 |
 | The Mosaic Company | Data Analyst Intern, Co-op | Tampa, FL | 🔒 | Jul 10 |
+| Splunk | Product Manager Intern 🛂 | Remote | 🔒 | Jul 10 |
+| ↳ | Site Reliability Engineer Intern 🛂 | Remote | 🔒 | Jul 10 |
 | Mercedes-Benz | Software Developer - AIX Intern | San Jose, CA | 🔒 | Jul 07 |
 | Hitachi Energy USA Inc | AI/ML Engineering Intern | Remote | 🔒 | Jul 06 |
 | T-Mobile | Product Manager Intern | Bellevue, WA | 🔒 | Jul 02 |
@@ -240,6 +236,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Data Science and Insights Intern, Omniverse | Santa Clara, CA | 🔒 | Jun 06 |
 | ↳ | Software Engineering Intern, LLM NIM Engineering | Santa Clara, CA | 🔒 | Jun 06 |
 | BMO | Junior Software Developer Intern | New York, NY</br>San Francisco, CA | 🔒 | Jun 06 |
+| Splunk | Software Engineer Intern, Backend/Full-stack | Remote</br>US | 🔒 | Jun 05 |
+| ↳ | Software Engineer Intern, Frontend | Remote</br>US | 🔒 | Jun 05 |
+| ↳ | Software Engineer Co-Op, Backend/Full-stack | Remote</br>Canada | 🔒 | Jun 05 |
 | NVIDIA | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | Jun 05 |
 | ASML | Feature Detection and Data Science Co-op Intern | Wilton, CT | 🔒 | Jun 05 |
 | Splunk | Site Reliability Engineer Intern | Remote</br>US | 🔒 | Jun 03 |
@@ -308,6 +307,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern, AI Storage Infrastructure - Fall | Santa Clara, CA | 🔒 | Apr 25 |
 | ↳ | Software Engineering Intern, Deep Learning Accelerator - Fall | Santa Clara, CA | 🔒 | Apr 25 |
 | ↳ | Software Engineering Intern, GPU Communications and Networking - Fall | Santa Clara, CA | 🔒 | Apr 25 |
+| Tesla | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | 🔒 | Apr 10 |
 | AMD | Firmware Engineering Intern/ Co-Op - Masters - Fall | Austin, TX | 🔒 | Apr 10 |
 | ↳ | Software Engineering Intern/Co-op - Masters - Fall | Austin, TX | 🔒 | Apr 10 |
 
