@@ -4787,13 +4787,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752603567,
+        "date_updated": 1757962946,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5588094004",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bill",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5333,13 +5333,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753215408,
+        "date_updated": 1757962969,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
         "locations": [
             "Stamford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Front Office Software Engineer Intern",
         "season": "Summer",
@@ -5541,14 +5541,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753286313,
+        "date_updated": 1757962972,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2026-_R1105",
         "locations": [
             "Stamford, CT",
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Data Engineering Intern",
         "season": "Summer",
@@ -5559,13 +5559,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753298942,
+        "date_updated": 1757962974,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e",
         "locations": [
             "Stamford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Data Science ML Intern",
         "season": "Summer",
@@ -5576,13 +5576,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753299118,
+        "date_updated": 1757962987,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "GenAI Intern",
         "season": "Summer",
@@ -7263,13 +7263,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754388481,
+        "date_updated": 1757962947,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4589908006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Developer Productivity Intern",
         "source": "vanshb03",
@@ -7960,13 +7960,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754748272,
+        "date_updated": 1757962947,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -10292,13 +10292,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755991604,
+        "date_updated": 1757962950,
         "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BitGo",
         "title": "Software Engineering Intern, Wallet Core",
         "source": "vanshb03",
@@ -10309,13 +10309,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755991612,
+        "date_updated": 1757962950,
         "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BitGo",
         "title": "Software Engineering Intern, HSM",
         "source": "vanshb03",
@@ -16119,13 +16119,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757571264,
+        "date_updated": 1757963196,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593",
         "locations": [
             "Hoffman Estates, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -17025,13 +17025,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1757671321,
+        "date_updated": 1757963241,
         "url": "https://dell.wd1.myworkdayjobs.com/external/job/Round-Rock-Texas-United-States/AI-Solutions-Intern_R277648-1",
         "locations": [
             "Round Rock, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dell Technologies",
         "title": "AI Solutions Intern",
         "source": "vanshb03",
@@ -18053,5 +18053,492 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962716,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144362003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "Full-stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0affed2c-5566-472f-9f55-2ed00e1fbf21",
+        "date_posted": 1757962716,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962737,
+        "url": "https://jobs.statefarm.com/main/jobs/41746?lang=en-us",
+        "locations": [
+            "Bloomington, IL",
+            "Dunwoody, GA",
+            "Richardson, TX",
+            "Tempe, AZ",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "State Farm",
+        "title": "Engineer Intern, Enterprise Technology",
+        "source": "vanshb03",
+        "id": "ba07561f-ad5f-4483-9865-07f9a50cb04c",
+        "date_posted": 1757962737,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962864,
+        "url": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Intern_R253276",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Athene",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "68dceb3c-ffff-4777-9ffc-b6b3e6d64add",
+        "date_posted": 1757962864,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962898,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Software or Computer Engineering Intern",
+        "source": "vanshb03",
+        "id": "2b6bf9cd-1e95-4d7c-afa0-b1c91d2dc100",
+        "date_posted": 1757962898,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962902,
+        "url": "https://seagatecareers.com/job/Shakopee-Firmware-EngineerResearch-Intern-Summer-2026-MN/1325865400/",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware Engineer Intern, Research",
+        "source": "vanshb03",
+        "id": "bdcc4263-ee72-426f-a146-7ec020b2466c",
+        "date_posted": 1757962902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962906,
+        "url": "https://seagatecareers.com/job/Longmont-Software-Engineering-Intern-Summer-2026-CO-80501/1325866700/",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5f16f795-007d-4c46-8368-c4d8d49d2c35",
+        "date_posted": 1757962906,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962909,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202566778/software-engineering-intern-summer-2026-draper-ut/",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox Automotive",
+        "title": "Software Engineering Intern, Draper",
+        "source": "vanshb03",
+        "id": "5d278eed-8dca-4ebd-a930-f736566ab666",
+        "date_posted": 1757962909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962914,
+        "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure",
+        "locations": [
+            "Reston, VA",
+            "Rockville, MD",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICF",
+        "title": "Cloud Engineer Intern, AWS/Azure",
+        "source": "vanshb03",
+        "id": "fad51bdd-19bf-4431-99ef-c5c5ea12126a",
+        "date_posted": 1757962914,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962917,
+        "url": "https://careers.dexcom.com/careers/job/37990370",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dexcom",
+        "title": "SW Development Engineering Intern",
+        "source": "vanshb03",
+        "id": "2f515d19-3936-4c64-be45-47c8439c14a8",
+        "date_posted": 1757962917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962924,
+        "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502588EXTERNALENUS/2026-Summer-Intern-Software-Developer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICF",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "6ca184f4-5271-4bf0-a326-966d1e9553f3",
+        "date_posted": 1757962924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962927,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ567729",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Unisys",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2c0143e3-b350-456a-b889-19c641abfe7f",
+        "date_posted": 1757962927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962555,
+        "url": "https://www.metacareers.com/jobs/1471056164046415",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Software Engineer Intern, Co-op",
+        "source": "vanshb03",
+        "id": "e08b438c-bca2-46e9-82f9-29e54e76cafd",
+        "date_posted": 1757962555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962697,
+        "url": "https://careers.duolingo.com/jobs/8150883002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Software Engineer Intern, Thrive",
+        "source": "vanshb03",
+        "id": "e5bac24e-4f0e-4227-b853-0febf8a66b2a",
+        "date_posted": 1757962697,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962702,
+        "url": "https://careers.duolingo.com/jobs/8155399002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "ccc41efb-ed99-41fe-aa77-d4addbed6c4a",
+        "date_posted": 1757962702,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757962712,
+        "url": "https://careers.duolingo.com/jobs/8155655002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f9fa1276-9da2-4a15-8c77-b3adb331f311",
+        "date_posted": 1757962712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963606,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Cyber-Security-Data-Engineer-Intern_R418971",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Cyber Security Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "fa90c14b-1a74-42ed-8db0-eb1f6bff30a6",
+        "date_posted": 1757963606,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963613,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Comcast-DevOps-Intern_R418970",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "060dd488-1d01-4a79-9e5e-8002c39581ef",
+        "date_posted": 1757963613,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963617,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Security--MFA--mobile--Android-iOS--Developer-Intern_R419007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Security (MFA) mobile (Android/iOS) Developer Intern",
+        "source": "vanshb03",
+        "id": "08b2f7be-cbb0-4d77-a0f1-b06ed3f30270",
+        "date_posted": 1757963617,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963621,
+        "url": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Product-Management-Intern_JR8326",
+        "locations": [
+            "Austin, TX",
+            "Portland, OR",
+            "Hoffman Estates, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "CDK Global",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "6c0aa031-764d-419c-9efb-ab75aa01cf6c",
+        "date_posted": 1757963621,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963624,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Network-Automation-Intern_R419581",
+        "locations": [
+            "Mount Laurel, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Network Automation Intern",
+        "source": "vanshb03",
+        "id": "a8f97ed2-9c21-464f-944c-45965a0f3fe0",
+        "date_posted": 1757963624,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963627,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Intern_R418938",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8a84e9a4-ee0f-4751-a3ae-2d3b9f4b4edc",
+        "date_posted": 1757963627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963630,
+        "url": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Software-Engineering-Intern_JR8327",
+        "locations": [
+            "Austin, TX",
+            "Portland, OR",
+            "Hoffman Estates, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "CDK Global",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c7fc432e-7586-483b-8b35-2f0268700f35",
+        "date_posted": 1757963630,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963634,
+        "url": "https://entegris.wd1.myworkdayjobs.com/en-GB/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Data-Scientist-Co-Op---Spring-2026_REQ-9152",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Entegris",
+        "title": "Data Scientist Co-Op",
+        "source": "vanshb03",
+        "id": "1391c4f0-73b9-4f60-a44f-2372463af742",
+        "date_posted": 1757963634,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757963636,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/CA---Irvine-5300-California-Ave-4thfloor/Comcast-Xumo-Engineering-Intern_R419366",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "670e8415-367a-42a8-9a1d-a634bccdb015",
+        "date_posted": 1757963636,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963639,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer--Test-Equipment---Onsite_01790571",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Engineer Intern, Test Equipment",
+        "source": "vanshb03",
+        "id": "5fe93262-c738-49dc-a0c5-48c4abaec017",
+        "date_posted": 1757963639,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963643,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2026-Capital-Markets---Quantitative-Technology-Services-Summer-Analyst_R-0000140751",
+        "locations": [
+            "Jersey City, NJ",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RBC Capital Markets",
+        "title": "Summer Analyst, Quantitative Technology Services",
+        "source": "vanshb03",
+        "id": "d2f0f12a-ba45-4844-88cd-7b3ce033f2b4",
+        "date_posted": 1757963643,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757963647,
+        "url": "https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ETHGlobal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "396bfd06-acc3-4e16-94fd-5f7f297277d9",
+        "date_posted": 1757963647,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1757963680,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "24875f0e-7824-4ff1-b8d8-aefb29086b24",
+        "date_posted": 1757963680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
