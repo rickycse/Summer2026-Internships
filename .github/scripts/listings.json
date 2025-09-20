@@ -19213,5 +19213,330 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758329028,
+        "url": "https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Systems Integration Test Engineer Intern, Software",
+        "source": "vanshb03",
+        "id": "6b8f59de-0a18-409c-8737-52439338023a",
+        "date_posted": 1758329028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758329033,
+        "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Firmware-Intern--Summer-2026-_REQ-018907",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zurn Elkay Water Solutions Corporation",
+        "title": "Embedded Firmware Intern, ",
+        "source": "vanshb03",
+        "id": "cd3764d1-fe8b-403e-bfb9-0ec6093df637",
+        "date_posted": 1758329033,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758329038,
+        "url": "https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Python-Developer-PA-19073/1237973101/",
+        "locations": [
+            "Newtown Square, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Python Developer Intern, iXp",
+        "source": "vanshb03",
+        "id": "0bcc13d4-9dfa-430a-88cc-8db74506cdef",
+        "date_posted": 1758329038,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758329192,
+        "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2026_563822",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Philips",
+        "title": "System Test Automation Engineer Intern, San Diego",
+        "source": "vanshb03",
+        "id": "e761a57d-db8d-4b73-919e-fa8c727ace72",
+        "date_posted": 1758329192,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758330761,
+        "url": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exegy",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a01bdafd-e887-49a1-9f9b-4d1ed8be4f87",
+        "date_posted": 1758330761,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758330767,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/86214487568",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Mobile App Developer Intern",
+        "source": "vanshb03",
+        "id": "5db355e3-0655-40d9-a696-7b5083aca005",
+        "date_posted": 1758330767,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758339561,
+        "url": "https://careers.homedepot.com/job/22430119/software-engineer-internship-summer-2026-remote-remote",
+        "locations": [
+            "Atlanta, GA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Home Depot",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8d63ecb3-42a7-44fe-8151-aef3d2d57c99",
+        "date_posted": 1758339561,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758340078,
+        "url": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
+        "locations": [
+            "Syracuse, NY",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impel",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ca0b30dc-7115-4c0a-bfee-5905e44f96e4",
+        "date_posted": 1758340078,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758340166,
+        "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brilliant",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bd150e9a-b229-456e-9915-33b6be999892",
+        "date_posted": 1758340166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343662,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Arity---Software-Engineer-Intern_R21336",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Allstate",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "93907948-8b3e-4f37-9719-a5d04a19f2a9",
+        "date_posted": 1758343662,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343669,
+        "url": "https://jobs.lever.co/quantco-/945bd3c0-117a-4b0e-b60a-6759add05fc9",
+        "locations": [
+            "USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuantCo",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f88e13ca-50d9-4613-b21a-35130ad1e9a3",
+        "date_posted": 1758343669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343681,
+        "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7413808003",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GlossGenius",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "b46221d5-b3cb-4495-9d02-c81e0dbb2da0",
+        "date_posted": 1758343681,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343756,
+        "url": "https://quantumsignalai.applytojob.com/apply/o4xvPN56z1/Applications-Software-Engineering-Intern",
+        "locations": [
+            "Saline, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Quantum Signal AI (QSAI)",
+        "title": "Applications Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "dd0077fb-ab97-4122-8d0b-9914a7515834",
+        "date_posted": 1758343756,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343758,
+        "url": "https://quantumsignalai.applytojob.com/apply/paMGQ9RKXd/RealTime-Software-Intern",
+        "locations": [
+            "Saline, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Quantum Signal AI",
+        "title": "Real-Time Software Intern",
+        "source": "vanshb03",
+        "id": "16bf61dc-abf1-4675-a181-b34b506cc301",
+        "date_posted": 1758343758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343762,
+        "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Des-Moines-Iowa-United-States/Software-Engineer-Intern_243147W",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corteva Agriscience",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2c760890-ce49-4d0f-96c4-74cfa990b861",
+        "date_posted": 1758343762,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343766,
+        "url": "https://jobs.lever.co/tri/a5a628cd-44a9-4ff6-aeba-c775c516dfd2",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Mobile Manipulation, Perception",
+        "source": "vanshb03",
+        "id": "ab53bf07-e08e-49e2-89c1-ac33fa5181ed",
+        "date_posted": 1758343766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343770,
+        "url": "https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Mobile Manipulation, Behaviors",
+        "source": "vanshb03",
+        "id": "59cfe956-c3e5-4b9c-b28d-64f49be35747",
+        "date_posted": 1758343770,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343801,
+        "url": "https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Firmware-Intern--Summer-2026-_REQ-018907",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zurn Elkay Water Solutions Corporation",
+        "title": "Embedded Firmware Intern, Milwaukee Headquarters",
+        "source": "vanshb03",
+        "id": "ad152c0e-467c-4656-905a-e5f28cbb96b0",
+        "date_posted": 1758343801,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758343804,
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-systems-engineering-behaviors-san-francisco-california-united-states",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Systems Engineering Intern, Behaviors",
+        "source": "vanshb03",
+        "id": "104aef95-2b22-46d1-8741-f2498000f32d",
+        "date_posted": 1758343804,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
