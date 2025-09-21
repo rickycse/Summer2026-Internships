@@ -19538,5 +19538,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758387480,
+        "url": "https://www.workatastartup.com/jobs/81959",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elayne",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "eb1777db-8f38-4c54-9c2c-2d5a783b7653",
+        "date_posted": 1758387480,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758387484,
+        "url": "https://www.workatastartup.com/jobs/82020",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Partcl (X25)",
+        "title": "ML Systems Intern",
+        "source": "vanshb03",
+        "id": "cbd19555-06f7-44fe-8544-b03f2fab6d63",
+        "date_posted": 1758387484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758387562,
+        "url": "https://www.workatastartup.com/jobs/82013",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Channel3",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "52758144-9b11-4286-9251-32b2964abfa2",
+        "date_posted": 1758387562,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
