@@ -7058,13 +7058,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754342049,
+        "date_updated": 1758623126,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DV Trading",
         "title": "Trading Intern, DV Commodities",
         "source": "vanshb03",
@@ -13971,13 +13971,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756866901,
+        "date_updated": 1758623252,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Large-Language-Models-Research_JR2003243",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "PhD Large Language Models Research Intern",
         "source": "vanshb03",
@@ -16153,13 +16153,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757571264,
+        "date_updated": 1758623341,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Quantitative-Research-Intern--Systematic-Fixed-Income-Strategies-Team_2117373",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fidelity Investments",
         "title": "Quantitative Research Intern, Systematic Fixed Income Strategies Team",
         "season": "Summer",
@@ -17216,13 +17216,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733380,
+        "date_updated": 1758623396,
         "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0016999-1",
         "locations": [
             "Nashville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AB",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -17233,13 +17233,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733386,
+        "date_updated": 1758623398,
         "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0017001-1",
         "locations": [
             "Nashville, TN"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "AB",
         "title": "Infrastructure Engineering Intern",
         "source": "vanshb03",
@@ -17798,13 +17798,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757743690,
+        "date_updated": 1758623129,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1877399/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Mountain-View",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer Intern, Fullstack",
         "source": "vanshb03",
@@ -17883,13 +17883,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757743787,
+        "date_updated": 1758623130,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1877249/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Mountain-View",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer Intern, Applied AI/ML",
         "source": "vanshb03",
@@ -18231,13 +18231,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757962927,
+        "date_updated": 1758623411,
         "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ567729",
         "locations": [
             "Eagan, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Unisys",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -19370,13 +19370,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758343662,
+        "date_updated": 1758623454,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Arity---Software-Engineer-Intern_R21336",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Allstate",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -19586,6 +19586,585 @@
         "source": "vanshb03",
         "id": "52758144-9b11-4286-9251-32b2964abfa2",
         "date_posted": 1758387562,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758603769,
+        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NorthMark Strategies",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "TimothyNaumov",
+        "id": "77bc52a5-08ac-43ec-a389-0672b12a784b",
+        "date_posted": 1758603769,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758623327,
+        "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boston, MA",
+            "Charlotte, NC",
+            "Houston, TX",
+            "Irving, TX",
+            "Los Angeles, CA",
+            "Morristown, NJ",
+            "New York City, NY",
+            "Philadelphia, PA",
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Accenture",
+        "title": "Technology Summer Analyst Intern",
+        "source": "vanshb03",
+        "id": "0ef5e650-887d-480b-97ea-93ff7f48ee4a",
+        "date_posted": 1758623327,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
+        "locations": [
+            "Toronto, CAN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7b489d9-de67-4c50-81e1-b32e17d9e9de",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job",
+        "locations": [
+            "Toronto, ON, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Mackenzie Investments",
+        "title": "Fixed Income Software Developer Platform Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac63d194-3c4d-4747-8189-038564d01ee3",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Quantitative-Investing-Internship-Program_77528",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "T. Rowe Price",
+        "title": "Quantitative Investing Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1f16d287-e0ed-445c-86c1-fccebb6c876d",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://careers-cobank.icims.com/jobs/7385/software-engineer-intern-%28denver%29/job",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CoBank",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "49c6f4ca-2d3a-43de-aada-8ee4e1a995ef",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Platform-Software_JR33861",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7867f32e-f77c-4bf3-b5c0-283a00917f29",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/8173412002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6929ece5-220d-4c1c-8ee3-a831582ab22a",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
+        "locations": [
+            "Anderson, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Quality",
+        "title": "Analytics Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2e981fb1-5e41-42aa-802a-4212ef12433f",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "SSD Firmware Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "50c516bd-327d-4497-99d7-18506fe592d4",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op_2521735",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Data Scientist Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a9ac0671-e914-46d6-a089-9ad9628c48ca",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-Op_R-033712",
+        "locations": [
+            "Peabody, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Software Test Engineering Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "57e2771b-51ab-446d-9229-1841af603874",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2521716",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "AI Scientist Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f728e9ae-d051-4bec-947e-618261af4f22",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2025-3649",
+        "locations": [
+            "Kokomo, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Electronics Hardware Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "39aca5cc-becd-4274-a9ed-c85bb27289c9",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083014485",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "AI for Security Operations Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "48555464-ffb9-4586-8fe2-6ae605e6f747",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Business-Analyst-AI-Intern_R6109",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CAI",
+        "title": "Business Analyst AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ce1cc3c5-eef5-4852-8170-fd73e818f3ac",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://apply.workable.com/darkhive/j/1DA0B16639/",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Darkhiv",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ff22cd57-4152-452c-a736-004400fff61f",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Software or Computer Engineering Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c44637dd-6594-4227-adec-b52562daf13a",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sift",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ff624040-0a3c-4c9a-83b3-cdceab33e335",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GDIT",
+        "title": "Data Scientist Associate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7bed1f6a-4bf0-48d8-89fd-f7d3fdc7c28b",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758626064,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7163234",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Machine Learning Engineer Intern, Applied ML",
+        "source": "vanshb03",
+        "id": "8961bf5c-f8b6-49de-ba65-a27e67fd7acc",
+        "date_posted": 1758626064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626067,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7163442",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Crypto AML Intern",
+        "source": "vanshb03",
+        "id": "aa156387-705e-4da1-ba6a-9b1228dd8616",
+        "date_posted": 1758626067,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626070,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7235228",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, Backend",
+        "source": "vanshb03",
+        "id": "09319a70-9cec-42a3-9f19-9c7037407d6d",
+        "date_posted": 1758626070,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626072,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7238998",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, Web",
+        "source": "vanshb03",
+        "id": "d41ef520-7d57-4639-b2bd-041cde99baa0",
+        "date_posted": 1758626072,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626075,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239199",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Android",
+        "source": "vanshb03",
+        "id": "8e8d2c5c-abae-4a54-bbd6-4775051fae40",
+        "date_posted": 1758626075,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626076,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239236",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Backend",
+        "source": "vanshb03",
+        "id": "2eba4d5e-a45f-45e7-bf5e-da0cb9edd0f4",
+        "date_posted": 1758626076,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626078,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239268",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, iOS",
+        "source": "vanshb03",
+        "id": "a698cb3f-acb0-4662-b215-c2ec8b6d1986",
+        "date_posted": 1758626078,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626080,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239280",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Web",
+        "source": "vanshb03",
+        "id": "f8932f32-004d-464c-a025-158d846bd0a9",
+        "date_posted": 1758626080,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626273,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161070",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Vulnerability Management Intern",
+        "source": "vanshb03",
+        "id": "58101f37-b328-47ba-b3e8-e6a080a98495",
+        "date_posted": 1758626273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626276,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161069",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Vulnerability Management Intern",
+        "source": "vanshb03",
+        "id": "acfd63c1-f2e9-46b7-aa1e-b7b346f55d3f",
+        "date_posted": 1758626276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626279,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161061",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Security Risk Management Intern",
+        "source": "vanshb03",
+        "id": "626b393e-c119-44a1-9b67-51d2a16bb9e3",
+        "date_posted": 1758626279,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626282,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161053",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Offensive Security Intern",
+        "source": "vanshb03",
+        "id": "fd4d3842-f49c-49b8-aff8-1abffece079c",
+        "date_posted": 1758626282,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758626286,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161054",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Offensive Security Intern",
+        "source": "vanshb03",
+        "id": "f5816ad3-e9b4-4d46-9710-583c74152946",
+        "date_posted": 1758626286,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
