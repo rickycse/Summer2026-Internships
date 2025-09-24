@@ -20168,5 +20168,228 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758637836,
+        "url": "https://job-boards.greenhouse.io/gusto/jobs/7238671",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Denver, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gusto",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ee35ecfa-8c46-4262-959f-9283d16c2df1",
+        "date_posted": 1758637836,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://careers-kinaxis.icims.com/jobs/33735/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Software Developer Intern/Coop",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "34f82a89-72ac-4087-9b83-bc437883655b",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49520?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e8a1a7f9-aad2-481a-b4f1-40d20ebafea6",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49623?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "95e21f5f-07ee-4a68-a374-f081e8e5d264",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49524?lang=en-us&icims=1",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "805ba514-b930-4390-a7c9-ecf88a883deb",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49618?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ea1e0b4-ed56-416a-a7ac-2adc45dd22d3",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49650?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e560cecb-60da-45e2-a341-2b009f662adb",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Software-Engineer-Intern---Master-s-Degree_2502348",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Software Engineer Intern, Master's",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1c2fb099-7ff3-452c-9e9c-64dd561c2b11",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern---Data-Analytics_R2025-242307",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransPerfect",
+        "title": "Operations Intern, Data Analytics",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "40854f3b-19cc-41f1-a4a0-ce4dd3a89eb4",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Engineer-Intern_R41052",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Autonomy Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6c8b5066-a9c4-47e8-8f54-06e1984bebdc",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---CA---Santa-Clara---Marvell-Park/IC-Application-Engineer-Intern---Masters-Degree_2502729-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "IC Application Engineer Intern, Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c9d5871a-1b45-41a3-8ad8-d7c542ba9bfc",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808622802",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AIS R&D Research Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7e8a2d8-5a79-4964-8fe1-d9d6c3952dfc",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808636860",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AIS R&D Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "85077d1c-ca67-490b-91d2-f003c250e778",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
