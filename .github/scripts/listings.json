@@ -20806,5 +20806,387 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758723776,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/110796638720533190-associate-product-manager-intern/",
+        "locations": [
+            "Mountain View, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "348212e8-7e35-4009-88b9-4e1bdf0c4cd4",
+        "date_posted": 1758723776,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758723784,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering---Milwaukee_R25-6604-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "7b4d422d-187e-4263-9b5e-c79e77ab373f",
+        "date_posted": 1758723784,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758723884,
+        "url": "https://jobs.lever.co/raine/e4bb952f-8b02-4a96-87e0-e1d4447fa962",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raine",
+        "title": "Analyst Intern, Summer 2027",
+        "source": "vanshb03",
+        "id": "04dc22bc-1ef2-4ac9-9140-7a4b5fda52c3",
+        "date_posted": 1758723884,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758724104,
+        "url": "https://jobs.ashbyhq.com/persona/2c62ac4f-d004-4b5d-b403-c14baa5b3f26",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persona",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0e461f20-b357-4647-a010-cf1533e096e3",
+        "date_posted": 1758724104,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758724250,
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Science-Intern_R0131047",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "80fd5759-00d0-4fe5-ada3-d07787e866d6",
+        "date_posted": 1758724250,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724252,
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0131023",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5ce80146-8fa0-48ea-8be8-77a7597f6ddd",
+        "date_posted": 1758724252,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724268,
+        "url": "https://www.tanium.com/careers/7228059?gh_jid=7228059",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tanium",
+        "title": "Cloud Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "46ded7a3-aa91-4f69-98c5-01a0150a8b09",
+        "date_posted": 1758724268,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724269,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Science-Intern_R39716",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8c1b5b33-08a7-48e8-9d48-91059c00214d",
+        "date_posted": 1758724269,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724273,
+        "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601209005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bracebridge Capital",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a87dff26-b4be-4817-9fc9-fbf02de639b5",
+        "date_posted": 1758724273,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724280,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4916425007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedition Technology",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f50d7fd0-66de-441d-955e-01cb96573794",
+        "date_posted": 1758724280,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724282,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003456",
+        "locations": [
+            "Des Moines, IA",
+            "Council Bluffs, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Hathaway Energy",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1477d4b0-1b9e-4d3f-acfe-8688f749203d",
+        "date_posted": 1758724282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724284,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808714251",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9a461be7-fa81-4cc8-94cb-6925c84290e7",
+        "date_posted": 1758724284,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724289,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "AI Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6174df07-486c-4848-b032-642a12e82b91",
+        "date_posted": 1758724289,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724292,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/XMLNAME-2026-Software-Engineering-Intern---Huntsville-AL_R10208559-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3344a7d3-7c20-4977-b367-4d2f54b7e214",
+        "date_posted": 1758724292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758724401,
+        "url": "https://jobs.sanofi.com/en/job/-/-/2649/29541565056",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sanofi",
+        "title": "Global MSAT Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "3cca0439-f916-4b08-9e67-2ad234118625",
+        "date_posted": 1758724401,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758724414,
+        "url": "https://jobs.sick.com/usa/job/Canton-Software-Engineering-Internship-(AIML)-MA-02021/37406-en_US/",
+        "locations": [
+            "Boston, MA",
+            "Canton, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SICK",
+        "title": "Software Engineer Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "ad14e3f0-053b-4546-94b0-136b7d4594ee",
+        "date_posted": 1758724414,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758725071,
+        "url": "https://www.pinterestcareers.com/jobs/7210881/software-engineer-intern-2026/",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5c8051a7-b888-4550-ac7c-5656cd1ed1d9",
+        "date_posted": 1758725071,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758725420,
+        "url": "https://www.pinterestcareers.com/jobs/7241510/software-engineer-intern-2026/",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "93292667-5026-407c-9bad-93c1ce6a137f",
+        "date_posted": 1758725420,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758725462,
+        "url": "https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8af785c9-8e82-4597-a423-278e460d9a3f",
+        "date_posted": 1758725462,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758725471,
+        "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d3b06542-ab51-4b6a-a0ac-4869c2e9c530",
+        "date_posted": 1758725471,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1758725526,
+        "url": "https://www.pinterestcareers.com/jobs/7202269/software-engineer-intern-2026-remote-us/",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e76b4ecf-827d-4032-a843-7a3889d2c787",
+        "date_posted": 1758725526,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758750773,
+        "url": "https://www.careers.jnj.com/en/jobs/r-034545/data-science-co-op/",
+        "locations": [
+            "Danvers, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Data Science Co-op",
+        "season": "Spring",
+        "source": "alexg0405",
+        "id": "6afd3f8c-cad5-4969-8d72-610f5240bc06",
+        "date_posted": 1758750773,
+        "company_url": "",
+        "is_visible": true
     }
 ]
