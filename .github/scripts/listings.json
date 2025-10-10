@@ -3634,13 +3634,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391711,
+        "date_updated": 1760031937,
         "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, Commercial",
         "season": "Summer",
@@ -17661,13 +17661,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733638,
+        "date_updated": 1760031943,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246747",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -17730,13 +17730,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733695,
+        "date_updated": 1760031943,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7245680",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "DMFI Summer Analyst Intern",
         "source": "vanshb03",
@@ -17747,13 +17747,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733707,
+        "date_updated": 1760031943,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246008",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Business Analytics Intern",
         "source": "vanshb03",
@@ -23847,13 +23847,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1760031947,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7284195",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Quantitative Research Intern",
         "season": "Summer",
@@ -25073,14 +25073,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759853819,
+        "date_updated": 1760031947,
         "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
         "locations": [
             "State College, PA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KCF Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -25176,14 +25176,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759853819,
+        "date_updated": 1760031947,
         "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
         "locations": [
             "State College, PA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KCF Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -25330,5 +25330,369 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760031882,
+        "url": "https://ats.rippling.com/en-GB/chess/jobs/de7de575-d89b-4039-a2ce-ca68ef79c536",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chess.com",
+        "title": "Engineering Intern, Frontend",
+        "source": "vanshb03",
+        "id": "b9d5fd39-f2d2-403a-948e-9bf1fdbffb0b",
+        "date_posted": 1760031882,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760031887,
+        "url": "https://ats.rippling.com/en-GB/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chess.com",
+        "title": "Engineering Intern, Backend",
+        "source": "vanshb03",
+        "id": "ea2891ef-d00e-4fa3-a498-10997e183c28",
+        "date_posted": 1760031887,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035632,
+        "url": "https://careers.expediagroup.com/jobs/job/?Mobile+Engineering+Intern+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98637",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Mobile Engineering Intern",
+        "source": "vanshb03",
+        "id": "8ecbce0d-c693-4a46-8443-ce72766eb9b1",
+        "date_posted": 1760035632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035458,
+        "url": "https://careers.expediagroup.com/jobs/job/?Software+Development+Engineering+Intern+-+2026+-+Austin%2C+San+Jose%2C+Seattle-Austin-Texas-j-R-98557",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "2f7bdbc4-830b-4cb3-8544-1838718bedef",
+        "date_posted": 1760035458,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035462,
+        "url": "https://careers.expediagroup.com/jobs/job/?Machine+Learning+Science+Intern+-+Masters+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98584",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Machine Learning Science Intern, Masters",
+        "source": "vanshb03",
+        "id": "80d83b0e-e723-4796-b32d-09a320d4ecd9",
+        "date_posted": 1760035462,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035465,
+        "url": "https://careers.expediagroup.com/jobs/job/?Machine+Learning+Science+Intern+-+PhD+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98585",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Machine Learning Science Intern, PhD",
+        "source": "vanshb03",
+        "id": "c09c0b25-3281-441d-b578-312edbbad744",
+        "date_posted": 1760035465,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035624,
+        "url": "https://careers.expediagroup.com/jobs/job/?Cloud+Engineering+Intern+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98634",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Cloud Engineering Intern",
+        "source": "vanshb03",
+        "id": "3589a07a-d92b-4968-a941-2a6c4d2fe679",
+        "date_posted": 1760035624,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035627,
+        "url": "https://careers.expediagroup.com/jobs/job/?Security+Engineering+Intern+-+2026+-+Seattle-Seattle-Washington-j-R-98636",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "509986ff-c4e6-4cde-92e4-f951cd911700",
+        "date_posted": 1760035627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Product-Management-Intern---2026---Seattle_R-98581-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "434b5fe4-c860-41b2-83f8-da1b6e7f8a21",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/7965",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seaspan",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6567dbc5-54e1-49fb-8882-7f5ff16bd3d2",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58219",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2fe0c33f-fa8d-47d8-bbe2-b9cf6261b548",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Edge-AI-Engineering-Intern--Summer-2026-_R57897",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Edge AI Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b101f83a-fa37-482b-951b-64dc743de701",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58226",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "37cec51e-ad32-4c03-9171-73895fd046df",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.lumen.com/global/en/job/340218",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Strategic Fiber Planning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6e759d28-b981-40c9-84a2-ad499de4bbaa",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.lumen.com/global/en/job/340234",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Senior Planning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6a181100-8373-4f5f-a7f5-7078e3650091",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.lumen.com/global/en/job/340262",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Planning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae99c8da-27cc-436b-af6e-3a7b6e904c6e",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Reciprocity-Embedded-Software-Engineer-Co-op--DSS_R0222635",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fresenius Medical Care",
+        "title": "Reciprocity Embedded Software Engineer Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bd4ad8e7-2de4-4d5c-a565-6ca49d198be0",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.lumen.com/global/en/job/340199",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Operations Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e8e03937-e45f-4011-95cb-739280c841e2",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.ashbyhq.com/patreon/68ee2ece-6200-411b-8ccf-a1841b947e9a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Patreon",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dfcd794d-18c0-49d4-928e-2f5d15346663",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Management--AI-Products--Graduate-Intern_J269793",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Management (AI Products) Graduate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "499701d3-ae68-4506-8088-ba96ba1bf6a8",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eight Sleep",
+        "title": "AI/ML Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c84dd8ef-2fbc-466a-a637-1c8a55a40ae4",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
