@@ -19353,13 +19353,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758340166,
+        "date_updated": 1760409898,
         "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brilliant",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -20170,7 +20170,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758637836,
+        "date_updated": 1760409898,
         "url": "https://job-boards.greenhouse.io/gusto/jobs/7238671",
         "locations": [
             "San Francisco, CA",
@@ -20178,7 +20178,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Gusto",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -24984,13 +24984,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1760409899,
         "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5658358004",
         "locations": [
             "State College, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KCF Technologies",
         "title": "Engineering Intern",
         "season": "Summer",
@@ -25713,13 +25713,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1760409899,
         "url": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
         "locations": [
             "Louisville, KY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Diversified Automation",
         "title": "Software Engineering Co-op",
         "season": "Summer",
@@ -26742,5 +26742,211 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760408468,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7309530",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Analytics Engineer Intern",
+        "source": "vanshb03",
+        "id": "8226bb77-4370-42e5-9ad1-18ce697e23a7",
+        "date_posted": 1760408468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760408939,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7309526",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "072069b8-4974-48cb-9dd2-56a09ee18c5f",
+        "date_posted": 1760408939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760409620,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7268895&for=coinbase&gh_jid=7268895",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7b0d36dd-5f39-47ae-a393-fee9b1ad19db",
+        "date_posted": 1760409620,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760409157,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7309504",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "8e140f6f-600b-4148-91ea-26b2fe826715",
+        "date_posted": 1760409157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760409191,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7294075",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "0c31048e-6949-4579-80e3-47a15933a08c",
+        "date_posted": 1760409191,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760409200,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7269743",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "75bb6651-b3f8-434f-b8c3-436dede18cd6",
+        "date_posted": 1760409200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760409225,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7317499",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Product Manager Intern, HR Technology",
+        "source": "vanshb03",
+        "id": "0e637d76-201c-49f2-bf7f-723bf0958d67",
+        "date_posted": 1760409225,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760409799,
+        "url": "https://jobs.northropgrumman.com/careers/job/1340068298695",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1aee3a4b-681f-4bc1-8347-3b06ec9e33f8",
+        "date_posted": 1760409799,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760410018,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/3643466/Clarity-Partners-LLC/Software-Development-Internship",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clarity Partners",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "af5e5e65-78ee-4f3c-a33f-4f6fcd2f7b04",
+        "date_posted": 1760410018,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760417376,
+        "url": "https://www.workatastartup.com/jobs/83361",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "a0.dev",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d6ec853-1c56-4b60-b993-ea57b00b2644",
+        "date_posted": 1760417376,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760417380,
+        "url": "https://www.workatastartup.com/jobs/83225",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Herdora",
+        "title": "Member Of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "2d99dbd0-d10b-4dc6-a8a3-c1f4863cb0bd",
+        "date_posted": 1760417380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760417383,
+        "url": "https://www.workatastartup.com/jobs/83224",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Herdora",
+        "title": "Member Of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "97c140d6-b7b3-43e7-bc68-5c4ab5e1f56a",
+        "date_posted": 1760417383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
