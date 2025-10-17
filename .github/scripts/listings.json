@@ -3328,13 +3328,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253816,
+        "date_updated": 1760646988,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565293006",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Quantitative Researcher Intern",
         "season": "Summer",
@@ -26727,13 +26727,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760352756,
+        "date_updated": 1760646994,
         "url": "https://job-boards.greenhouse.io/honehealth/jobs/4945588008",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hone",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -27975,5 +27975,468 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760646635,
+        "url": "https://careers.garmin.com/jobs/16975/job",
+        "locations": [
+            "Brea, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "884dba0c-d4b7-425c-9bff-971829a9a853",
+        "date_posted": 1760646635,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646696,
+        "url": "https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00168796",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f354b7b3-70fb-4225-80d7-0d4132078fa3",
+        "date_posted": 1760646696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646701,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Platform-Software_JR33861",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Intern, Platform Software",
+        "source": "vanshb03",
+        "id": "b7e0d893-533d-4c6e-8116-3501824ca4b9",
+        "date_posted": 1760646701,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646704,
+        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110933",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "89b2d607-e6df-4074-9387-42cb4712c9d5",
+        "date_posted": 1760646704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646707,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01789471",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Collins Aerospace",
+        "title": "Software Engineer Co-Op",
+        "source": "vanshb03",
+        "id": "03dd677f-b25e-4902-a815-de29392bb3df",
+        "date_posted": 1760646707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1760646710,
+        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110934",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "97663e2b-0fd4-48ac-9316-0e43fc5f5bae",
+        "date_posted": 1760646710,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646712,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Tinker-AFB/XMLNAME-2026-Intern---Software-Quality-Engineer--Part-time-_R10209847",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Quality Engineer Intern",
+        "source": "vanshb03",
+        "id": "a13fa17a-9888-4331-9d1c-6b525207ac61",
+        "date_posted": 1760646712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646715,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101032",
+        "locations": [
+            "Okemos, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Dental of Michigan, Ohio, and Indiana",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "d2e60285-d101-4c09-9501-6bf81b9ae223",
+        "date_posted": 1760646715,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646718,
+        "url": "https://ats.rippling.com/en-GB/theguarantors-open-positions/jobs/f5580a3b-ef6b-4bb7-93f6-39e4910060fd",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TheGuarantors",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d3e5532-bb56-4ffb-b1f2-b9ff9a4529e2",
+        "date_posted": 1760646718,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646777,
+        "url": "https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Omaha-NE/Software-Engineering-Web-Intern_R25624",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valmont",
+        "title": "Software Engineering Web Intern",
+        "source": "vanshb03",
+        "id": "8645ca5f-59d0-4487-929f-25fe72a4db3a",
+        "date_posted": 1760646777,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1760646781,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2026_10134633-2",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walt Disney Parks and Resorts",
+        "title": "System Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c9f6d0b6-0517-43af-a52e-407bfcbffbc7",
+        "date_posted": 1760646781,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1760646785,
+        "url": "https://jobs.smartrecruiters.com/visa/744000088193335-site-reliability-engineering-intern-summer-2026-austin",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Site Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "2b60de77-f1af-4111-9de4-578ff1b389bb",
+        "date_posted": 1760646785,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646789,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-System-Integration---Cambridge--MA---January-August-2026_564725",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Software System Integration Co-op",
+        "source": "vanshb03",
+        "id": "9dedffcc-1dac-4bf3-8882-f8ef15f73d93",
+        "date_posted": 1760646789,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646792,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7498520003",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Multimedia Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a87fad4c-c02a-4544-9694-6265c40bff8e",
+        "date_posted": 1760646792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646798,
+        "url": "https://www.skydio.com/jobs/7498514003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Summer 2026",
+        "source": "vanshb03",
+        "id": "4e4bc857-aa43-478a-b36e-62a4fa1081a9",
+        "date_posted": 1760646798,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646806,
+        "url": "https://www.skydio.com/jobs/7498519003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Computer Vision/Deep Learning",
+        "source": "vanshb03",
+        "id": "a17a5341-4124-473a-8a74-22fd6a2061c9",
+        "date_posted": 1760646806,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646814,
+        "url": "https://www.skydio.com/jobs/7493211003?gh_jid=7493211003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "46572396-ad13-4c6c-8558-5d2d2e786835",
+        "date_posted": 1760646814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646821,
+        "url": "https://www.skydio.com/jobs/7493238003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Middleware Software Engineer Intern, Device Platform",
+        "source": "vanshb03",
+        "id": "73cbea00-580c-4d37-83f6-4dc520353d29",
+        "date_posted": 1760646821,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760646827,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/en-GB/exact_sciences/job/US---CA---San-Diego/Software-Test-Quality-Engineering-Intern---Summer-2026_R25-10593",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exact Sciences",
+        "title": "Software Test/Quality Engineering Intern",
+        "source": "vanshb03",
+        "id": "24d86353-48a5-4c46-ab24-2c6260d58e0b",
+        "date_posted": 1760646827,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647070,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492746003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Test AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "6635632c-dd5f-4c61-86c9-7dab030472a3",
+        "date_posted": 1760647070,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647102,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Software-Engineer---Corporate-Internship_R-774599",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nordstrom",
+        "title": "Software Engineer Intern, Corporate",
+        "source": "vanshb03",
+        "id": "ba0eccf1-d163-43b0-97d8-14cbc43150e6",
+        "date_posted": 1760647102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647106,
+        "url": "https://jobs.lever.co/zushealth/54557977-eaa9-4ae9-aadd-9a1ac9551575",
+        "locations": [
+            "Boston, MA",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Portland, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus Health",
+        "title": "Data Platform Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "f6a211e3-f8bf-450a-94ac-9fb3d7ccd6af",
+        "date_posted": 1760647106,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647118,
+        "url": "https://jobs.lever.co/zushealth/ac5f2a7f-7355-42bc-9efd-fc20fa9666f1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus",
+        "title": "Data Platform Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "13cf3bd9-d6d2-4712-bba8-3feac8c7f8fb",
+        "date_posted": 1760647118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647121,
+        "url": "https://jobs.lever.co/zushealth/8b4788c9-dce7-41a0-b9dc-c44a63fc0c14",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus",
+        "title": "Data Platform Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "f90aac1b-74a3-49ac-ada8-1fa7a1492043",
+        "date_posted": 1760647121,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647124,
+        "url": "https://jobs.lever.co/zushealth/de5e65c1-c88a-4adc-8041-c971a3c2c44a",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus",
+        "title": "Fullstack Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "8d891b30-c5b9-4dad-a5d5-777f68579670",
+        "date_posted": 1760647124,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647127,
+        "url": "https://jobs.lever.co/zushealth/2802e098-979f-48a3-959f-e7beba838df5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "d8cdb020-32fa-47c4-ad17-9902e36cbab2",
+        "date_posted": 1760647127,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760647196,
+        "url": "https://netflix.wd1.myworkdayjobs.com/netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1",
+        "locations": [
+            "Los Gatos, CA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Machine Learning Engineer Intern, (MS/PhD)",
+        "source": "vanshb03",
+        "id": "552f1198-b313-43cd-a077-4e398886db68",
+        "date_posted": 1760647196,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
