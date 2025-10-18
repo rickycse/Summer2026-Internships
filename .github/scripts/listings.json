@@ -3685,13 +3685,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391947,
+        "date_updated": 1760784532,
         "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, US Government",
         "season": "Summer",
@@ -18577,14 +18577,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758028211,
+        "date_updated": 1760784533,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "Software Engineering Intern, Fleet Health Instrumentation",
         "source": "vanshb03",
@@ -22887,13 +22887,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1760784534,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227501",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Maven Securities",
         "title": "Trading Intern",
         "season": "Summer",
@@ -26642,13 +26642,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1760784535,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7493936003",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "AI/ML Graduate Engineering Intern",
         "season": "Summer",
@@ -28435,6 +28435,178 @@
         "source": "vanshb03",
         "id": "552f1198-b313-43cd-a077-4e398886db68",
         "date_posted": 1760647196,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784581,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1877919/Software-Engineer-Azure-Data-Intern-Opportunities-for-University-Students-Austin",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Azure Data",
+        "source": "vanshb03",
+        "id": "05877ecf-1039-4ba0-a0bc-197d1422719f",
+        "date_posted": 1760784581,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784590,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sigma Computing",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "419e3b2f-1196-470d-8f8e-7b6b7b6de055",
+        "date_posted": 1760784590,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784594,
+        "url": "https://www.amazon.jobs/en/jobs/3111792/software-eng-intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c0e92933-d07a-4813-9be3-900990aef125",
+        "date_posted": 1760784594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784598,
+        "url": "https://lifeattiktok.com/search/7561941583777941813",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Monetization Technology",
+        "source": "vanshb03",
+        "id": "09c61fbb-d261-4ed2-bcf8-aa139a6cde8a",
+        "date_posted": 1760784598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784601,
+        "url": "https://careers.fedex.com/software-engineer-intern-summer-2026/job/P25-284903-1",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Express Corporation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "544c0c4c-dbb9-4d78-90a5-56dcd7800a01",
+        "date_posted": 1760784601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784605,
+        "url": "https://careers.arthrex.com/NorthAmerica/job/Naples-Custom-Dev-_NET-Intern-FL-34108/1335818300/",
+        "locations": [
+            "Naples, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arthrex",
+        "title": "Custom Dev .NET Intern",
+        "source": "vanshb03",
+        "id": "a050e8fd-988e-4716-bbde-83e51e49a984",
+        "date_posted": 1760784605,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784607,
+        "url": "https://careers.arthrex.com/NorthAmerica/job/Naples-SAP-Global-Release-Management-Intern-FL-34108/1335816400/",
+        "locations": [
+            "Naples, FL",
+            "Fort Myers, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arthrex",
+        "title": "SAP Global Release Management Intern",
+        "source": "vanshb03",
+        "id": "56c99bc2-b9b3-4d4d-9258-4a5ea8ac508e",
+        "date_posted": 1760784607,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784619,
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-sqr-san-francisco-california-united-states",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Software Engineer Intern, SQR",
+        "source": "vanshb03",
+        "id": "f5647f5f-5d28-4231-a97d-e4f73d9388f3",
+        "date_posted": 1760784619,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784676,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0011348",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d4968119-7112-4720-a53c-29561682326b",
+        "date_posted": 1760784676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784683,
+        "url": "https://www.pega.com/about/careers/22692/software-engineer-summer-intern-software-delivery-excellence-alliance",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pega",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "01dfa008-7f7b-4114-bbf3-4ef97bb78d4e",
+        "date_posted": 1760784683,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
