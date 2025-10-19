@@ -28610,5 +28610,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784801,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Game-Design-Intern-Star-Wars-Jedi/210929",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Technical Game Design Intern, Jedi Team",
+        "source": "vanshb03",
+        "id": "6dd6e05c-9ff0-4802-a4f5-fa27d9467267",
+        "date_posted": 1760784801,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784810,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Narrative-Design-Intern-Star-Wars-Jedi/210905",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Narrative Design Intern, Star Wars Jedi",
+        "source": "vanshb03",
+        "id": "1fe07232-3800-443d-9ee8-0f6ec76dd866",
+        "date_posted": 1760784810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760784886,
+        "url": "https://www.metacareers.com/jobs/1161887009217246",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Production Engineer Intern",
+        "source": "vanshb03",
+        "id": "3bbd4531-ed80-4171-b590-44519688ecd8",
+        "date_posted": 1760784886,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760841546,
+        "url": "https://www.ycombinator.com/companies/stratus-aviation/jobs/3uZVkok-embedded-software-engineer-intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Stratus Aviation",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e3e280b7-515e-44fa-a325-bc3236c47f1e",
+        "date_posted": 1760841546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
