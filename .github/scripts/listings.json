@@ -8709,7 +8709,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Intuit",
         "title": "Software Developer Co-op",
         "source": "vanshb03",
@@ -17918,7 +17918,7 @@
     },
     {
         "date_updated": 1757826167,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-cyber-security-intern/27595/86084154656",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-cyber-security-intern/27595/87369447136",
         "locations": [
             "Mountain View, CA",
             "San Diego, CA",
@@ -17938,7 +17938,7 @@
     },
     {
         "date_updated": 1757826184,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-front-end-engineering-intern/27595/86084161248",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-front-end-engineering-intern/27595/87369447104",
         "locations": [
             "Mountain View, CA",
             "San Diego, CA",
@@ -17958,7 +17958,7 @@
     },
     {
         "date_updated": 1757826192,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-mobile-ios-android-intern/27595/86084161264",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-mobile-ios-android-intern/27595/87369442368",
         "locations": [
             "Mountain View, CA",
             "San Diego, CA",
@@ -17978,7 +17978,7 @@
     },
     {
         "date_updated": 1757826199,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-full-stack-engineering-intern/27595/86084161280",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-full-stack-engineering-intern/27595/87369451136",
         "locations": [
             "Mountain View, CA",
             "San Diego, CA",
@@ -17998,7 +17998,7 @@
     },
     {
         "date_updated": 1757826208,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-ai-science-intern/27595/86084163248",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-ai-science-intern/27595/87369447088",
         "locations": [
             "Mountain View, CA",
             "San Diego, CA",
@@ -18018,7 +18018,7 @@
     },
     {
         "date_updated": 1757826216,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-backend-engineering-intern/27595/86084163280",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-backend-engineering-intern/27595/87369451024",
         "locations": [
             "Mountain View, CA",
             "San Diego, CA",
@@ -28697,5 +28697,348 @@
         "date_posted": 1760928769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760999502,
+        "url": "https://www.sartorius.com/en/company/careers/vacancies-job-opportunities/software-engineer-intern-onsite-fremont-ca-fremont-ca-united-states-of-america-1762096?locale=en",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sartorius",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "30afbb40-e3cb-42a4-8755-ab82f09fc668",
+        "date_posted": 1760999502,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761006974,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/IT-Software-Engineering-Intern_JR33513",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "IT Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "feb361b7-532e-45f7-b5c5-8442a2d47e13",
+        "date_posted": 1761006974,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018273,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341574",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Engineer Intern, Tools",
+        "source": "vanshb03",
+        "id": "82e59cdb-52d1-4dfe-84d7-bdb2bcf18f41",
+        "date_posted": 1761018273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018278,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341596",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Engineering Intern, AI",
+        "source": "vanshb03",
+        "id": "96540bbc-c158-4918-8f07-5a3dcb7ebffa",
+        "date_posted": 1761018278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018384,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341756",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Verification & Validation Engineering Intern",
+        "source": "vanshb03",
+        "id": "1a69f3ed-beb3-40e8-9671-63c4dd625d27",
+        "date_posted": 1761018384,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018387,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342038",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Systems Engineering Intern, El Segundo",
+        "source": "vanshb03",
+        "id": "ad895100-5c78-454f-9ece-e654b3937bf2",
+        "date_posted": 1761018387,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018392,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342074",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Systems Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "ebfe6772-b412-4120-adc9-9aaf5482bbba",
+        "date_posted": 1761018392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018395,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345049",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Vehicle Design Intern",
+        "source": "vanshb03",
+        "id": "17d47248-d7f6-4cd9-962d-0fd51545fc59",
+        "date_posted": 1761018395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018397,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345041",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Visualization Design Intern",
+        "source": "vanshb03",
+        "id": "12ca9044-bd78-47a4-9d74-cc9328744e16",
+        "date_posted": 1761018397,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018400,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341607",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Guidance, Navigation, and Control Engineering Intern",
+        "source": "vanshb03",
+        "id": "ebb1b478-8e83-4f4f-a049-d7afc4f63c1a",
+        "date_posted": 1761018400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018405,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341514",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Flight Test Instrumentation Intern",
+        "source": "vanshb03",
+        "id": "cc78d7e2-4344-4dcb-88fe-798258d1e77c",
+        "date_posted": 1761018405,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018410,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341502",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Flight Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "9dab440f-b820-42ba-9f3e-612f16fea2c3",
+        "date_posted": 1761018410,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018415,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342085",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Flight Performance Engineering Intern, AI",
+        "source": "vanshb03",
+        "id": "24577dac-85bd-4a26-9b6f-5d17ebfc80c5",
+        "date_posted": 1761018415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018490,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341625",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Electrical Engineering Intern, El Segundo",
+        "source": "vanshb03",
+        "id": "1e7b86d6-1e54-4a65-adbc-cc429b90cd6f",
+        "date_posted": 1761018490,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761018576,
+        "url": "https://careers-chickfila.icims.com/jobs/18992/digital-transformation-and-technology-software-engineer-intern---summer-2026/job",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chick-Fil-A",
+        "title": "Digital Transformation and Technology Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "194bbbbf-fcea-42d0-9d85-77fae46eb5db",
+        "date_posted": 1761018576,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761042022,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2532274-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Applications Engineering Intern",
+        "source": "vanshb03",
+        "id": "52542050-02f9-4814-80cb-9250d384c2b1",
+        "date_posted": 1761042022,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761042031,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900014",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, AI Hardware",
+        "source": "vanshb03",
+        "id": "b3febba0-3684-40ef-8fba-3a85ee7f7e59",
+        "date_posted": 1761042031,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761045828,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Machine Learning and Statistics",
+        "source": "vanshb03",
+        "id": "3160a9ea-ef71-4eca-86f7-9b42346ef6b4",
+        "date_posted": 1761045828,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761045816,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Ecommerce-Machine-Learning_25WD92181",
+        "locations": [
+            "Remote",
+            "San Francisco, CA",
+            "Toronto, Canada",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Ecommerce Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "0d204261-7125-405d-8203-b5ca5d508e63",
+        "date_posted": 1761045816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761047536,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Intern--Robotics-Integration-Applications_25WD92298-1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Robotics Integration Applications Intern",
+        "source": "vanshb03",
+        "id": "8a5dabc5-75f8-43e5-8e25-f889ad40dc7a",
+        "date_posted": 1761047536,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
