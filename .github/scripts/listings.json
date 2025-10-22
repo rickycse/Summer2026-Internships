@@ -6174,13 +6174,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753858875,
+        "date_updated": 1761124974,
         "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Harmonic",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -17712,14 +17712,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733691,
+        "date_updated": 1761124976,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246131",
         "locations": [
             "Miami, FL",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Reference Data Operations Intern",
         "source": "vanshb03",
@@ -24830,13 +24830,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1761124978,
         "url": "https://job-boards.greenhouse.io/breezeairways/jobs/7485035003",
         "locations": [
             "Cottonwood Heights, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Breeze Airways",
         "title": "Ancillary Revenue & Guest Analytics Intern",
         "season": "Summer",
@@ -26454,13 +26454,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1761124979,
         "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7492480003",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GCM Grosvenor",
         "title": "Software Engineering Intern - Technology",
         "season": "Summer",
@@ -27479,13 +27479,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1761124980,
         "url": "https://jobs.lever.co/CesiumAstro/577c77c6-ef9c-405b-b635-4670eb3ef9d2/apply",
         "locations": [
             "Westminster, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CesiumAstro",
         "title": "Embedded Software Engineering Intern",
         "season": "Summer",
@@ -27599,13 +27599,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1761124980,
         "url": "https://job-boards.greenhouse.io/gardacp/jobs/4308947004",
         "locations": [
             "Wayzata, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garda Capital Partners",
         "title": "Trading Assistant Intern",
         "season": "Summer",
@@ -29040,5 +29040,756 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761124856,
+        "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621107005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestial AI",
+        "title": "Reliability Engineering Intern, Database Development",
+        "source": "vanshb03",
+        "id": "252bc18e-c3b5-459b-86e8-bf46e448be5b",
+        "date_posted": 1761124856,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761124866,
+        "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621109005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestial AI",
+        "title": "Reliability Engineering Intern, Datacenter RAS",
+        "source": "vanshb03",
+        "id": "550b746e-2144-4905-9e48-85e55be9dc52",
+        "date_posted": 1761124866,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761124874,
+        "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621108005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestial AI",
+        "title": "Reliability Engineering Intern, Silicon Photonics",
+        "source": "vanshb03",
+        "id": "1665ec1e-bd4e-431a-a09d-c6580d322259",
+        "date_posted": 1761124874,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761124884,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4611748006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Helix AI Intern, Speech",
+        "source": "vanshb03",
+        "id": "3ed34ffe-8609-494c-977c-242d0aeb2cae",
+        "date_posted": 1761124884,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://job-boards.greenhouse.io/relaypro/jobs/7342994",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relay",
+        "title": "Product Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6673ef50-85c4-44e8-bb48-d1bd024e821e",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Enterprise-Architect-Intern---Summer-2026_R202566794-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Enterprise Architect Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d1921ba2-412a-4cf1-97ab-83af1f679306",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://www.clever.com/about/careers?gh_jid=7315275",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clever",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "01aab56b-d829-4f8a-a123-f0b8ec1de60c",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://careers-stifel.icims.com/jobs/8188/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stifel",
+        "title": "Technology Product Development Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "da95f316-1384-4614-a8a8-3f2c80a96a10",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://careers-stifel.icims.com/jobs/8210/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stifel",
+        "title": "Technology Product Development Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "afce860a-cd35-42e2-9c6b-6e665385e949",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Applied-AI---Controls-Transformation-Intern---Summer-2026_R5022709-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Applied AI & Controls Transformation Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "338b8655-4908-48a8-affa-a9e29ed54dbf",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Data-Digital-Managed-Services_31850R",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vizient",
+        "title": "Data Digital Managed Services Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e4d70fd6-77ba-43f1-a12b-d6c83b7fa6aa",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://www.getfiber.ai/careers?gh_jid=4949164007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Clerkie",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7af65d26-98cb-4fed-b097-0225ee58fc28",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Firmware-QA-Intern--Associate-Degree-_4062",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Badger Meter",
+        "title": "Firmware QA Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1537e640-c5bc-4f29-b0aa-db9be4b045d2",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Supply-Chain-Data-Scientist-Intern_R25_0000008884",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "7-Eleven",
+        "title": "Supply Chain Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6cfc3601-69e9-4c81-86ce-88fdb998f792",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1899706",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Data Systems",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "028c0bce-4752-4031-baa2-bcbb51ead9f8",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Digital-Marketing-Intern---Bachelor-s-Degree_2502282",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Web Production Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a1814add-e5f8-45af-b279-50931f2b66b3",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer-Intern_2025-18114",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "71be669e-83f3-45b3-b086-9eb629dd63aa",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715134609",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "GPU Compiler Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1ff8a9ac-b632-4283-95c1-645da04b9c75",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20528-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Silicon Laboratories",
+        "title": "Design Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "73059505-3966-44d2-995f-1f95557c08ed",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92521-1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "593d4254-68ce-4dac-85c6-c16750e2aead",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089133739",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "87107041-b7ae-4fdc-a12a-259586a0fee0",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089137803",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09d1c68a-db14-47ce-998e-23b47918a2da",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089140956",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Full Stack SWE Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ebe6022b-91a3-4e1f-9b23-9f0bef0fb802",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089133882",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "ML Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aaedf89f-7a3c-4f60-a84c-4256360e9c5e",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089134695",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Risk Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ee673161-4426-48e6-bc58-4692b4a238bc",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://careers.hfsinclair.com/job/Dallas-Intern,-IT-Data-Analytics-TX-75201/1336209800/?ats=successfactors",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HF Sinclair",
+        "title": "IT Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e77ab0f-85bb-4652-8454-8a04dcf925a5",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000089107316",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AECOM",
+        "title": "Data Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d5dc5a39-11cb-45bc-9c65-770544a3eaba",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089131715",
+        "locations": [
+            "Simpsonville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch Venture Capital",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8fdfacf3-93d6-415a-ac31-5284f2b3ead2",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Industrial-Design-Intern_1192902",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Industrial Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8de2b6f5-427d-48f5-9427-d075bcf962dc",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002?gh_jid=8218030002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "932d01fa-3de6-4316-9f22-ffbc666ac28b",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089134665",
+        "locations": [
+            "Simpsonville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch Venture Capital",
+        "title": "Computer Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74dc90e3-ea41-453a-b512-28d59670215c",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.lever.co/shieldai/b3e9f8bb-42dc-4daa-80ae-c5cefd9855c7",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Hardware Test Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9fff907b-2464-407c-b6b0-7189b10531f2",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote---PA/Intern---Marketplace-Data-and-Operations_JR102234-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertex",
+        "title": "Marketplace Data and Operations Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9650bf97-e7d8-4d6a-9ee3-fc10ab19d9fc",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900607",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Systems For Efficient AI",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4fffcb6a-83b1-46a0-a91e-8999e395c7b4",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7347429",
+        "locations": [
+            "San Francisco, CA",
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "85ddd6b0-1d11-4b3b-84ec-02af27df92ff",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://job-boards.greenhouse.io/homechef/jobs/4917770008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Home Chef",
+        "title": "Operations Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e4b585f8-929b-43db-a765-2a1a9fc3f933",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900381",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Computer Vision and Deep Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac358ecf-12d8-49d3-9c5c-cdc674f76569",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Design-Engineering-Intern_1192870",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Hardware Design Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a587da3d-ce18-4e34-b348-6c99dac3278e",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Engineer_2534877",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LabCorp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5914b3df-c934-4e87-98bb-088df2b6a6c4",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/AI-Engineering-Analyst-Intern_R103683",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LexisNexis Risk Solutions",
+        "title": "AI Engineering Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dcafba74-ed2e-4f39-955e-4d31c24d5756",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://seagatecareers.com/job/Bloomington-Wafer-Photo-Process-Engineering-Internship-Summer-2026-MN/1336336400/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Wafer Photo Process Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ebca9e8-5167-422f-b8b4-fb38aece08cd",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://boards.greenhouse.io/inflectionai/jobs/4611934006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inflection",
+        "title": "Technical Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6cac3177-7b5f-4bb5-aabe-c3cab650d95d",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---People-Data-Scientist_R161486",
+        "locations": [
+            "San Francisco, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "People Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "781e7ef5-779f-454e-ad80-dda97b2ef85c",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.ashbyhq.com/SecondDinner/15d9eea6-8ab6-486d-84ac-9de05be54901",
+        "locations": [
+            "Irvine, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Second Dinner",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "19445317-b492-435f-a3a4-275da9bee780",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
