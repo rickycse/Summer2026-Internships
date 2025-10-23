@@ -22340,13 +22340,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1761176490,
         "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "The Tudor Group",
         "title": "Quantitative Developer Intern (Pipeline Team)",
         "season": "Summer",
@@ -28733,13 +28733,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018273,
+        "date_updated": 1761176492,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341574",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Software Engineer Intern, Tools",
         "source": "vanshb03",
@@ -29789,6 +29789,40 @@
         "source": "vanshb03",
         "id": "19445317-b492-435f-a3a4-275da9bee780",
         "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174958,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8168727002?gh_jid=8168727002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "2df0fd9b-c727-4b97-96a0-1205b3ea23cd",
+        "date_posted": 1761174958,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761174998,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern (Backend)",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "f46070a1-e5a5-45d7-b655-f9095c2fbd62",
+        "date_posted": 1761174998,
         "company_url": "",
         "is_visible": true
     }
