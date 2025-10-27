@@ -3128,7 +3128,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Scale AI",
         "title": "Technical Advisor Intern",
         "season": "Fall",
@@ -3617,13 +3617,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391676,
+        "date_updated": 1761489912,
         "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, US Government",
         "season": "Summer",
@@ -3651,13 +3651,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391756,
+        "date_updated": 1761489912,
         "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
         "locations": [
             "Washington, D.C."
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, US Government",
         "season": "Summer",
@@ -11295,13 +11295,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756225540,
+        "date_updated": 1761489913,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nuro",
         "title": "Software Engineering Intern, Mapping & Localization",
         "source": "vanshb03",
@@ -17695,13 +17695,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733680,
+        "date_updated": 1761489913,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246003",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Market Risk Intern",
         "source": "vanshb03",
@@ -20948,13 +20948,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758724273,
+        "date_updated": 1761489914,
         "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601209005",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bracebridge Capital",
         "title": "Software Engineer Co-op",
         "season": "Summer",
@@ -22186,13 +22186,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759320959,
+        "date_updated": 1761489914,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1884627",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Explore Program Intern",
         "source": "vanshb03",
@@ -24795,14 +24795,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1761489914,
         "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7191000",
         "locations": [
             "Summit, NJ",
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charles River Associates (CRA)",
         "title": "Data Analytics Consulting Analyst/Associate Intern, Life Sciences/Analytics",
         "season": "Summer",
@@ -29825,5 +29825,399 @@
         "date_posted": 1761174998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489420,
+        "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Operational Automation Engineer Intern",
+        "season": "Spring",
+        "source": "andychen482",
+        "id": "9301548c-b188-4a93-b890-321d1f294894",
+        "date_posted": 1761489420,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489463,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5760872003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Credit Karma",
+        "title": "Software Engineering intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7d5632bc-f310-4959-8277-e010ef42a16c",
+        "date_posted": 1761489463,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489517,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=uberfreight&token=4961311008",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber Freight",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "c49ea979-c504-42ec-9afb-859cf0938095",
+        "date_posted": 1761489517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489543,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/Princeton-NJ/Software-Engineer-Intern--Early-Career-_321759-1",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a98582a2-ed7a-4d1b-b3b0-b6142a7d9071",
+        "date_posted": 1761489543,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489568,
+        "url": "https://careers.spglobal.com/jobs/321766?lang=en-us",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b0b29772-146c-499f-90db-92c173534174",
+        "date_posted": 1761489568,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489602,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/New-York-NY/Data-Engineer-Intern_321891-1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "efc3ed34-9851-42f9-ad63-8cba6b786334",
+        "date_posted": 1761489602,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489642,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "General Motors Financial",
+        "title": "Enterprise Architecture Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "3fa49af2-5077-4e15-ba16-1e1eb6a24a75",
+        "date_posted": 1761489642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489665,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1068",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "General Motors Financial",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "eb1e6617-fd45-4ec2-bf66-a2281a09423f",
+        "date_posted": 1761489665,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761489684,
+        "url": "https://jobs.baesystems.com/global/en/job/117632BR/Cyber-Security-Software-Developer-Part-Time-Intern",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Cyber Security Software Developer Part Time Intern",
+        "season": "Fall",
+        "source": "economicherb",
+        "id": "f90883ac-401b-48f7-a662-e85560bee569",
+        "date_posted": 1761489684,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761125707,
+        "url": "https://www.workatastartup.com/jobs/83826",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fizz",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "0199b1b6-4fe3-4db4-8ee2-fb66e6ed04af",
+        "date_posted": 1761125707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761178899,
+        "url": "https://scale.com/careers/4611533005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Technical Advisor Intern, GenAI",
+        "source": "vanshb03",
+        "id": "425746b8-6507-432d-a8df-595fd1eff4eb",
+        "date_posted": 1761178899,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761489227,
+        "url": "https://www.workatastartup.com/jobs/84053",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tasker AI",
+        "title": "Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "06e5edbf-772c-42e2-844a-80977bba3e08",
+        "date_posted": 1761489227,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761489233,
+        "url": "https://www.workatastartup.com/jobs/79941",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Silimate",
+        "title": "EDA QA/Testing Intern",
+        "source": "vanshb03",
+        "id": "286048e1-aa30-43cf-ad89-b4983f21054f",
+        "date_posted": 1761489233,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490098,
+        "url": "https://www.lumafield.com/careers/job?id=f4301925-6a92-458c-961e-f9560f058df8",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Engineering Intern, Process",
+        "source": "vanshb03",
+        "id": "57a0cc33-d18c-4bf0-8c9f-b7aa744b0452",
+        "date_posted": 1761490098,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490101,
+        "url": "https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Engineering Intern, Embedded Software",
+        "source": "vanshb03",
+        "id": "5efaf56b-8b93-4f63-9ed5-24aea00bd78b",
+        "date_posted": 1761490101,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490124,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202568804/software-engineering-intern-burlington-vt-summer-2026/",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox Enterprises",
+        "title": "Software Engineering Intern, Burlington, VT",
+        "source": "vanshb03",
+        "id": "2789c76f-9912-47a3-8c91-3ab8b46992b0",
+        "date_posted": 1761490124,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490157,
+        "url": "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Summer-Intern-2026-OR-97006/1319944600/",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Audio AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "59acef53-b83f-48fe-8708-db4032126463",
+        "date_posted": 1761490157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490161,
+        "url": "https://otto-engineering-inc.breezy.hr/p/5fe03a0ab3df-firmware-embedded-engineer-internship-communications",
+        "locations": [
+            "Carpentersville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OTTO Engineering",
+        "title": "Firmware/Embedded Engineer Intern, Communications",
+        "source": "vanshb03",
+        "id": "f88b348f-c46c-4d21-8cea-fd490b5fb38d",
+        "date_posted": 1761490161,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490166,
+        "url": "https://careers.viasat.com/jobs/5294/job",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3266986e-03f3-49c8-a853-32eaf7af53d6",
+        "date_posted": 1761490166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490212,
+        "url": "https://careers.nintendo.com/job-openings/listing/25000000DX.html",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo of America",
+        "title": "IT Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1cbd1496-70c1-49f4-8e28-30cc15983a3a",
+        "date_posted": 1761490212,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490216,
+        "url": "https://careers.nintendo.com/job-openings/listing/25000000EM.html",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, CPU Profiling Tool\u2019s Team",
+        "source": "vanshb03",
+        "id": "5d290d3d-9a33-412b-941d-594d55016945",
+        "date_posted": 1761490216,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490224,
+        "url": "https://jobs.ericsson.com/careers/job/563121772567101",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "AI Software Development Intern",
+        "source": "vanshb03",
+        "id": "23229ebc-0801-4562-a3c2-7cea9ddb1d18",
+        "date_posted": 1761490224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761490229,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-Application-Developer-%28OH%29-WA-98033/1260990901/",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PACCAR",
+        "title": "Application Developer Intern",
+        "source": "vanshb03",
+        "id": "0961117b-1710-4d50-90e6-22671d211618",
+        "date_posted": 1761490229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
