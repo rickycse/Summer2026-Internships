@@ -30145,5 +30145,706 @@
         "date_posted": 1761722726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761828758,
+        "url": "https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AnySignal",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "be68a13c-08f2-4734-a668-cf2432de542b",
+        "date_posted": 1761828758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828902,
+        "url": "https://careers.northwesternmutual.com/corporate-careers/jr-44068/software-engineering-intern-summer-2026/",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Northwestern Mutual",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "19449414-5143-4ab7-8a74-743f42a403b2",
+        "date_posted": 1761828902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828905,
+        "url": "https://www.tesla.com/careers/search/job/254611",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Service Engineering",
+        "source": "vanshb03",
+        "id": "9057193a-90f9-44b1-a340-55afc5e35804",
+        "date_posted": 1761828905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761828908,
+        "url": "https://www.tesla.com/careers/search/job/254590",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Information Security",
+        "source": "vanshb03",
+        "id": "8df90d1f-71fe-4c59-9447-99953ff5bc76",
+        "date_posted": 1761828908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761828910,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-25-14747",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Moog",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ae8f8dbe-f905-4683-bf86-d0c05c80fbe6",
+        "date_posted": 1761828910,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828913,
+        "url": "https://ptc.eightfold.ai/careers/job/137477472164",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d23d937a-6d72-4cb9-aeba-debcd91b7d91",
+        "date_posted": 1761828913,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828915,
+        "url": "https://ptc.eightfold.ai/careers/job/137477482427",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7380fcd5-9e2c-4d0b-bf53-7f026e22a7c0",
+        "date_posted": 1761828915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828917,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, OTA Integration",
+        "source": "vanshb03",
+        "id": "583948eb-4c1f-49c8-b891-a2c4d5b5d947",
+        "date_posted": 1761828917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761828927,
+        "url": "https://jobs.lever.co/tri/eef0e312-6b25-44e4-b2df-0d3a4ee3533e",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Human Interactive Driving Intern, Uncertainty-Aware Control",
+        "source": "vanshb03",
+        "id": "58aafe50-17ee-4d31-84e2-15dfd823ca9d",
+        "date_posted": 1761828927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761833278,
+        "url": "https://careers.jackhenry.com/job/-/-/42859/87787419520",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Jack Henry",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c0055e6b-ddac-432a-b195-6389914976ee",
+        "date_posted": 1761833278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761833339,
+        "url": "https://careers.gulfstream.com/job/Savannah-Summer-2026-IEF-Software-Engineering-College-Intern-GA-31401/1320817800/",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gulfstream Aerospace Corporation",
+        "title": "Software Engineering College Intern",
+        "source": "vanshb03",
+        "id": "516ce320-b305-4c85-8605-2b03f9fd2bb2",
+        "date_posted": 1761833339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761833343,
+        "url": "https://careers.gulfstream.com/job/Savannah-Summer-2026-Application-Developer-College-Intern-GA-31401/1331621900/",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gulfstream Aerospace Corporation",
+        "title": "Application Developer College Intern",
+        "source": "vanshb03",
+        "id": "1d1dd185-4a50-47ab-b6b4-3cc98a565356",
+        "date_posted": 1761833343,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761833347,
+        "url": "https://retailcareers.staples.com//job/-/-/49589/87839758768",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "26ba2bdb-e9aa-44e2-9811-16666da9fb5e",
+        "date_posted": 1761833347,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761833381,
+        "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
+        "locations": [
+            "Denver, CO",
+            "Montvale, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "KPMG",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "123749a2-ecc2-4b95-aec4-1a4ab6ce2574",
+        "date_posted": 1761833381,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761833385,
+        "url": "https://www.careers.signify.com/global/en/job/361448/Software-Engineering-Intern-Cooper-Lighting-Solutions-Spring-2026",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signify",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6ad3f40d-d90d-4515-b293-08207812667d",
+        "date_posted": 1761833385,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1761833410,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Software Engineering Intern, Automation",
+        "source": "vanshb03",
+        "id": "a9f4c7e8-df6a-485a-8220-44ea6647670d",
+        "date_posted": 1761833410,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761838572,
+        "url": "https://www.workatastartup.com/jobs/84315",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Novaflow",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "46a1a5ed-a8ed-4d60-8e09-300eae776fc8",
+        "date_posted": 1761838572,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500612003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Credit Karma",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6998638e-c8fb-4998-8678-1f172526c281",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI-COE-DevSevOps-Intern_JR104215",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "AI COE/DevSevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e5488831-b9ea-414c-85d6-de95d38c449d",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Cloud-Engineering-Intern_J2429234",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Cloud Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f0c5eb2e-5d2d-4c39-af14-008a149c04c9",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://ryan.wd1.myworkdayjobs.com/en-US/RyanCareers/job/Plano/Summer-2026-Intern--Data-Science_R0017876-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ryan",
+        "title": "Intern, Data Science",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "31b45441-1b54-4f3b-b8fc-c24ac75a8ac1",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI-Machine-Learning-Development-Engineer_R-8741",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Internship - AI-Machine Learning Development Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2926da88-9d3b-425b-aa7b-eadaa47156ea",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/The-Walt-Disney-Studios--Software-Engineering-Intern--Summer-2026_10135086-1",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b7b55e19-07dd-4f82-adfb-e68de6519731",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/C131A026F1/",
+        "locations": [
+            "Bensenville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Al Warren Oil Company",
+        "title": "Software Developer - Summer Internship 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "086b1aea-58f8-42d1-aa6b-578e6e595d02",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7510017003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern, Machine Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f820c1d-8342-44fd-833f-6d31274a7d78",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Backend Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d5a985bf-8e78-456a-8897-a9ad970df19d",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Efficiency-Intern_1196309",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "AI Efficiency Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0bc07b3d-12c0-4240-a877-7f902ab9da85",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Software-Engineering-Intern--Summer-2026_10131104",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9e82b4b-9271-4c02-8362-322e20ed800c",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/8224498002?gh_jid=8224498002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Flight Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e08138aa-1d52-4b84-9737-0927706b9845",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229",
+        "locations": [
+            "San Diego, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "RSM",
+        "title": "Advanced Analytics and Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a481aa4c-fad7-4a44-a847-0dee4939b2f1",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://www.skydio.com/jobs/7506906003?gh_jid=7506906003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "763a753b-0ddb-43d2-ba3a-a13936997df2",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Valparaiso-FL/Data-Science-Intern_R-00169271",
+        "locations": [
+            "Valparaiso, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "71527544-78f0-4200-9f22-057881d6a0d0",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Durham-North-Carolina-USA/Data-Science-Intern_R-01328092",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae230df8-73c9-4433-b4ce-07c13c32aec3",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Engineer-Intern_REQ-19859-1",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vermeer",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "811dc279-194f-4431-8078-0690d4500d96",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Product-Management-Intern--Summer-2026_10135416",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9e4b0123-8393-4f3f-9890-b4b57fdf320b",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Fire-Investigative-Intern_R-47583",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Travelers Companies",
+        "title": "Fire Investigative Intern -",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5bdd8307-6245-4f13-ab4f-7b9925fa7b9d",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "79649b95-bea6-42e2-90b5-a290149c38f9",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Management-Intern--Summer-2026_10135238-1",
+        "locations": [
+            "Santa Monica, CA",
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9b32dc33-fefc-43e4-a846-42e309fb54e4",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineering-Intern--Summer-2026_10135070",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3ae2a6b3-2754-42a8-9517-32b934c5bd98",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/San-Jose/Software-Engineer-Intern--Summer-2026-_R25-01425",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TEL",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fe16d8df-d241-48af-a109-64f0e5c62c13",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Business-Data-Engineer-Intern_JR104161",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Business Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "269648ba-99e6-4950-b84c-2c34c28eddb3",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
