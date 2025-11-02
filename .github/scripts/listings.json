@@ -30883,5 +30883,450 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762017640,
+        "url": "https://www.workatastartup.com/jobs/84385",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nixo",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "0cd2bf9b-8362-4986-950e-337c01ff04ab",
+        "date_posted": 1762017640,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762018160,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27279/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineer Intern, 3D",
+        "source": "vanshb03",
+        "id": "95dd04e5-c6f0-42da-8eda-b1c4cca1e826",
+        "date_posted": 1762018160,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1762018164,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Engineering Intern, Embedded Hardware, Vehicle Networking & Audio",
+        "source": "vanshb03",
+        "id": "b39a9f8c-0245-43fb-bb21-0332bc61e8ad",
+        "date_posted": 1762018164,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7512164003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern, AI/ML Compiler Research Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "418e500b-6341-4e6c-82fb-37743fd1c02e",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcesium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de41db36-f53a-46fc-898f-70a41cc839e5",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Research Internship, Reinforcement Learning for Large Foundation Models",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e7c06cd1-4cc3-4ba9-a62a-5210a4099493",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624587005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Frontend Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1e561ec5-bc89-42f1-8abe-12f67c37d8b4",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299",
+        "locations": [
+            "Milpitas, CA",
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "AI Research Lab Research Associate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a8b5a08a-edd8-48e4-a6e7-67694395e5df",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209",
+        "locations": [
+            "San Francisco, CA, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prologis",
+        "title": "AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "864b3746-fe9b-490d-8238-9014cbd13e37",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7296515?gh_jid=7296515",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Domino Data Lab",
+        "title": "Forward Deployed Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e335f197-fb47-48d4-9083-de5bdc788bb2",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256900",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Hardware Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "44032283-3fe2-4a78-82e7-83fa9cc4a8dc",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113495",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Systems Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e267d266-032f-4f92-b757-eefd9d677cc2",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "SAS",
+        "title": "AI & IoT Solution Advisor Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2e81320d-f57a-46e1-afbb-7c1ec49a41c2",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500619003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Credit Karma",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cfbdde3e-0a57-4ab9-bb77-4db3eda81435",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "EQT Corporation",
+        "title": "AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e473ad1-cd7b-453c-bd2d-b0a0f4992c67",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://ksmcpa.wd12.myworkdayjobs.com/en-US/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "KSM",
+        "title": "AI & Automation Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e8ce6a2d-ec4b-4e4b-a03f-6444f89ea3ff",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "84b432e9-c931-4a39-bc5b-669e0b789b1f",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Software-Engineer-Intern---Buffalo-NY_R10212874",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "716888ad-1c98-43b3-b8b5-b92779c26a27",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956555008?gh_jid=4956555008",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Inspire Medical Systems",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "58ba0e94-2344-43f9-9af7-54570e4a0e68",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956410008?gh_jid=4956410008",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Inspire Medical Systems",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0714081a-f621-449b-8d77-e597b1de8763",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2532385-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6369472a-b668-41e7-ad88-34d2926f0d02",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2532385-2",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "15882602-f6f7-4ec3-9f5d-0243ea483ff5",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241-1",
+        "locations": [
+            "Austin, TX",
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer (AI/ML) Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "23c1baf6-cac3-48b1-ac36-af9f009b312d",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://jobs.ashbyhq.com/zip/ff6e6e25-e0e0-4d81-b1f6-be75a7a0511d",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zip",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fad7e494-ca0f-48dc-94a4-0a582db08ac6",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pittsburgh-Pennsylvania-USA/Data-Catalog-Maintenance-Intern_R-01328163c",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thermo Fisher Scientific",
+        "title": "AI & Automation Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "16f1b5b5-2501-4f5b-a158-0f600d7d4df3",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://jobs.bytedance.com/en/position/7417891515852900617/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0086b7e5-868d-4efd-90f0-740e235ebb95",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
