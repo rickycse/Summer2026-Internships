@@ -134,23 +134,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757825633,
-        "url": "https://www.tesla.com/careers/search/job/240980",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "company_name": "Tesla",
-        "title": "Android Engineer, Mobile Software Intern - Fall",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "9282f021-bf1f-4158-ab49-878539a727e3",
-        "date_posted": 1744736754,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1757825602,
         "url": "https://www.tesla.com/careers/search/job/241088",
         "locations": [
@@ -5350,7 +5333,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753215757,
+        "date_updated": 1762301438,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
         "locations": [
             "Boulder, CO",
@@ -5360,7 +5343,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Trade Desk",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -6323,24 +6306,6 @@
         "source": "vanshb03",
         "id": "fb666055-594e-4ce4-8f37-e9cc6fcadb90",
         "date_posted": 1753906388,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Fall"
-    },
-    {
-        "date_updated": 1753906396,
-        "url": "https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb",
-        "locations": [
-            "Austin, TX",
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Method",
-        "title": "Software Engineer Intern",
-        "source": "vanshb03",
-        "id": "edaf4e53-6130-4ade-985a-f89b5dc6e392",
-        "date_posted": 1753906396,
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
@@ -7655,23 +7620,6 @@
         "source": "vanshb03",
         "id": "0df9f696-df8e-4be2-bfdc-3730f92242dc",
         "date_posted": 1754667727,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1754667734,
-        "url": "https://www.xantium.com/careers/interns_2026/",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Xantium",
-        "title": "Quantitative Researcher Intern",
-        "source": "vanshb03",
-        "id": "62b66dfb-724e-4994-b214-3fc5f9670626",
-        "date_posted": 1754667734,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
@@ -14610,24 +14558,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757041386,
-        "url": "https://app.ripplematch.com/v2/public/job/146d369a",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Plaid",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "johnadams145",
-        "id": "9e3447ef-0fec-49db-9fec-288db5ce2d44",
-        "date_posted": 1757041386,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1755611596,
         "url": "https://joinbytedance.com/search/7538139519473092882?spread=A3T3U6W",
         "locations": [
@@ -15841,25 +15771,6 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1758327220,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331",
-        "locations": [
-            "O'Fallon, MO",
-            "Atlanta, GA",
-            "Arlington, VA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "company_name": "Mastercard",
-        "title": "Software Engineer Intern",
-        "source": "vanshb03",
-        "id": "68cf1044-b07d-43f2-bf40-a2c2bcea3f32",
-        "date_posted": 1757468734,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
         "date_updated": 1757559731,
         "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8157171002",
         "locations": [
@@ -17019,23 +16930,6 @@
         "source": "vanshb03",
         "id": "0cc676b9-86bb-4a05-9974-615729e5c46d",
         "date_posted": 1757671704,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759551479,
-        "url": "https://job-boards.greenhouse.io/hudl/jobs/7157822",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "company_name": "Hudl",
-        "title": "Software Engineering Intern",
-        "source": "vanshb03",
-        "id": "e6373fdb-4234-40e4-9159-877736245fe7",
-        "date_posted": 1757671736,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
@@ -24971,24 +24865,6 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760031947,
-        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
-        "locations": [
-            "State College, PA",
-            "Remote"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "company_name": "KCF Technologies",
-        "title": "Software Engineering Intern",
-        "source": "vanshb03",
-        "id": "05764f67-7ef7-48a3-a8a2-5ae79f3d1ebd",
-        "date_posted": 1759853819,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
         "date_updated": 1759853825,
         "url": "https://www.lockheedmartinjobs.com/job/denver/cyber-software-engineer-intern/694/86972661296",
         "locations": [
@@ -26522,13 +26398,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760408468,
+        "date_updated": 1762301441,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7309530",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Analytics Engineer Intern",
         "source": "vanshb03",
@@ -26539,13 +26415,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760408939,
+        "date_updated": 1762301441,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7309526",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -26574,13 +26450,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409157,
+        "date_updated": 1762301442,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7309504",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -27789,23 +27665,6 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760646701,
-        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Platform-Software_JR33861",
-        "locations": [
-            "Golden, CO"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Allegion",
-        "title": "Software Engineering Intern, Platform Software",
-        "source": "vanshb03",
-        "id": "b7e0d893-533d-4c6e-8116-3501824ca4b9",
-        "date_posted": 1760646701,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
         "date_updated": 1760646704,
         "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110933",
         "locations": [
@@ -28407,13 +28266,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760841546,
+        "date_updated": 1762301442,
         "url": "https://www.ycombinator.com/companies/stratus-aviation/jobs/3uZVkok-embedded-software-engineer-intern",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Stratus Aviation",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -31622,5 +31481,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2026-Blackstone-Data-Science-Summer-Analyst_39996",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackstone",
+        "title": "Data Science Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "59c16a3a-d99a-4d9f-967a-fc54940feac4",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2025-18557",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ef2e5ca-71a9-4dab-b283-d543eabd7687",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1593818",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene",
+        "title": "Business Intelligence Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e62862ff-fa78-4862-bed2-1e8664d063cb",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "AI/ML Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ccb71070-df29-474b-99df-c13857d348f4",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7840",
+        "locations": [
+            "Everett, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fortive",
+        "title": "Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3186c92d-f044-4fca-9993-039ceb15c30f",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1595642",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "eac161dc-70fd-4435-aa04-6fad670cecbc",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
