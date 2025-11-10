@@ -31756,23 +31756,6 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762351481,
-        "url": "https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405",
-        "locations": [
-            "Foster City, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Zoox",
-        "title": "Systems Engineering Intern",
-        "source": "vanshb03",
-        "id": "a982db88-7aab-4a99-a5b3-559486dabf1f",
-        "date_posted": 1762351481,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
         "date_updated": 1762351484,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523686-1",
         "locations": [
@@ -32009,5 +31992,212 @@
         "date_posted": 1762616418,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762706576,
+        "url": "https://www.mongodb.com/careers/jobs/7239047",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "UI Engineering Intern",
+        "source": "vanshb03",
+        "id": "a33dd5a2-29fc-4342-92d7-6334dbc4e380",
+        "date_posted": 1762706576,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706639,
+        "url": "https://job-boards.greenhouse.io/singlestore/jobs/7118095",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SingleStore",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "990abe48-7349-4c3f-877f-f8524584c20c",
+        "date_posted": 1762706639,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706771,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380793",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth",
+        "title": "Software Development Intern, Identity",
+        "source": "vanshb03",
+        "id": "716b8807-ee65-40ba-9ebd-33ad7aec4fd9",
+        "date_posted": 1762706771,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706785,
+        "url": "https://seagatecareers.com/job/Shakopee-FPGA-System-Developer-Intern-MN/1324226500/",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "FPGA System Developer Intern",
+        "source": "vanshb03",
+        "id": "53c352e0-dfdd-431a-8349-3009720f4c6e",
+        "date_posted": 1762706785,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706924,
+        "url": "https://jobs.lever.co/zoox/fd2be6ec-162d-4955-802f-fb8d2de8b3c0",
+        "locations": [
+            "Foster City, CA",
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Automation & DevOps Tooling Intern",
+        "source": "vanshb03",
+        "id": "9b682e9e-b549-4d20-bb2c-759a50a22154",
+        "date_posted": 1762706924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706929,
+        "url": "https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f",
+        "locations": [
+            "Foster City, CA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Mapping Software Intern",
+        "source": "vanshb03",
+        "id": "adcc4f26-4691-4934-9749-dc4f64afd2af",
+        "date_posted": 1762706929,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706909,
+        "url": "https://jobs.lever.co/zoox/b9fb6f1d-31db-4a79-b70b-9396bf01b117",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "b6752deb-ed46-439e-89a6-2e37e846a093",
+        "date_posted": 1762706909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706920,
+        "url": "https://jobs.lever.co/zoox/5b8ec01c-fdc6-4e05-b077-051f28384b6f",
+        "locations": [
+            "San Diego, CA",
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Firmware and C++ Development Intern",
+        "source": "vanshb03",
+        "id": "bd9589ef-c7f2-4c13-a466-3c68d87edcb1",
+        "date_posted": 1762706920,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706926,
+        "url": "https://jobs.lever.co/zoox/07ac26ee-0594-41d8-928e-7cf1e373e2dd",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "HIL & System Validation Intern",
+        "source": "vanshb03",
+        "id": "4d7d983d-3d27-45af-bd32-02f8ffd4cf5b",
+        "date_posted": 1762706926,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706931,
+        "url": "https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "34ce207c-9b60-4c6e-8dc1-2ac5b7997a3a",
+        "date_posted": 1762706931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762706933,
+        "url": "https://jobs.lever.co/zoox/3a7c0c4b-4f23-4136-99a9-df64b341a0fd",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Test Automation & QA Systems Intern",
+        "source": "vanshb03",
+        "id": "e4eb9f92-465f-4d01-9374-e4a78769421a",
+        "date_posted": 1762706933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762707253,
+        "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Software-Engineering-Intern_R2576-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a1506ab3-f7c1-4d3f-af89-563d0c8a734e",
+        "date_posted": 1762707253,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
