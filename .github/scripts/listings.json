@@ -4925,13 +4925,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752691362,
+        "date_updated": 1762978011,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Five Rings",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -19246,13 +19246,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758343766,
+        "date_updated": 1762978013,
         "url": "https://jobs.lever.co/tri/a5a628cd-44a9-4ff6-aeba-c775c516dfd2",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Robotics Intern, Mobile Manipulation, Perception",
         "source": "vanshb03",
@@ -21205,13 +21205,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758914890,
+        "date_updated": 1762978013,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7119071003",
         "locations": [
             "Essex, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rocket Lab USA",
         "title": "Security Analyst Intern",
         "season": "Summer",
@@ -32566,5 +32566,243 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762963539,
+        "url": "https://jobs.smartrecruiters.com/sandisk/744000093026280-genai-ai-ml-engineering-intern",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sandisk",
+        "title": "GenAI & AI/ML Engineering Intern",
+        "source": "vanshb03",
+        "id": "cb464f2e-7027-4b6a-8f12-5d475233f036",
+        "date_posted": 1762963539,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762963651,
+        "url": "https://cognex.wd1.myworkdayjobs.com/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0011358",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4b79cc3f-0d90-4344-885a-b90eca84f2bf",
+        "date_posted": 1762963651,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977422,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092797675-peacock-software-engineering-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b8dce0ab-dd8a-4660-813d-337350df4635",
+        "date_posted": 1762977422,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977446,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092795107-media-tech-software-engineering-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c97cb545-1e3a-4a4e-be59-0477cc80f619",
+        "date_posted": 1762977446,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977454,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092784523-media-tech-software-engineering-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7748ef76-9b33-40e8-a561-c364e583579a",
+        "date_posted": 1762977454,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977469,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8244328002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "iCapital",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "be79df96-4580-478f-9361-f731a263b24c",
+        "date_posted": 1762977469,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977891,
+        "url": "https://careers.datadoghq.com/detail/7367016/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Software Engineering Intern, SRE",
+        "source": "vanshb03",
+        "id": "c5b906d0-d29c-4ce1-9f3a-fc909cdb2bc6",
+        "date_posted": 1762977891,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977598,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092732895-nbc-news-technology-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "31632b8c-68bd-49c0-b1ab-d7a23b0e9501",
+        "date_posted": 1762977598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977604,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092763177-peacock-software-engineering-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a1d9c826-c553-4351-b820-7f50ce1e1cc7",
+        "date_posted": 1762977604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762977965,
+        "url": "https://www.mongodb.com/careers/jobs/7335932",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineer Intern, Internal Engineering",
+        "source": "vanshb03",
+        "id": "a8677b66-82b0-4d66-a8aa-cda0abe85849",
+        "date_posted": 1762977965,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762978292,
+        "url": "https://jobs.lever.co/zoox/ed879b80-bfc6-403d-9d65-a26f9db1e3c8",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Full Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "e0de1ccf-1b4a-4351-9ead-5793c39dccc8",
+        "date_posted": 1762978292,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762978329,
+        "url": "https://jobs.smartrecruiters.com/ni/Solidigm/4a9d87fd-e7af-42bc-9a12-6d085428b40d-ai-software-engineering-intern",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solidigm",
+        "title": "AI/Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "12d83abf-db91-4246-83a8-2c01393f4f2c",
+        "date_posted": 1762978329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762985644,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8175264002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "FutureFocus Quants, Fasttrack for Trading & Research Intern 2027",
+        "source": "vanshb03",
+        "id": "f987f01f-84ca-461b-b202-9d3102af25a2",
+        "date_posted": 1762985644,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762985655,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8286208002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "FutureFocus Tech, Fasttrack for Software Engineering Intern 2027",
+        "source": "vanshb03",
+        "id": "dcf4664f-7ced-4be6-b7af-9163a6ddaff7",
+        "date_posted": 1762985655,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
