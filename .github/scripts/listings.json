@@ -15458,13 +15458,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757346993,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/vast/jobs/4594952006",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Vast",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -17829,13 +17829,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757962716,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144362003",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "Full-stack Software Engineer Intern",
         "source": "vanshb03",
@@ -20372,13 +20372,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758685988,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418443003",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "Machine Learning Engineer Intern",
         "season": "Summer",
@@ -20774,13 +20774,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758724289,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "AI Engineer Intern",
         "season": "Summer",
@@ -21171,13 +21171,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758914069,
+        "date_updated": 1763445071,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1882694",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Robot Learning",
         "season": "Summer",
@@ -25609,13 +25609,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1763445071,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1892421",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Networking Research Group",
         "season": "Summer",
@@ -25643,13 +25643,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1892565",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Future Agent Systems",
         "season": "Summer",
@@ -25677,7 +25677,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1763445071,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1892617",
         "locations": [
             "Madison, WI",
@@ -25685,7 +25685,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Gray Systems Lab",
         "season": "Summer",
@@ -27167,13 +27167,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1897207",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Audio and Acoustics",
         "season": "Summer",
@@ -27201,13 +27201,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1897214",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Brain-Computer Interfaces",
         "season": "Summer",
@@ -27818,13 +27818,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760646792,
+        "date_updated": 1763445071,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7498520003",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung Semiconductor",
         "title": "Multimedia Software Engineer Intern",
         "source": "vanshb03",
@@ -27940,13 +27940,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760647118,
+        "date_updated": 1763445073,
         "url": "https://jobs.lever.co/zushealth/ac5f2a7f-7355-42bc-9efd-fc20fa9666f1",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zus",
         "title": "Data Platform Software Engineering Co-op",
         "source": "vanshb03",
@@ -28540,13 +28540,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761042031,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900014",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, AI Hardware",
         "source": "vanshb03",
@@ -28557,13 +28557,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761045828,
+        "date_updated": 1763445073,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900003",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Machine Learning and Statistics",
         "source": "vanshb03",
@@ -28849,13 +28849,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1763445073,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1899706",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Data Systems",
         "season": "Summer",
@@ -29172,13 +29172,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900607",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Systems For Efficient AI",
         "season": "Summer",
@@ -29224,13 +29224,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1763445073,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900381",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Computer Vision and Deep Learning",
         "season": "Summer",
@@ -32252,14 +32252,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1763445073,
         "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4973823007",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Platform Software Intern",
         "season": "Summer",
@@ -32801,6 +32801,366 @@
         "source": "vanshb03",
         "id": "dcf4664f-7ced-4be6-b7af-9163a6ddaff7",
         "date_posted": 1762985655,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444763,
+        "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Dublin-CA/Software-Engineering-Intern_JR_1045473",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ZEISS",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6b1f7e40-0795-4060-9de1-d306192bf19c",
+        "date_posted": 1763444763,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444789,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Software-Developer-Engineer-Intern---2026-Summer-Internship_R0024173",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Software Developer/Engineer Intern, Core Analytics",
+        "source": "vanshb03",
+        "id": "c13f7eaa-3638-43e4-81a7-2167d37ab432",
+        "date_posted": 1763444789,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444810,
+        "url": "https://www.proception.ai/contact?subject=internship&position=%F0%9F%8D%80%20Firmware%20Engineering%20Intern%20(6-12%20months)&audience=public",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Proception AI",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "d352586a-6811-49b4-a491-c5efd989ede8",
+        "date_posted": 1763444810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444820,
+        "url": "https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-&apos;26-Aug-&apos;26)-TX-73301/75987-en_US/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "IC Development (Software) Intern",
+        "source": "vanshb03",
+        "id": "3df0a4de-61a9-4801-a09c-2d870115c918",
+        "date_posted": 1763444820,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444828,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Software-Test-Engineer-Intern_JR104283",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "517d78bd-7afc-4904-bc5b-1edb399b4671",
+        "date_posted": 1763444828,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444835,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Software-Process-and-Architecture-Grad-Intern_R014035",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Software Process and Architecture Intern",
+        "source": "vanshb03",
+        "id": "c4571b75-c55a-4c3a-b967-4a71a3d88a94",
+        "date_posted": 1763444835,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444843,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504204",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "onsemi",
+        "title": "Applications Intern",
+        "source": "vanshb03",
+        "id": "d185c26a-1c94-4df2-8edd-a7a323e1e7ff",
+        "date_posted": 1763444843,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1763444849,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveTime Family of Brands",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "34fd9e5a-d174-4b5e-8470-a1a9e9aba5ec",
+        "date_posted": 1763444849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444854,
+        "url": "https://careers.peak6.com/jobs/business-operation-services/austin-texas-united-states-of-america/swe-intern-front-end-/JR103893",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "SWE Intern, Front End",
+        "source": "vanshb03",
+        "id": "d6b3bd24-ef01-4e2f-a781-70a8bcd78de5",
+        "date_posted": 1763444854,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444898,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---January-August-2026_564729",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Software Development Engineer Intern, Automation",
+        "source": "vanshb03",
+        "id": "41fa9d07-ceeb-4a23-890e-dba6c887ad09",
+        "date_posted": 1763444898,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1763444902,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Co-op--Software-Engineer_R25-8315",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "b9f3272b-b379-4c1e-b65c-3f423bad69eb",
+        "date_posted": 1763444902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444906,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4618805006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "3e1d3c52-af3b-40d1-a6d9-35936de2a907",
+        "date_posted": 1763444906,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444974,
+        "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern--Winter-2026-_R028815",
+        "locations": [
+            "Atlanta"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "WaveLogic Software Intern",
+        "source": "vanshb03",
+        "id": "9576ccb9-7972-4b0e-8a84-54886d42b933",
+        "date_posted": 1763444974,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1763444947,
+        "url": "https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Atlanta-GA/Software-AI-Engineer-Intern_JR8300",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PulteGroup",
+        "title": "Software/AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "c3eee134-a293-47a9-80bd-c764317f78c5",
+        "date_posted": 1763444947,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444951,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineering-Intern--Summer-2026_10135265",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney Entertainment & ESPN Technology",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1b275ff2-9078-4a9a-8f2d-83e83a8c9a80",
+        "date_posted": 1763444951,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444954,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveTime Family of Brands",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "45347828-c958-4e9f-8a15-71223e325db6",
+        "date_posted": 1763444954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444958,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Software-Engineering-Intern--Securities-Lending-_JR103862",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Software Engineering Intern, Securities Lending",
+        "source": "vanshb03",
+        "id": "b1ff72a6-2163-42b4-8c0e-d86940d6aeaa",
+        "date_posted": 1763444958,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444963,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Cash-_JR103863",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bfd36900-b1a0-4768-93dd-d13a68089473",
+        "date_posted": 1763444963,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444967,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Front-End-Engineering-Intern_JR103860",
+        "locations": [
+            "Chicago, IL",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Front End Engineering Intern",
+        "source": "vanshb03",
+        "id": "9c37a4cd-b738-4993-8b5a-20591ac2a3a9",
+        "date_posted": 1763444967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763444970,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Front-End-_JR103893",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "SWE Intern, Front End",
+        "source": "vanshb03",
+        "id": "b197e052-2edc-4fcd-9473-3f58d525f42c",
+        "date_posted": 1763444970,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1763445046,
+        "url": "https://uscareers-docusign.icims.com/jobs/28187/software-engineer-intern/job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "922a2eb0-6ea7-4795-91d6-f303cb152d6e",
+        "date_posted": 1763445046,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
