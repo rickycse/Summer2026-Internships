@@ -19787,13 +19787,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758626076,
+        "date_updated": 1765531640,
         "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239236",
         "locations": [
             "Menlo Park, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Robinhood",
         "title": "Software Engineering Intern, Backend",
         "source": "vanshb03",
@@ -33540,5 +33540,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1765531499,
+        "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/EVA-Software-Engineering-Intern--Summer-2026-_JR100363",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Axiom Space",
+        "title": "EVA Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bbc7f043-f862-4618-82b7-c64226b1b96d",
+        "date_posted": 1765531499,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765531505,
+        "url": "https://careers.leonardodrs.com/job/Huntsville-Software-Engineering-Intern-%28Spring-2026%29-AL-35808/1349312000/?jobPipeline=Indeed",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2c0ce819-876b-46c8-b795-d48fdf3efead",
+        "date_posted": 1765531505,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1765531511,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1449",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "c5fe8771-b568-46f3-8049-6a2d2f751a2e",
+        "date_posted": 1765531511,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765531514,
+        "url": "https://careers.teradata.com/jobs/219629/software-engineering-intern?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=116278&rx_id=1939c199-d5f3-11f0-ac97-2324b6a741c8&rx_job=219629&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20251212T080401Z&rx_vp=cpc&rx_p=GGAJDG6RO1&rx_viewer=d4ccff91228311f084244d5a84b6abced216051a192840a08f1888a15d5312b4",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Teradata",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "74cf2e83-5893-4070-86cd-252d6cae82e0",
+        "date_posted": 1765531514,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765531517,
+        "url": "https://careers.docusign.com/jobs/28323?lang=en-us&previousLocale=en-US",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cf7af211-c241-46ea-90d7-79768c8dc5e6",
+        "date_posted": 1765531517,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
