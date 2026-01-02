@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Apex | Software Engineer Intern | Los Angeles, CA | <a href="https://jobs.ashbyhq.com/apex-technology-inc/2da33053-0f08-48cf-9d4f-f2d418fa8c5d?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Leonardo DRS | Software Engineering Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.leonardodrs.com/job/Huntsville-Software-Engineering-Intern-%28Spring-2026%29-AL-35808/1349312000/?jobPipeline=Indeed&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Veolia | Application Engineering Intern | Oakville, Canada | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | General Dynamics Mission Systems, Inc. | Engineering Intern 🇺🇸 | Scottsdale, AZ | <a href="https://careers-gdms.icims.com/jobs/68446/job?mobile=true&needsRedirect=false&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
@@ -147,7 +148,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Impulse Space | Flight/Embedded Software Engineer Intern 🇺🇸 | Redondo Beach, CA | <a href="https://impulsespace.pinpointhq.com/en/postings/5df86c9c-8f1a-4ba4-81a7-5de09800cb4f?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | Sony Pictures | Security Technology AI Intern, Facilities/S3 | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376960?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | ↳ | Information Systems Intern, Financial Source-to-Pay | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376064?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
-| Nowadays | Product Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/nowadays/jobs/iRSGsmg-product-engineer-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | TikTok | Machine Learning Engineer Intern, TikTok-Recommendation | Seattle, WA | <a href="https://lifeattiktok.com/search/7525635858708646152?spread=XKM9ZXE&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | MTA | Software Development Intern | New York, NY | <a href="https://careers.mta.org/jobs/16438894-software-analyst-slash-developer-fleet-technologies-group-emerging-talent-intern?tm_job=12316&tm_event=view&tm_company=47560&HRS_SUBSOURCE_ID=1341&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Method Financial | Software Engineer Intern | Austin, TX</br>New York City, NY | <a href="https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
@@ -232,6 +232,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Arcade | Software Engineer Intern | Presidio, CA | 🔒 | Jul 28 |
 | Arcade | Associate Product Manager Intern | Presidio, CA | 🔒 | Jul 25 |
 | Schweitzer Engineering Laboratories (SEL) | Software Application Engineer Intern | Pullman, WA | 🔒 | Jul 22 |
+| Nowadays | Product Engineer Intern 🇺🇸 | San Francisco, CA | 🔒 | Jul 21 |
 | Blue Origin | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | 🔒 | Jul 21 |
 | Oracle Health | Software Engineer Intern | Remote | 🔒 | Jul 20 |
 | Five Rings | Software Developer Intern | New York, NY | 🔒 | Jul 16 |
