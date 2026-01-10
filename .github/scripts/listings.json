@@ -33900,5 +33900,739 @@
         "date_posted": 1767835051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767746473,
+        "url": "https://careers.docusign.com/jobs/28427?lang=en-us&previousLocale=en-US",
+        "locations": [
+            "Seattle, Washington"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1cda464f-d7c5-490f-90d1-c504a89b8772",
+        "date_posted": 1767746473,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767753494,
+        "url": "https://jobs.ashbyhq.com/GigaML/aa903645-854f-4404-9d49-8a96f0dcc2cc",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GIGA",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "277c8c83-d20b-43e3-b247-c6dc37fae9f9",
+        "date_posted": 1767753494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767753500,
+        "url": "https://careers.amd.com/careers-home/jobs/77057",
+        "locations": [
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "2c2690f0-3a88-4738-a73a-61a322ef9e72",
+        "date_posted": 1767753500,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767753506,
+        "url": "https://careers.amd.com/careers-home/jobs/77044",
+        "locations": [
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "dea023b3-d74f-4f29-83ea-77556f3d32b1",
+        "date_posted": 1767753506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767753510,
+        "url": "https://careers.amd.com/careers-home/jobs/77045",
+        "locations": [
+            "Austin, TX",
+            "Boxborough, MA",
+            "Fort Collins, CO",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Rochester, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "4d7aa488-8805-479d-a0b2-85da3c768cf3",
+        "date_posted": 1767753510,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993658,
+        "url": "https://www.tesla.com/careers/search/job/258198",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Quality Assurance Analyst Intern, Robotaxi",
+        "source": "vanshb03",
+        "id": "d32e9fe1-d3ca-4d30-8607-e6f012ca1253",
+        "date_posted": 1767993658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993760,
+        "url": "https://www.tesla.com/careers/search/job/258182",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Android Engineer Intern, Mobile Software",
+        "source": "vanshb03",
+        "id": "ae526144-225e-4e55-a902-b70bd727d6cd",
+        "date_posted": 1767993760,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993765,
+        "url": "https://www.tesla.com/careers/search/job/257753",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer Intern, Vehicle Software",
+        "source": "vanshb03",
+        "id": "2e7523d8-716a-4dca-a114-9fe8ff18ad7c",
+        "date_posted": 1767993765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993768,
+        "url": "https://www.tesla.com/careers/search/job/258191",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "System Software Engineer Intern, Graphics",
+        "source": "vanshb03",
+        "id": "37a98831-ed6c-48bd-a400-c5a024daf808",
+        "date_posted": 1767993768,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993770,
+        "url": "https://www.tesla.com/careers/search/job/258184",
+        "locations": [
+            "PALO ALTO, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Linux Update Systems",
+        "source": "vanshb03",
+        "id": "8f91733f-d550-4804-8a94-ecdb6df027ed",
+        "date_posted": 1767993770,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993773,
+        "url": "https://www.tesla.com/careers/search/job/258199",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer Intern, Build Infrastructure",
+        "source": "vanshb03",
+        "id": "66c69dbe-8325-42cd-ac75-23ca48ebfb1c",
+        "date_posted": 1767993773,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993776,
+        "url": "https://www.tesla.com/careers/search/job/258193",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
+        "source": "vanshb03",
+        "id": "68ddbe7d-38bb-4278-9b0e-e53c0d1981da",
+        "date_posted": 1767993776,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993780,
+        "url": "https://careers.garmin.com/jobs/17728",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin International",
+        "title": "Aircraft Systems Engineer Intern, Electrical/Systems",
+        "source": "vanshb03",
+        "id": "08d973d1-0395-4ff4-96f5-69164ad579fc",
+        "date_posted": 1767993780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993787,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953704007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid",
+        "title": "Test Engineer, Model Based Design, Controls Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c6193180-68c2-44cb-a629-cd73227ec3b1",
+        "date_posted": 1767993787,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993794,
+        "url": "https://www.tesla.com/careers/search/job/258954",
+        "locations": [
+            "Fremont, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Site Reliability Engineer Intern, Applications Engineering",
+        "source": "vanshb03",
+        "id": "2a8101f2-dac8-4aa3-8c4d-c0a3cc483b23",
+        "date_posted": 1767993794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993797,
+        "url": "https://www.tesla.com/careers/search/job/258953",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Frontend Engineer Intern, Applications Engineering",
+        "source": "vanshb03",
+        "id": "d4c7494a-3ccc-4022-a8da-76ebda0117fd",
+        "date_posted": 1767993797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993799,
+        "url": "https://www.tesla.com/careers/search/job/258952",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer Intern, Infrastructure Engineering",
+        "source": "vanshb03",
+        "id": "857d410a-a5f4-490c-9307-1dd2d32e6b5a",
+        "date_posted": 1767993799,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993802,
+        "url": "https://www.tesla.com/careers/search/job/259064",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineering Intern, Recruiting",
+        "source": "vanshb03",
+        "id": "b100175b-9db1-4f28-8746-ce406f4831fa",
+        "date_posted": 1767993802,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993804,
+        "url": "https://www.tesla.com/careers/search/job/259001",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Foundation Inference Infrastructure",
+        "source": "vanshb03",
+        "id": "44a7df95-acbf-4536-b682-0b699450fab6",
+        "date_posted": 1767993804,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993806,
+        "url": "https://www.tesla.com/careers/search/job/258956",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Network Engineer Intern, Infrastructure Engineering",
+        "source": "vanshb03",
+        "id": "8d17a7b7-073a-4ae0-ae97-bb795c4c4b22",
+        "date_posted": 1767993806,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993811,
+        "url": "https://careers.amd.com/careers-home/jobs/77055",
+        "locations": [
+            "Austin, TX",
+            "Boxborough, MA",
+            "Fort Collins, CO",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Rochester, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "f1ab8c73-cf91-492d-8754-37b6b24c0eec",
+        "date_posted": 1767993811,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993814,
+        "url": "https://careers.amd.com/careers-home/jobs/77058",
+        "locations": [
+            "Austin, TX",
+            "Boxborough, MA",
+            "Fort Collins, CO",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Rochester, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Hardware Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "c8465433-0bd7-4899-b940-6b41ea714611",
+        "date_posted": 1767993814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767993944,
+        "url": "https://www.workatastartup.com/jobs/88369",
+        "locations": [
+            "Los Angeles, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Wardstone",
+        "title": "Engineering Intern, Space and Missile Defense",
+        "source": "vanshb03",
+        "id": "41a5f0d6-73fa-45b2-8cf0-05de8ed96e62",
+        "date_posted": 1767993944,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1767994167,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556657567",
+        "locations": [
+            "United States, Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Silicon Engineering Intern",
+        "source": "vanshb03",
+        "id": "08919f3d-bd42-4238-a10c-48a873c0d503",
+        "date_posted": 1767994167,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994244,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556642384",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "441620ef-f934-483d-89fd-7596f2e5d7b3",
+        "date_posted": 1767994244,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994265,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015203007",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Systems Research Engineer Intern, GPU Programming",
+        "source": "vanshb03",
+        "id": "1e5ebdef-f29f-4490-9b99-695859fba0ca",
+        "date_posted": 1767994265,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994896,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5012785007",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "51e63d66-d150-4567-8b0c-60b1ab474469",
+        "date_posted": 1767994896,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994906,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5012768007",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cec567dd-3ae3-4b58-a6eb-7ff8082030e7",
+        "date_posted": 1767994906,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994909,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5014291007",
+        "locations": [
+            "San Francisco"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Research Intern, Inference",
+        "source": "vanshb03",
+        "id": "b62cc63c-d57d-426b-9003-57dda45016c7",
+        "date_posted": 1767994909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994913,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015074007",
+        "locations": [
+            "San Francisco, Amsterdam"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Research Intern, Model Shaping",
+        "source": "vanshb03",
+        "id": "f5d8dd80-9b4b-4496-9fe3-3bd269a40a90",
+        "date_posted": 1767994913,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767994915,
+        "url": "https://www.tesla.com/careers/search/job/259253",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
+        "source": "vanshb03",
+        "id": "272186ed-f460-4a51-9c4e-ccb9e9df9cbb",
+        "date_posted": 1767994915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767995011,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641978",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Penetration Tester Intern",
+        "source": "vanshb03",
+        "id": "81180ef2-d077-4628-8d1c-f135af645b61",
+        "date_posted": 1767995011,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767995117,
+        "url": "https://www.amentumcareers.com/jobs/spring-2026-internship-software-engineering-intern-houston-texas-united-states",
+        "locations": [
+            "Houston, Texas, United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amentum",
+        "title": "Software Engineering Intern, Spring",
+        "source": "vanshb03",
+        "id": "bb05c8e8-a1cf-4918-8b6d-2b9fa1e94622",
+        "date_posted": 1767995117,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1767995136,
+        "url": "https://jobs.keysight.com/external/jobs/51216/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "39c152ad-1843-4fb7-a5fc-c1ae97e91b9c",
+        "date_posted": 1767995136,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767995143,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/All-Remote-Locations/Software-Engineer-Intern_HR101940",
+        "locations": [
+            "All Remote Locations"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3badb4d9-fb99-4fe5-a51d-18678d0ad530",
+        "date_posted": 1767995143,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996872,
+        "url": "https://explore.jobs.netflix.net/careers/job/790313344084-security-technical-program-manager-intern-summer-2026--los-gatos-california-united-states-of-america?domain=netflix.com&microsite=netflix.com",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Security Technical Program Manager Intern",
+        "source": "vanshb03",
+        "id": "5cdbd9d7-cfc7-4f96-ad5f-21e539c54923",
+        "date_posted": 1767996872,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996927,
+        "url": "https://lifeattiktok.com/search/7589500133147773237?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Strategy Project Intern, TikTok-Product-Business Analytics",
+        "source": "vanshb03",
+        "id": "648b44c9-a3df-48db-bc51-bdebd7315e99",
+        "date_posted": 1767996927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996930,
+        "url": "https://lifeattiktok.com/search/7589499857627498757?spread=5MWH5CQ",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Strategy Project Intern, TikTok-Product-Business Analytics",
+        "source": "vanshb03",
+        "id": "4f543a23-b739-4c62-b327-bb53e29f8932",
+        "date_posted": 1767996930,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996936,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641980",
+        "locations": [
+            "United States, Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Technical Program Manager Intern",
+        "source": "vanshb03",
+        "id": "9598e172-d85b-4f87-b913-f5e9da6e9bcb",
+        "date_posted": 1767996936,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996940,
+        "url": "https://lifeattiktok.com/search/7592014594232142085?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Platform Campaign Project Intern",
+        "source": "vanshb03",
+        "id": "ce9837b5-79ee-433e-99aa-0640e3e5a12d",
+        "date_posted": 1767996940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996942,
+        "url": "https://lifeattiktok.com/search/7593108760621779253?spread=5MWH5CQ",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Campaign Operations Project Intern",
+        "source": "vanshb03",
+        "id": "f93416b8-d519-4b76-9414-18843b8d27a8",
+        "date_posted": 1767996942,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1767996950,
+        "url": "https://www.tesla.com/careers/search/job/259268",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Intern, Vehicle Parts Project Manager, Vehicle Firmware",
+        "source": "vanshb03",
+        "id": "2caed595-296d-4327-82af-74ba8681c031",
+        "date_posted": 1767996950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
