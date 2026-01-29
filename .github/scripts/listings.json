@@ -824,14 +824,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746749561,
+        "date_updated": 1769639051,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
         "locations": [
             "Chicago, IL"
         ],
         "season": "Summer",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aquatic Capital Management",
         "title": "Quantitative Researcher Intern",
         "source": "vanshb03",
@@ -35270,6 +35270,252 @@
         "source": "vanshb03",
         "id": "f0c423c7-307b-4bb8-8c34-039dde3a1c5e",
         "date_posted": 1769554522,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658392,
+        "url": "https://empower.wd12.myworkdayjobs.com/en-US/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--Technology-Modernization_R0056207",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Empower",
+        "title": "Software Engineer Intern, Technology Modernization",
+        "source": "vanshb03",
+        "id": "e3e39534-6228-49fa-9f50-79d9ae0d5ff0",
+        "date_posted": 1769658392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658422,
+        "url": "https://calix.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis/Software-Engineering-Intern--PON_R-11392?mode=job&iis=Indeed&iisn=Indeed.com",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calix",
+        "title": "Software Engineering Intern, PON",
+        "source": "vanshb03",
+        "id": "2f3dfad6-77d5-4a43-a14e-64e213c06c82",
+        "date_posted": 1769658422,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658427,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineering-Intern---2026-Summer-Internship_R61268",
+        "locations": [
+            "West Valley City, UT",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5c98ac07-e21b-440c-a08d-83304ffcb0b3",
+        "date_posted": 1769658427,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658432,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/DevOps-Software---2026-Summer-Internship_R61381",
+        "locations": [
+            "Culver City, CA",
+            "Los Angeles, CA",
+            "Norcross, GA",
+            "Morrisville, NC",
+            "Newington, VA",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "DevOps Software Intern",
+        "source": "vanshb03",
+        "id": "4462230b-75d2-478d-806a-53ad6c8d512e",
+        "date_posted": 1769658432,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658439,
+        "url": "https://jobs.keysight.com/external/jobs/51418/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+        "locations": [
+            "Calabasas, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0c5fbc7d-7e92-40eb-90b1-c7177de97c6f",
+        "date_posted": 1769658439,
+        "company_url": "",
+        "is_visible": true,
+        "season": "null"
+    },
+    {
+        "date_updated": 1769658453,
+        "url": "https://careers.t-mobile.com/summer-2026-software-engineering-internship/job/D49B75C7BCA353BDE11EB70C9E2F07BB?codes=1-INDEED",
+        "locations": [
+            "Overland Park, KS",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "T-Mobile USA, Inc.",
+        "title": "Software Engineer Intern, Device Insurance Technology",
+        "source": "vanshb03",
+        "id": "e5c6f5bf-b903-4891-873a-47724637b62c",
+        "date_posted": 1769658453,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658457,
+        "url": "https://careers.t-mobile.com/summer-2026-software-engineering-intern/job/B0597F0D0BB836D87F42BA84AADBAC96?codes=1-INDEED",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "T-Mobile USA, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3757e7cc-88d1-4d99-9706-85d9eca0f66a",
+        "date_posted": 1769658457,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658466,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26173&siteid=5197&jobid=1382197&codes=IND#jobDetails=1382197_5197",
+        "locations": [
+            "Lakeland, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Publix",
+        "title": "Intern - Software Engineer",
+        "source": "vanshb03",
+        "id": "7be3ecb5-65ef-430f-aec7-710f6bae36df",
+        "date_posted": 1769658466,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658476,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---Roseville/Intern---Engineering--Applications-_R383-26",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology Inc",
+        "title": "Intern - Engineering (Applications)",
+        "source": "vanshb03",
+        "id": "e51314b3-db24-4b0f-b764-2a9a768bce9e",
+        "date_posted": 1769658476,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658537,
+        "url": "https://jobs.ashbyhq.com/simple-ai/63d1ef98-a304-4a5f-90de-869eb4b9b220",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simple AI",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f6dc7e31-ea58-447c-ae37-8b4d5ce58863",
+        "date_posted": 1769658537,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658558,
+        "url": "https://jobs.ashbyhq.com/d-Matrix/543579ed-fd2f-435d-b84e-420992decc44",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "d-Matrix",
+        "title": "Software Engineering Intern, Developer and Qualification Tools",
+        "source": "vanshb03",
+        "id": "bef32797-8b8b-41e8-a363-4658c449d4db",
+        "date_posted": 1769658558,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658570,
+        "url": "https://www.kaiserpermanentejobs.org/job/-/-/641/91078325456",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kaiser Permanente",
+        "title": "Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "07ccba6f-98ff-490a-a1d1-269af2aeaa7e",
+        "date_posted": 1769658570,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658679,
+        "url": "https://www.vrad.com/team-job/software-engineer-intern-hybrid/",
+        "locations": [
+            "Edina, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "vRad",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6c04ce0c-25ee-4660-9439-d3b578e192e9",
+        "date_posted": 1769658679,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769658682,
+        "url": "https://jobs.ericsson.com/careers/job/563121772745904?domain=ericsson.com&jobPipeline=Indeed",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Baseband Software Developer Intern",
+        "source": "vanshb03",
+        "id": "b7c46b12-b0c4-4b30-b594-a499922d3b35",
+        "date_posted": 1769658682,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
