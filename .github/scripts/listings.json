@@ -9431,14 +9431,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755624342,
+        "date_updated": 1769923570,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -13193,13 +13193,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756535122,
+        "date_updated": 1769923570,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7201615",
         "locations": [
             "McLean, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Appian",
         "title": "Quality Engineer Intern",
         "season": "Summer",
@@ -23465,13 +23465,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1769923570,
         "url": "https://job-boards.greenhouse.io/gofundme/jobs/7284112",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GoFundMe",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -34329,13 +34329,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994265,
+        "date_updated": 1769923572,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015203007",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Systems Research Engineer Intern, GPU Programming",
         "source": "vanshb03",
@@ -34380,13 +34380,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994909,
+        "date_updated": 1769923572,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5014291007",
         "locations": [
             "San Francisco"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Inference",
         "source": "vanshb03",
@@ -34397,13 +34397,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994913,
+        "date_updated": 1769923572,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015074007",
         "locations": [
             "San Francisco, Amsterdam"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Model Shaping",
         "source": "vanshb03",
@@ -35364,7 +35364,7 @@
         "date_posted": 1769658439,
         "company_url": "",
         "is_visible": true,
-        "season": "null"
+        "season": "Summer"
     },
     {
         "date_updated": 1769658453,
@@ -35516,6 +35516,108 @@
         "source": "vanshb03",
         "id": "b7c46b12-b0c4-4b30-b594-a499922d3b35",
         "date_posted": 1769658682,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769923897,
+        "url": "https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Harvey",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "aa0ba231-2830-42ad-9cde-c470b6697e60",
+        "date_posted": 1769923897,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769923903,
+        "url": "https://jobs.smartrecruiters.com/intuitive/744000106572190-software-engineering-intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f208a799-dd11-45e4-99b4-78bb03152e79",
+        "date_posted": 1769923903,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769923905,
+        "url": "https://jobs.smartrecruiters.com/renesaselectronics/744000106536395-software-engineering-intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Renesas Electronics",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "16c01408-cd67-461a-9b5e-341e081b1c1b",
+        "date_posted": 1769923905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769923909,
+        "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parspec",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "df227e40-a6ce-4960-b246-b0768778cd0c",
+        "date_posted": 1769923909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769923931,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Salesforce-Software-Engineering-Intern---Summer-2026_R-081500",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "178d8bf3-6506-42a8-a5c5-8dd8cd282b75",
+        "date_posted": 1769923931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1769923938,
+        "url": "https://amazon.jobs/en/jobs/3168855/system-development-engineer-internship-2026-us-project-leo",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer Intern, Project Leo",
+        "source": "vanshb03",
+        "id": "b1e684e4-cd38-46af-a83c-04455db5a2ce",
+        "date_posted": 1769923938,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
