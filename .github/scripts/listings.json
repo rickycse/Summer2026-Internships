@@ -35983,5 +35983,434 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1776636546,
+        "url": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Dallas-TX/Software-Engineer---Intern_REQ-1246",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ABC Fitness",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "848b2fa2-3a01-449a-9678-3419d433b3d9",
+        "date_posted": 1776636546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776636591,
+        "url": "https://job-boards.greenhouse.io/northspyre/jobs/7704668003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northspyre",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "aacaa68e-1f91-403b-9b6b-67e974dd38d9",
+        "date_posted": 1776636591,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776715571,
+        "url": "https://careers-gdms.icims.com/jobs/72142/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b9914a06-00d9-4299-8206-b2c637f83029",
+        "date_posted": 1776715571,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1776715576,
+        "url": "https://careers-gdms.icims.com/jobs/72143/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2ad78e02-76da-47a1-9270-c59335279a59",
+        "date_posted": 1776715576,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1776715588,
+        "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Poshmark",
+        "title": "Cloud Platform Engineer Intern, Growth",
+        "source": "vanshb03",
+        "id": "ba604553-3741-4561-a3c6-20275c29aee5",
+        "date_posted": 1776715588,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776726755,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002",
+        "locations": [
+            "Bastrop, TX",
+            "Cape Canaveral, FL",
+            "Hawthorne, CA",
+            "Irvine, CA",
+            "McGregor, TX",
+            "Redmond, WA",
+            "Starbase, TX",
+            "Vandenberg, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "8c03beaa-dd8b-4e9e-914b-feafb93b9a16",
+        "date_posted": 1776726755,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726759,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002",
+        "locations": [
+            "Bastrop, TX",
+            "Cape Canaveral, FL",
+            "Hawthorne, CA",
+            "Irvine, CA",
+            "McGregor, TX",
+            "Redmond, WA",
+            "Starbase, TX",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "677a2234-1c91-448f-8b47-bb8aea8008af",
+        "date_posted": 1776726759,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726844,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "181010e7-9a06-4910-b76b-4bd2594be51e",
+        "date_posted": 1776726844,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726849,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "556c1091-31ca-47ab-8cdb-09e98cfe8fd2",
+        "date_posted": 1776726849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726852,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "fdb2c607-14e1-40eb-affe-d200f49fba8c",
+        "date_posted": 1776726852,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726863,
+        "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Hermeus",
+        "title": "Modeling & Simulation Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "cbbbba0c-1096-4182-8210-d2ec331ef01b",
+        "date_posted": 1776726863,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726875,
+        "url": "https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7abd2359-68c7-498a-8838-276037988ecc",
+        "date_posted": 1776726875,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727199,
+        "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABC News",
+        "title": "Product Management and Engineering Intern",
+        "source": "vanshb03",
+        "id": "411eb513-344a-4841-864d-154112a6f7ac",
+        "date_posted": 1776727199,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727236,
+        "url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Analog IC Design Co-op",
+        "source": "vanshb03",
+        "id": "44104ee9-5f26-4f8c-8930-f566b6c5812b",
+        "date_posted": 1776727236,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727395,
+        "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "9104b892-1b72-4bba-9fe5-ca7a7e689b94",
+        "date_posted": 1776727395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727430,
+        "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "441c3320-0e5d-4bed-8a21-50d639712283",
+        "date_posted": 1776727430,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727513,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TETRAMEM",
+        "title": "Software Engineer Intern, Embedded",
+        "source": "vanshb03",
+        "id": "8c4e6050-7530-4d4b-9dd4-67432c5f536c",
+        "date_posted": 1776727513,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727516,
+        "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange, Inc.",
+        "title": "Artificial Intelligence, Data & Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "dc1a0aba-b671-4f48-ae78-d8b7fabe5d03",
+        "date_posted": 1776727516,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727525,
+        "url": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173",
+        "locations": [
+            "Los Angeles, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Avanade",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b509f9d0-178f-4d05-b31d-8486fed00ae4",
+        "date_posted": 1776727525,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727656,
+        "url": "https://www.pathai.com/career/job-post?gh_jid=8202342002",
+        "locations": [
+            "Boston, MA",
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PathAI",
+        "title": "Machine Learning Intern, AI Product and ML Core",
+        "source": "vanshb03",
+        "id": "c5b7e827-3448-42e4-9b8b-73daad336373",
+        "date_posted": 1776727656,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727676,
+        "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4201825009?gh_src=3ntpny1l9us&jr_id=69c59d611818a24cd84b8457",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cartesian",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "8aa4ec46-d9a3-4c87-a8ee-1b54d784d32b",
+        "date_posted": 1776727676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727688,
+        "url": "https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?jr_id=69e683219b6eb37e26f80c4f&gh_jid=7255640",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Machine Learning Intern, PhD",
+        "source": "vanshb03",
+        "id": "a1c939ef-c882-448c-80e0-e32498076b69",
+        "date_posted": 1776727688,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727835,
+        "url": "https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Recommendation Infrastructure",
+        "source": "vanshb03",
+        "id": "4558b1fa-f289-47fa-9640-23678e537355",
+        "date_posted": 1776727835,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727865,
+        "url": "https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Vehicle Engineering",
+        "source": "vanshb03",
+        "id": "0babc28a-266b-45dc-bd63-3be553ec8bd4",
+        "date_posted": 1776727865,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
