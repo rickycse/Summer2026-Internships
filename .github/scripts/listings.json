@@ -36980,5 +36980,377 @@
         "date_posted": 1777480877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778311144,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "New York, NY",
+            "Seattle, WA",
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern(Futureforce Summer 2027)",
+        "source": "vanshb03",
+        "id": "d5070448-480e-4902-91fd-3bc77c000ace",
+        "date_posted": 1778311144,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778311204,
+        "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "186e4d6a-9d88-4c8a-b6fa-ec5d32b8791c",
+        "date_posted": 1778311204,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311276,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Database Engineering",
+        "source": "vanshb03",
+        "id": "a2669f25-69ee-46bf-ac90-d16ea9026103",
+        "date_posted": 1778311276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311293,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Infrastructure Automation",
+        "source": "vanshb03",
+        "id": "b3f3348e-df18-4d47-8d61-e1f360708378",
+        "date_posted": 1778311293,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311310,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core Engineering)",
+        "source": "vanshb03",
+        "id": "0022a0b8-1f49-4fc1-9915-e9765f2af0a4",
+        "date_posted": 1778311310,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311951,
+        "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, AWS Data Services",
+        "source": "vanshb03",
+        "id": "b066ec62-2588-4e06-bbcd-2b0a5a86967c",
+        "date_posted": 1778311951,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311967,
+        "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
+        "locations": [
+            "Sunnyvale, CA",
+            "North Reading, MA",
+            "Westboro, MA",
+            "Nashville, TN",
+            "Austin, TX",
+            "Arlington, VA",
+            "Bellevue, WA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Robotics - Software Development Engineer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "3afa0d8c-0e35-4e81-8237-c9385920a417",
+        "date_posted": 1778311967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778311999,
+        "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us?no_int_redir=1",
+        "locations": [
+            "Sunnyvale, CA",
+            "Redmond, WA",
+            "Northridge, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, Amazon Leo",
+        "source": "vanshb03",
+        "id": "f706d605-732f-43b8-9208-f55bd7370284",
+        "date_posted": 1778311999,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778312442,
+        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeam Software",
+        "title": "Software Engineering Intern, Platform, Security & AI",
+        "source": "vanshb03",
+        "id": "6e774273-b1d2-40b1-9be7-02f49e4aafd8",
+        "date_posted": 1778312442,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778312558,
+        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeam Software",
+        "title": "Software Engineering Intern, Policy Engineering",
+        "source": "vanshb03",
+        "id": "ac03b5ba-a4b7-46cb-9584-489169070127",
+        "date_posted": 1778312558,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778312578,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Developer Intern, Integration Platforms",
+        "source": "vanshb03",
+        "id": "a743ba28-6815-46b0-9192-d68c835f918e",
+        "date_posted": 1778312578,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313296,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Vehicle UI Development",
+        "source": "vanshb03",
+        "id": "cd8d84fc-f8ea-4370-ae76-d4d6aa75fe98",
+        "date_posted": 1778313296,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313299,
+        "url": "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern, Keys & Authentication",
+        "source": "vanshb03",
+        "id": "b7ad5b92-fa01-40ad-aeea-cc704789edaf",
+        "date_posted": 1778313299,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313304,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Navigation Validation",
+        "source": "vanshb03",
+        "id": "66255d25-16a2-4d86-b9f2-b8cba746694f",
+        "date_posted": 1778313304,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313307,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-update-systems-fall-2026-267002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Update Systems",
+        "source": "vanshb03",
+        "id": "2829b424-7176-4f4c-af90-3a1f330a7902",
+        "date_posted": 1778313307,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313319,
+        "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, AWS Data Services",
+        "source": "vanshb03",
+        "id": "0b37a993-7095-410c-8e61-c3b6fb80ca51",
+        "date_posted": 1778313319,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313324,
+        "url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "8e3ac82d-ed8b-4b2c-a72a-f81c72943e72",
+        "date_posted": 1778313324,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778324469,
+        "url": "https://www.workatastartup.com/jobs/94400",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Dedalus Labs",
+        "title": "Forward Deployed Engineer Intern",
+        "source": "vanshb03",
+        "id": "5e3b1829-382a-4d6d-bfc5-a9d7c42323a3",
+        "date_posted": 1778324469,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778324474,
+        "url": "https://www.workatastartup.com/jobs/94211",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "DimeHealth AI",
+        "title": "Forward Deployed Engineering Intern",
+        "source": "vanshb03",
+        "id": "7a75a616-e61d-470a-9a5a-073977fbb898",
+        "date_posted": 1778324474,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778324484,
+        "url": "https://www.workatastartup.com/jobs/94206",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Astronautics",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "3db09e2f-fe2b-464b-96d1-7bdd99d7c4d8",
+        "date_posted": 1778324484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778324488,
+        "url": "https://www.workatastartup.com/jobs/93642",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Paragon",
+        "title": "Forward Deployed Engineer (FDE) Intern",
+        "source": "vanshb03",
+        "id": "e38e962d-3f90-4159-9843-d76feda85a50",
+        "date_posted": 1778324488,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
